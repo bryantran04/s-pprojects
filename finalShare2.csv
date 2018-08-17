@@ -1,0 +1,900 @@
+countryName,exchg,purpose,date1,holdID,intervalIdent,marketCap1,marketCap20,marketCapRange,propertyName,Rank,reportDate,reportingComp,significantInterval,stage,surfaceUnder,date20,within21,gainPercent,change
+Canada,BGM-TVX,Exploration,0.36,IM-17-044,866916,115.87,292.93,>100,Cariboo,2,3/28/2017,Barkerville Gold Mines Ltd.,Yes,Prefeas/Scoping,Surface,0.88,FALSE,148,increase
+Canada,BGM-TVX,Extension,0.33,IM-17-040,861104,106.23,174.08,>100,Cariboo,21,3/21/2017,Barkerville Gold Mines Ltd.,Yes,Prefeas/Scoping,Surface,0.52,FALSE,60,increase
+Canada,BGM-TVX,Extension,0.34,IM-17-027,860374,110.32,173.4,>100,Cariboo,24,3/16/2017,Barkerville Gold Mines Ltd.,Yes,Prefeas/Scoping,Surface,0.52,FALSE,54,increase
+Australia,BCN-ASX,Exploration,0.01,JD17C10,839257,13.57,29.87,>10 - 100,Jaurdi,4,1/31/2017,Beacon Minerals Limited,Yes,Target Outline,Surface,0.02,FALSE,120,increase
+Canada,FF-TSX,Extension,0.61,PC-16-306,810489,310.7,415.29,>100,Pickle Crow,51,2/3/2017,First Mining Finance Corp.,No,Reserves Development,Surface,0.82,FALSE,32,increase
+Canada,OSK-TSX,Extension,1.95,OSK-W-16-743,788673,315.67,415.01,>100,Windfall Lake,52,1/5/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,2.58,FALSE,32,increase
+Canada,HRT-TSX,Extension,0.28,WZ-17-52,847063,121.73,162.56,>100,Sugar Zone,55,2/22/2017,Harte Gold Corporation,Yes,Prefeas/Scoping,Surface,0.37,FALSE,32,increase
+USA,GSV-TVX,Extension,2.18,DS16-18,799129,482.55,635.93,>100,Railroad-Pinion,56,1/19/2017,Gold Standard Ventures Corporation,Yes,Reserves Development,Surface,2.87,FALSE,31,increase
+Canada,WDO-TSX,Extension,2.14,6143,812509,278.98,367.8,>100,Kiena,57,2/8/2017,Wesdome Gold Mines Limited,Yes,Operating,Underground,2.82,FALSE,31,increase
+Canada,OSK-TSX,Extension,2.01,OSK-W-16-760,792254,325.11,416.01,>100,Windfall Lake,67,1/11/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,2.59,FALSE,28,increase
+Canada,FF-TSX,Metallurgical,0.62,PM-DH-02,811427,315.17,407.59,>100,Springpole,69,2/6/2017,First Mining Finance Corp.,Yes,Prefeas/Scoping,Surface,0.8,FALSE,28,increase
+USA,GSV-TVX,Extension,2.23,RR16-05,801669,493.51,630.34,>100,Railroad-Pinion,73,1/23/2017,Gold Standard Ventures Corporation,Yes,Reserves Development,Surface,2.85,FALSE,27,increase
+Canada,HRT-TSX,Extension,0.4,SZ-17-143,860221,175.69,225.09,>100,Sugar Zone,76,3/16/2017,Harte Gold Corporation,Yes,Prefeas/Scoping,Surface,0.51,FALSE,26,increase
+Canada,OSK-TSX,Extension,2.99,OSK-G17-331,859291,547.08,690.95,>100,Golden Bear,77,3/15/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,3.78,FALSE,0,same
+Canada,OSK-TSX,Extension,2.36,OSK-BD-16-006,798180,378.81,475.31,>100,Black Dog,86,1/18/2017,Osisko Mining Inc.,No,Reserves Development,Surface,2.93,FALSE,0,same
+Canada,OSK-TSX,Extension,3.3,OSK-W-17-766-W1,862844,607.74,744.34,>100,Windfall Lake,91,3/22/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,4.07,FALSE,0,same
+Canada,OSK-TSX,Extension,2.4,OSK-W-16-735,802316,385.78,478.37,>100,Windfall Lake,95,1/23/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,2.95,FALSE,23,increase
+Canada,OSK-TSX,Extension,2.24,OSK-G16-213X,795057,359.94,444.81,>100,Golden Bear,96,1/16/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,2.75,FALSE,0,same
+Australia,MRP-ASX,Extension,0.07,BODH025,825539,23.03,50.57,>10 - 100,Boorara,5,2/14/2017,MacPhersons Resources Limited,Yes,Feasibility Started,Surface,0.16,FALSE,119,increase
+Mexico,TXG-TSX,Exploration,16.58,SST-01,788478,1320.3,1590.92,>100,El Limon-Guajes,104,1/5/2017,Torex Gold Resources Inc.,Yes,Operating,Surface,19.97,FALSE,20,increase
+Canada,OSK-TSX,Extension,3.45,OSK-W-16-728,873635,637.19,754.45,>100,Windfall Lake,113,3/28/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,4.12,FALSE,19,increase
+Canada,AGB-TVX,Definition,0.73,FMS-17-059,860328,126.27,149.24,>100,Fifteen Mile Stream,122,3/16/2017,Atlantic Gold Corporation,Yes,Prefeas/Scoping,Surface,0.86,FALSE,18,increase
+Suriname,IMG-TSX,Infill,3.83,SMDD17-077,867588,1768.13,2081.87,>100,Saramacca,126,3/29/2017,IAMGOLD Corporation,Yes,Exploration,Surface,4.48,FALSE,16,increase
+Canada,AGB-TVX,Infill,0.63,CH-16-061,772414,108.54,123.75,>100,Cochrane Hill,146,1/3/2017,Atlantic Gold Corporation,No,Feasibility Started,Surface,0.71,FALSE,14,increase
+Mali,RSG-ASX,Extension,1.12,SYDD446,797993,825,939.21,>100,Syama,148,1/19/2017,Resolute Mining Limited,Yes,Expansion,Underground,1.27,FALSE,13,increase
+Canada,AGB-TVX,Definition,0.73,FMS-17-021,849831,127.3,144.43,>100,Fifteen Mile Stream,153,3/1/2017,Atlantic Gold Corporation,No,Prefeas/Scoping,Surface,0.83,FALSE,13,increase
+Australia,GGP-AIMLSE,Exploration,0,ERC011,793116,3.45,5.95,<10,Ernest Giles,12,1/12/2017,Greatland Gold Plc,Yes,Target Outline,Surface,0,FALSE,67,increase
+Canada,PG-TSX,Extension,1.96,HMP151,849745,394.76,444.27,>100,Hasaga,163,3/1/2017,Premier Gold Mines Limited,Yes,Reserves Development,Surface,2.21,FALSE,12,increase
+Canada,OSK-TSX,Extension,2.59,OSK-G17-326,808920,416.01,471.76,>100,Golden Bear,164,2/1/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,2.91,FALSE,0,same
+Canada,DGC-TSX,Extension,12.79,DLD-16-346,806978,2233.46,2511.5,>100,Detour Lake,165,1/30/2017,Detour Gold Corporation,Yes,Operating,Surface,14.39,FALSE,12,increase
+Ghana,GSS-US,Infill,0.75,BS16DD013,851230,280.13,315.98,>100,Wassa,167,3/6/2017,Golden Star Resources Limited,Yes,Operating,Underground,0.84,FALSE,12,increase
+Canada,BGM-TVX,Extension,0.33,BGM-16-587,788581,106.49,119.33,>100,Cariboo,175,1/5/2017,Barkerville Gold Mines Ltd.,Yes,Prefeas/Scoping,Surface,0.37,FALSE,12,increase
+Ghana,AKG-TSX,Infill,2.33,AKPC17-016,852937,469.44,528.63,>100,Asanko,179,3/8/2017,Asanko Gold Inc.,No,Expansion,Surface,2.6,FALSE,11,increase
+Canada,RIC-TSX,Extension,7.02,MH4-4B,868844,444.07,487.87,>100,Island,199,3/30/2017,Richmont Mines Incorporated,Yes,Expansion,Surface,7.71,FALSE,9,increase
+Canada,VIT-TVX,Exploration,0.44,VBW13-02C,799074,219.08,241.31,>100,Dublin Gulch,201,1/19/2017,Victoria Gold Corp.,Yes,Feasibility Complete,Surface,0.48,FALSE,9,increase
+Mexico,GORO-US,Extension,5.38,516148,807735,305.8,334.79,>100,El Aguila,204,2/1/2017,Gold Resource Corporation,Yes,Operating,Underground,5.89,FALSE,9,increase
+Canada,KDX-TSX,Extension,5.19,32-16-005,803108,908.79,991.48,>100,True North,209,1/24/2017,Klondex Mines Ltd.,Yes,Limited Production,Underground,5.66,FALSE,9,increase
+Australia,BLK-ASX,Extension,0.34,WURC0135,772587,97.04,161.56,>10 - 100,Matilda,13,1/4/2017,Blackham Resources Limited,Yes,Operating,In Pit,0.57,FALSE,66,increase
+New Zealand,OGC-TSX,Extension,2.98,GT1035,868595,1827.14,1988.37,>100,Waihi,222,3/30/2017,OceanaGold Corporation,Yes,Operating,Surface,3.24,FALSE,8,increase
+USA,OGC-TSX,Extension,2.98,DDH0584,868515,1827.14,1988.37,>100,Haile,222,3/30/2017,OceanaGold Corporation,Yes,Operating,Surface,3.24,FALSE,8,increase
+New Zealand,OGC-TSX,Extension,2.98,RCH6341,868645,1827.14,1988.37,>100,Macraes Flat,222,3/30/2017,OceanaGold Corporation,Yes,Operating,Surface,3.24,FALSE,8,increase
+USA,NCA-TSX,Extension,0.57,CMM-128,811491,104.51,112.12,>100,Castle Mountain,232,2/6/2017,NewCastle Gold Ltd.,Yes,Prefeas/Scoping,Surface,0.61,FALSE,7,increase
+Canada,AGB-TVX,Extension,0.7,CH-16-064,791843,120.77,127.82,>100,Cochrane Hill,249,1/11/2017,Atlantic Gold Corporation,Yes,Feasibility Started,Surface,0.74,FALSE,5,increase
+USA,MAX-TSX,Extension,0.65,MGI-16-417,801663,116.13,122.55,>100,Stibnite,258,1/23/2017,Midas Gold Corporation,Yes,Prefeas/Scoping,In Pit,0.68,FALSE,5,increase
+Senegal,TGZ-TSX,Extension,3.58,MDD16-0171,806338,384.42,401.2,>100,Sabodala,267,1/29/2017,Teranga Gold Corporation,Yes,Operating,In Pit,3.74,FALSE,4,increase
+Australia,EGS-ASX,Extension,0.2,CNRC100,791012,97.79,141.65,>10 - 100,Davyhurst,30,1/10/2017,Eastern Goldfields Limited,Yes,Feasibility Started,In Pit,0.29,FALSE,44,increase
+USA,MAX-TSX,Extension,0.59,MGI-17-423,869097,106.33,110.08,>100,Stibnite,280,3/30/2017,Midas Gold Corporation,Yes,Prefeas/Scoping,Surface,0.61,FALSE,3,increase
+Colombia,R-TSX,Extension,0.61,SRD-0101,795752,146.55,150.79,>100,Santa Rosa,285,1/17/2017,Red Eagle Mining Corporation,Yes,Operating,Surface,0.62,FALSE,2,increase
+Australia,EGS-ASX,Extension,0.2,RVRC16095,793194,99.91,139.86,>10 - 100,Davyhurst,35,1/12/2017,Eastern Goldfields Limited,Yes,Feasibility Started,Surface,0.28,FALSE,39,increase
+Australia,GBR-ASX,Extension,0.09,BGP0131,792274,3.41,4.77,<10,Balagundi,37,1/12/2017,Great Boulder Resources Limited,No,Target Outline,Surface,0.13,FALSE,39,increase
+Mexico,AR-TSX,Extension,1.74,17-LCRC-490,860857,304.89,314.41,>100,La Colorada,299,3/20/2017,Argonaut Gold Inc.,Yes,Operating,Surface,1.78,FALSE,1,increase
+Mexico,GORO-US,Extension,5.34,516147,792917,302.07,309.21,>100,El Aguila,301,1/12/2017,Gold Resource Corporation,Yes,Operating,Underground,5.44,FALSE,1,increase
+Canada,AGB-TVX,Definition,0.74,PL-16-003,805214,127.74,129.93,>100,Fifteen Mile Stream,305,1/25/2017,Atlantic Gold Corporation,Yes,Prefeas/Scoping,Surface,0.75,FALSE,1,increase
+Brazil,BDR-ASX,Extension,0.24,GCRC20078,808489,252.31,294.76,>100,Tucano,307,2/2/2017,Beadell Resources Limited,Yes,Operating,Surface,0.24,FALSE,1,increase
+USA,NCA-TSX,Extension,0.55,CMM-109,792949,101.02,102.49,>100,Castle Mountain,310,1/12/2017,NewCastle Gold Ltd.,Yes,Prefeas/Scoping,Surface,0.56,FALSE,1,increase
+Mexico,PG-TSX,Extension,2.22,R16-133D,791694,447.07,453.1,>100,Mercedes,312,1/11/2017,Premier Gold Mines Limited,Yes,Operating,Surface,2.25,FALSE,1,increase
+USA,PG-TSX,Extension,2.22,PG16-28,791713,447.07,453.1,>100,McCoy/Cove,312,1/11/2017,Premier Gold Mines Limited,Yes,Reserves Development,Surface,2.25,FALSE,1,increase
+USA,PG-TSX,Definition,2.22,GB16-02,791716,447.07,453.1,>100,Goldbanks,312,1/11/2017,Premier Gold Mines Limited,No,Reserves Development,Surface,2.25,FALSE,1,increase
+Canada,AGB-TVX,Definition,0.74,CH-16-103,809004,128.54,130.14,>100,Cochrane Hill,317,2/2/2017,Atlantic Gold Corporation,No,Feasibility Started,Underground,0.75,FALSE,1,increase
+Canada,PRB-TVX,Definition,1.08,PC-16-100,851499,100.43,101.76,>100,Val-dOr East,323,3/6/2017,Probe Metals Inc.,Yes,Reserves Development,Surface,1.09,FALSE,0,same
+USA,CTGO-US,Extension,21,TET16302,799380,102.98,102.98,>100,Tetlin,350,1/19/2017,"Contango ORE, Inc.",Yes,Reserves Development,Surface,21,FALSE,0,same
+Australia,GGP-AIMLSE,Extension,0,ERC011,799430,3.62,5.43,<10,Ernest Giles,45,1/19/2017,Greatland Gold Plc,No,Target Outline,Surface,0,FALSE,35,increase
+Australia,NVO-TVX,Extension,0.61,16BSDH033,799078,56.96,76.37,>10 - 100,Blue Spec Shear,50,1/18/2017,Novo Resources Corporation,Yes,Prefeas/Scoping,Surface,0.82,FALSE,34,increase
+USA,KDX-TSX,Extension,5.46,FCU-0714,812818,956.45,935.44,>100,Fire Creek,412,2/8/2017,Klondex Mines Ltd.,Yes,Operating,Underground,5.34,FALSE,-2,decrease
+Australia,MAU-ASX,Exploration,0.03,MMJRCD-01,839987,4.98,6.46,<10,Leonora-Laverton,59,2/17/2017,Magnetic Resources NL,No,Target Outline,Surface,0.05,FALSE,30,increase
+Canada,OSK-TSX,Extension,2.98,OSK-W-16-749,836163,483.03,531.96,>100,Windfall Lake,420,2/14/2017,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,2.91,FALSE,-2,decrease
+Australia,DEG-ASX,Exploration,0.04,INRC0722,814418,6.76,8.76,<10,Indee,65,2/9/2017,De Grey Mining Limited,Yes,Closed,Surface,0.05,FALSE,29,increase
+Canada,AGB-TVX,Definition,0.73,FMS-17-013,814947,126.71,122.99,>100,Fifteen Mile Stream,430,2/10/2017,Atlantic Gold Corporation,Yes,Prefeas/Scoping,Surface,0.71,FALSE,-2,decrease
+Australia,HLX-ASX,Extension,0.03,HRAC018,801752,10.29,15.17,>10 - 100,Restdown,70,1/24/2017,Helix Resources Limited,Yes,Reserves Development,Surface,0.04,FALSE,28,increase
+USA,GORO-US,Exploration,4.52,MGAT-005,862681,256.92,248.96,>100,Mina,436,3/23/2017,Gold Resource Corporation,Yes,Target Outline,Surface,4.38,FALSE,-3,decrease
+Australia,KOR-ASX,Exploration,0.01,MGR230,814277,3.1,3.93,<10,Batchelor,75,2/10/2017,Korab Resources Limited,No,Prefeas/Scoping,Surface,0.02,FALSE,26,increase
+Mexico,ALO-TSX,Infill,3.87,AP-16-253,847233,137.55,132.16,>100,Ana Paula,449,2/23/2017,Timmins Gold Corp.,Yes,Feasibility Started,In Pit,3.72,FALSE,-3,decrease
+Ghana,RSG-ASX,Extension,1.09,BSDD040,861969,802.79,764.53,>100,Bibiani,459,3/23/2017,Resolute Mining Limited,Yes,Feasibility Complete,Surface,1.04,FALSE,-4,decrease
+Australia,AME-ASX,Extension,0.06,AHMRC002,849795,9.3,11.65,<10,Sandstone,82,3/2/2017,Alto Metals Limited,Yes,Target Outline,Surface,0.08,FALSE,25,increase
+Australia,GBR-ASX,Extension,0.11,15GYWB0004,867715,4.25,5.31,<10,Yamarna,83,3/29/2017,Great Boulder Resources Limited,No,Construction Planned,Surface,0.14,FALSE,25,increase
+Canada,BGM-TVX,Definition,0.35,IM-17-016,848888,114.56,106.23,>100,Cariboo,499,2/28/2017,Barkerville Gold Mines Ltd.,Yes,Prefeas/Scoping,Surface,0.33,FALSE,-7,decrease
+Australia,TMX-ASX,Extension,0.01,GWRC0131,791255,3.8,4.7,<10,Great Western,89,1/11/2017,Terrain Minerals Limited,Yes,Prefeas/Scoping,Surface,0.01,FALSE,23,increase
+USA,GORO-US,Extension,4.69,GMA-084,861127,266.58,246.12,>100,Gold Mesa,508,3/21/2017,Gold Resource Corporation,Yes,Target Outline,Surface,4.33,FALSE,-7,decrease
+Sweden,MND-TSX,Extension,0.66,ME6-015,806077,299.63,276.29,>100,Bjorkdal,510,1/27/2017,Mandalay Resources Corporation,Yes,Operating,Surface,0.61,FALSE,-7,decrease
+Australia,BRB-ASX,Extension,0.36,BBRC0166,806674,46.61,57.33,>10 - 100,Lake Roe,94,1/31/2017,Breaker Resources NL,Yes,Target Outline,Surface,0.44,FALSE,23,increase
+Canada,THO-TSX,Exploration,9.64,TW16-611,790920,3000.94,2752.4,>100,Whitney,517,1/9/2017,Tahoe Resources Inc.,Yes,Reserves Development,Underground,8.85,FALSE,-8,decrease
+Canada,THO-TSX,Extension,9.64,BC875-1553,789949,3000.94,2752.4,>100,Bell Creek,517,1/9/2017,Tahoe Resources Inc.,Yes,Satellite,Underground,8.85,FALSE,-8,decrease
+Canada,THO-TSX,Extension,9.64,910-208,789813,3000.94,2752.4,>100,Timmins,517,1/9/2017,Tahoe Resources Inc.,No,Operating,Underground,8.85,FALSE,-8,decrease
+Peru,THO-TSX,Extension,9.64,SHA-R15-348,789720,3000.94,2752.4,>100,Shahuindo,517,1/9/2017,Tahoe Resources Inc.,Yes,Operating,Surface,8.85,FALSE,-8,decrease
+Canada,THO-TSX,Extension,9.64,TH-16-145A,789895,3000.94,2752.4,>100,Gold River,517,1/9/2017,Tahoe Resources Inc.,Yes,Reserves Development,Surface,8.85,FALSE,-8,decrease
+Australia,MOY-ASX,Extension,0.2,DCRD0031,800402,159.21,194.73,>100,Nullagine,99,1/23/2017,Millennium Minerals Limited,Yes,Operating,Surface,0.25,FALSE,22,increase
+Mexico,AR-TSX,Extension,1.93,CI-05,847607,305.87,305.55,>100,El Castillo,548,2/23/2017,Argonaut Gold Inc.,Yes,Operating,In Pit,1.75,FALSE,-9,decrease
+USA,MAX-TSX,Extension,0.67,MGI-17-421,847297,121.49,109.79,>100,Stibnite,549,2/23/2017,Midas Gold Corporation,Yes,Prefeas/Scoping,In Pit,0.61,FALSE,-9,decrease
+Mexico,AMM-TSX,Extension,1.25,TU-16-487,812546,110.55,100.4,>100,Tuligtic,553,2/8/2017,Almaden Minerals Limited,Yes,Prefeas/Scoping,Surface,1.12,FALSE,-10,decrease
+Australia,KIN-ASX,Extension,0.14,MT16RC009,791290,16.46,19.55,>10 - 100,Leonora,117,1/11/2017,Kin Mining NL,Yes,Feasibility Started,Surface,0.17,FALSE,18,increase
+Burkina Faso,ROXG-TSX,Extension,1.21,YRM-16-DD-434,808936,448.42,402.58,>100,Yaramoko,556,2/2/2017,Roxgold Inc.,Yes,Operating,Surface,1.08,FALSE,-10,decrease
+Australia,PNR-ASX,Extension,0.13,PWRC16007,788438,97.33,115.2,>10 - 100,Halls Creek,120,1/5/2017,Pantoro Limited,No,Expansion,Surface,0.15,FALSE,18,increase
+Canada,BGM-TVX,Metallurgical,0.36,CM-17-002,846909,119.05,106.6,>100,Cariboo,562,2/22/2017,Barkerville Gold Mines Ltd.,No,Prefeas/Scoping,Surface,0.33,FALSE,-10,decrease
+USA,GSV-TVX,Extension,2.87,PIN16-04,813414,635.93,570.6,>100,Railroad-Pinion,565,2/9/2017,Gold Standard Ventures Corporation,Yes,Reserves Development,Surface,2.56,FALSE,-10,decrease
+USA,KDX-TSX,Extension,5.72,FCC-0068,847774,1003.04,892.31,>100,Fire Creek,573,2/24/2017,Klondex Mines Ltd.,Yes,Operating,Surface,5.09,FALSE,-11,decrease
+Canada,GG-US,Extension,16.62,D13892,838766,14190.35,12576.65,>100,Red Lake,580,2/15/2017,Goldcorp Incorporated,Yes,Operating,Underground,14.73,FALSE,-11,decrease
+Mexico,GG-US,Extension,16.62,GPI-270-16,839618,14190.35,12576.65,>100,Penasquito,580,2/15/2017,Goldcorp Incorporated,Yes,Expansion,Surface,14.73,FALSE,-11,decrease
+Argentina,GG-US,Extension,16.62,MDD-16089,839383,14190.35,12576.65,>100,Cerro Negro,580,2/15/2017,Goldcorp Incorporated,Yes,Operating,Underground,14.73,FALSE,-11,decrease
+Canada,GG-US,Extension,16.62,16-PQE-067,838955,14190.35,12576.65,>100,Musselwhite,580,2/15/2017,Goldcorp Incorporated,Yes,Expansion,Underground,14.73,FALSE,-11,decrease
+Canada,GG-US,Extension,16.62,22677,838995,14190.35,12576.65,>100,Porcupine,580,2/15/2017,Goldcorp Incorporated,Yes,Expansion,Underground,14.73,FALSE,-11,decrease
+Canada,GG-US,Infill,16.62,EST-16-01359,839065,14190.35,12576.65,>100,Eleonore,580,2/15/2017,Goldcorp Incorporated,No,Operating,Underground,14.73,FALSE,-11,decrease
+Canada,GG-US,Exploration,16.62,CFR1230,839194,14190.35,12576.65,>100,Coffee,580,2/15/2017,Goldcorp Incorporated,Yes,Feasibility Complete,Surface,14.73,FALSE,-11,decrease
+Canada,GG-US,Extension,16.62,BL16-1000,839019,14190.35,12576.65,>100,Borden Lake,580,2/15/2017,Goldcorp Incorporated,No,Prefeas/Scoping,Surface,14.73,FALSE,-11,decrease
+Burkina Faso,BTO-TSX,Exploration,3.4,NKDD014,825563,3278.9,2908.29,>100,Kiaka,595,2/13/2017,B2Gold Corporation,Yes,Feasibility,Surface,3,FALSE,-11,decrease
+Mali,BTO-TSX,Exploration,3.4,MSR_101,825583,3278.9,2908.29,>100,Fekola,595,2/13/2017,B2Gold Corporation,Yes,Construction Started,Surface,3,FALSE,-11,decrease
+Mexico,AGI-TSX,Infill,8.61,16YAQ196,788754,2299.11,2023.55,>100,Mulatos,599,1/6/2017,Alamos Gold Inc.,No,Operating,Surface,7.57,FALSE,-12,decrease
+Canada,GPY-TVX,Infill,1.2,3A16-082,860262,109.19,95.63,>100,3 Aces,608,3/16/2017,Golden Predator Mining Corp.,No,Target Outline,Surface,1.05,FALSE,-12,decrease
+Brazil,JAG-TSX,Extension,0.55,FTS-1324,812432,168.08,146.49,>100,Turmalina,611,2/8/2017,Jaguar Mining Inc.,Yes,Operating,Underground,0.48,FALSE,-12,decrease
+Australia,MBK-ASX,Extension,0.02,TDH106,849210,12.6,14.84,>10 - 100,Triumph,123,3/1/2017,Metal Bank Limited,No,Target Outline,Surface,0.02,FALSE,17,increase
+USA,NCA-TSX,Extension,0.59,CMM-129,846925,108.91,92.81,>100,Castle Mountain,639,2/22/2017,NewCastle Gold Ltd.,Yes,Prefeas/Scoping,In Pit,0.51,FALSE,-14,decrease
+Canada,BGM-TVX,Infill,0.37,IM-17-004,815024,121.41,103.55,>100,Cariboo,640,2/10/2017,Barkerville Gold Mines Ltd.,No,Prefeas/Scoping,Surface,0.32,FALSE,-14,decrease
+Canada,AR-TSX,Extension,2.2,MA16-RC-240,792571,348.57,295.23,>100,Magino,645,1/11/2017,Argonaut Gold Inc.,Yes,Prefeas/Scoping,In Pit,1.87,FALSE,-15,decrease
+Russia,K-TSX,Extension,3.94,KP16-1227,843181,4906.17,4076.15,>100,Kupol,656,2/15/2017,Kinross Gold Corporation,Yes,Operating,Surface,3.27,FALSE,-16,decrease
+Russia,K-TSX,Infill,3.94,Z1-16-26,843242,4906.17,4076.15,>100,Dvoinoye,656,2/15/2017,Kinross Gold Corporation,Yes,Satellite,Surface,3.27,FALSE,-16,decrease
+USA,K-TSX,Condemnation,3.94,T16-002,842757,4906.17,4076.15,>100,Bald Mountain,656,2/15/2017,Kinross Gold Corporation,Yes,Operating,Surface,3.27,FALSE,-16,decrease
+USA,K-TSX,Extension,3.94,K5-16-14,843081,4906.17,4076.15,>100,Kettle River-Buckhorn,656,2/15/2017,Kinross Gold Corporation,Yes,Operating,Underground,3.27,FALSE,-16,decrease
+Mauritania,K-TSX,Definition,3.94,TA14718RC,843279,4906.17,4076.15,>100,Tasiast,656,2/15/2017,Kinross Gold Corporation,Yes,Expansion,Surface,3.27,FALSE,-16,decrease
+Ghana,K-TSX,Extension,3.94,CHRC2446D,843292,4906.17,4076.15,>100,Chirano,656,2/15/2017,Kinross Gold Corporation,Yes,Operating,Underground,3.27,FALSE,-16,decrease
+USA,K-TSX,Definition,3.94,FFC16-1519,842930,4906.17,4076.15,>100,Fort Knox,656,2/15/2017,Kinross Gold Corporation,Yes,Operating,In Pit,3.27,FALSE,-16,decrease
+Canada,GPY-TVX,Extension,1.41,3A16-068,839140,113.14,94.33,>100,3 Aces,663,2/16/2017,Golden Predator Mining Corp.,Yes,Advanced Exploration,Surface,1.17,FALSE,-16,decrease
+Dominican Republic,GQC-TVX,Extension,0.4,TIR-16-12,868855,100.52,83.09,>100,Tireo,667,3/30/2017,GoldQuest Mining Corporation,No,Prefeas/Scoping,Surface,0.33,FALSE,-17,decrease
+Australia,RND-ASX,Exploration,1.32,KWRB16056,807089,79.57,92.4,>10 - 100,East Kundana,134,1/31/2017,Rand Mining Limited,No,Operating,Surface,1.54,FALSE,16,increase
+Senegal,TGZ-TSX,Extension,3.82,MDD17-242,848319,409.64,329.22,>100,Sabodala,693,2/27/2017,Teranga Gold Corporation,Yes,Operating,Surface,3.07,FALSE,-19,decrease
+Suriname,IMG-TSX,Exploration,4.85,SMDD16-053,835136,2200.64,1747.76,>100,Saramacca,703,2/13/2017,IAMGOLD Corporation,Yes,Exploration,Surface,3.79,FALSE,-21,decrease
+Mexico,TXG-TSX,Extension,24.17,SST-15,825079,1925.58,1503.24,>100,El Limon-Guajes,704,2/13/2017,Torex Gold Resources Inc.,Yes,Operating,In Pit,18.85,FALSE,-22,decrease
+Australia,AYR-ASX,Extension,0.01,HWAC1144,794721,5.8,6.69,<10,Horse Well,139,1/16/2017,Alloy Resources Limited,No,Reserves Development,Surface,0.01,FALSE,15,increase
+Australia,RNX-TSX,Extension,0.21,WF16-016,796798,59.18,68.23,>10 - 100,Beta Hunt,141,1/18/2017,RNC Minerals,Yes,Operating,Surface,0.25,FALSE,15,increase
+Canada,YRI-TSX,Extension,3.35,ODY14-2492,874765,3172.22,2358.49,>100,Canadian Malartic,721,2/16/2017,Yamana Gold Inc.,Yes,Operating,Underground,2.49,FALSE,-25,decrease
+Chile,YRI-TSX,Exploration,3.49,CLDFDH0018,835573,3304.61,2398.05,>100,Minera Florida,730,2/14/2017,Yamana Gold Inc.,Yes,Operating,Surface,2.53,FALSE,-27,decrease
+Argentina,YRI-TSX,Exploration,3.49,16QDR-1012,835634,3304.61,2398.05,>100,Gualcamayo,730,2/14/2017,Yamana Gold Inc.,Yes,Operating,In Pit,2.53,FALSE,-27,decrease
+Chile,YRI-TSX,Infill,3.49,UER0121,835504,3304.61,2398.05,>100,El Penon,730,2/14/2017,Yamana Gold Inc.,No,Operating,Surface,2.53,FALSE,-27,decrease
+Australia,DEG-ASX,Extension,0.03,BGRC149,791576,5.88,6.71,<10,Turner River Gold,145,1/11/2017,De Grey Mining Limited,Yes,Reserves Development,Surface,0.04,FALSE,14,increase
+Sweden,BME-TVX,Exploration,1.12,SKI16013,813503,119.84,71.92,>100,Barsele,752,2/9/2017,Barsele Minerals Corp.,Yes,Reserves Development,Surface,0.67,FALSE,-39,decrease
+Australia,GCY-ASX,Extension,0.39,DGRC237,789770,99.71,113.27,>10 - 100,Dalgaranga,150,1/10/2017,Gascoyne Resources Limited,No,Feasibility Complete,Surface,0.44,FALSE,13,increase
+Australia,MOY-ASX,Extension,0.22,FMX1314,802883,171.83,194.3,>100,Nullagine,155,1/25/2017,Millennium Minerals Limited,Yes,Operating,Surface,0.25,FALSE,13,increase
+Canada,GPY-TVX,Extension,0.58,3A16-032,799903,44.58,93.26,>10 - 100,3 Aces,7,1/19/2017,Golden Predator Mining Corp.,Yes,Advanced Exploration,Surface,1.22,FALSE,109,increase
+Australia,AAR-ASX,Exploration,0.01,FVA067,807085,3.07,3.46,<10,Feysville,157,1/31/2017,Anglo Australian Resources NL,Yes,Target Outline,Surface,0.02,FALSE,12,increase
+Brazil,BBX-ASX,Metallurgical,0.04,JED-006,848837,11.82,19.58,>10 - 100,Juma East,15,2/28/2017,BBX Minerals Limited,Yes,Target Outline,Surface,0.06,FALSE,65,increase
+Mali,OKU-ASX,Extension,0.15,RCDK017-098,850568,36.58,59.04,>10 - 100,Dandoko,19,3/3/2017,Oklo Resources Limited,Yes,Target Outline,Surface,0.24,FALSE,61,increase
+Canada,AZX-TVX,Extension,0.04,OAX-17-090,873533,17.89,30.17,>10 - 100,Orenada,23,3/29/2017,Alexandria Minerals Corporation,Yes,Prefeas/Scoping,Surface,0.06,FALSE,54,increase
+Canada,MOZ-TSX,Infill,0.58,MA-17-159,805234,68.17,99.33,>10 - 100,Valentine Lake,29,1/25/2017,Marathon Gold Corporation,No,Reserves Development,Surface,0.84,FALSE,45,increase
+Australia,KIN-ASX,Extension,0.14,MT16RC034,795032,16.25,18.34,>10 - 100,Leonora,158,1/17/2017,Kin Mining NL,Yes,Feasibility Started,Surface,0.16,FALSE,12,increase
+Canada,BTR-TVX,Extension,0.19,BA-17-01,807299,16.97,24.03,>10 - 100,Gladiator,32,1/31/2017,Bonterra Resources Inc.,Yes,Reserves Development,Surface,0.26,FALSE,40,increase
+Australia,MRP-ASX,Extension,0.18,BORC173,849466,58.54,66.08,>10 - 100,Boorara,161,3/1/2017,MacPhersons Resources Limited,No,Feasibility Started,Surface,0.21,FALSE,12,increase
+Canada,MOZ-TSX,Extension,0.43,MA-15-109 Ext,788838,50.93,71.07,>10 - 100,Valentine Lake,38,1/9/2017,Marathon Gold Corporation,Yes,Reserves Development,Surface,0.6,FALSE,39,increase
+Mexico,MGG-TVX,Exploration,0.08,GV2015-014,792203,14.86,20.24,>10 - 100,Biricu,43,1/10/2017,Minaurum Gold Inc.,No,Target Outline,Surface,0.1,FALSE,36,increase
+USA,TMI-TSX,Extension,0.16,E-16-005,791654,44.28,54.23,>10 - 100,Gold Springs,46,1/11/2017,TriMetals Mining Inc.,Yes,Prefeas/Scoping,Surface,0.22,FALSE,35,increase
+USA,NEE-TVX,Extension,0.34,WW-16,806456,34.15,46.1,>10 - 100,Moss,47,1/30/2017,Northern Vertex Mining Corp.,No,Construction Planned,In Pit,0.46,FALSE,34,increase
+Australia,BCN-ASX,Extension,0.01,GC02,865157,22.5,25.25,>10 - 100,Jaurdi,169,3/10/2017,Beacon Minerals Limited,Yes,Reserves Development,Surface,0.02,FALSE,12,increase
+Canada,GOM-TVX,Extension,0.18,MU16-01,795671,16.96,23,>10 - 100,May Mac,54,1/17/2017,Golden Dawn Minerals Inc.,No,Target Outline,Underground,0.24,FALSE,32,increase
+Dominican Republic,GQC-TVX,Extension,0.23,TIR-16-09,791025,50.61,65.91,>10 - 100,Tireo,60,1/10/2017,GoldQuest Mining Corporation,Yes,Prefeas/Scoping,Surface,0.31,FALSE,30,increase
+Canada,MOZ-TSX,Extension,0.5,MA-16-154,795099,59.34,77.18,>10 - 100,Valentine Lake,61,1/16/2017,Marathon Gold Corporation,Yes,Reserves Development,Surface,0.65,FALSE,30,increase
+Mali,OKU-ASX,Infill,0.15,M3T7905DB,858918,36.57,47.41,>10 - 100,Dandoko,63,3/15/2017,Oklo Resources Limited,No,Target Outline,Surface,0.2,FALSE,29,increase
+Canada,GWM-TVX,Extension,0.25,CS16-343,793132,14.67,18.96,>10 - 100,Clarence Stream,68,1/12/2017,Galway Metals Inc.,Yes,Reserves Development,Surface,0.32,FALSE,28,increase
+Australia,PGO-ASX,Infill,0.05,PGCL0056,788789,23.5,26.3,>10 - 100,Coolgardie,176,1/9/2017,Primary Gold Limited,No,Feasibility Started,Surface,0.06,FALSE,11,increase
+Canada,BAR-TSX,Extension,0.56,MDE-16-246B,801702,69.67,89.29,>10 - 100,Martiniere,71,1/23/2017,Balmoral Resources Ltd.,Yes,Target Outline,Surface,0.71,FALSE,28,increase
+USA,KOR-TSX,Infill,0.49,NB-16-320,811809,45.71,58.53,>10 - 100,North Bullfrog,72,2/7/2017,Corvus Gold Inc.,No,Prefeas/Scoping,Surface,0.63,FALSE,28,increase
+Canada,BAR-TSX,Extension,0.54,MDE-16-236,791929,67.48,84.84,>10 - 100,Martiniere,79,1/11/2017,Balmoral Resources Ltd.,Yes,Target Outline,Surface,0.68,FALSE,25,increase
+Ghana,CDV-ASX,Extension,0.28,NMDD062,846861,85.23,106.01,>10 - 100,Namdini,87,2/21/2017,Cardinal Resources Limited,Yes,Reserves Development,Surface,0.35,FALSE,24,increase
+Australia,BRB-ASX,Extension,0.38,BBRC0142,801765,49.4,55.28,>10 - 100,Lake Roe,186,1/24/2017,Breaker Resources NL,Yes,Target Outline,Surface,0.42,FALSE,10,increase
+Mexico,AMM-TSX,Extension,1.02,TU-16-486,798045,87.71,110.55,>10 - 100,Tuligtic,98,1/18/2017,Almaden Minerals Limited,Yes,Prefeas/Scoping,Surface,1.25,FALSE,22,increase
+Canada,GMX-TSX,Exploration,0.34,FS-16-35,797986,16.81,20.41,>10 - 100,Francoeur,100,1/18/2017,Globex Mining Enterprises Inc.,Yes,Closed,Surface,0.42,FALSE,21,increase
+Papua New Guinea,GPR-ASX,Exploration,0.02,BS16DD004,807330,28.85,34.63,>10 - 100,Woodlark Island,106,2/2/2017,Geopacific Resources Limited,Yes,Feasibility Complete,Surface,0.03,FALSE,20,increase
+Guyana,TRY-ASX,Infill,0.11,HRC239,801551,47.98,57.45,>10 - 100,Karouni,108,1/23/2017,Troy Resources Limited,No,Operating,Surface,0.13,FALSE,19,increase
+Mauritania,ALG-TVX,Extension,0.17,T16DD013,800133,21.38,25.54,>10 - 100,Tijirit,110,1/20/2017,Algold Resources Limited,No,Reserves Development,Surface,0.2,FALSE,19,increase
+Canada,TXR-TVX,Extension,0.51,TSO16-010,792310,51.82,62.12,>10 - 100,Yellowknife City,112,1/11/2017,TerraX Minerals Inc.,Yes,Reserves Development,Surface,0.61,FALSE,19,increase
+Finland,RUP-TVX,Extension,0.63,116041,791141,62.22,74.14,>10 - 100,Pahtavaara,114,1/10/2017,Rupert Resources Limited,Yes,Operating,Surface,0.75,FALSE,19,increase
+Australia,BRB-ASX,Extension,0.38,BBRC0194,864010,49.49,54.62,>10 - 100,Lake Roe,191,3/27/2017,Breaker Resources NL,Yes,Target Outline,Surface,0.42,FALSE,10,increase
+Nicaragua,CNR-AIMLSE,Extension,0.7,CCDC025,805693,37.29,44.2,>10 - 100,La India,118,1/27/2017,Condor Gold Plc,No,Prefeas/Scoping,Surface,0.84,FALSE,18,increase
+Sweden,BME-TVX,Extension,0.91,SKI16010,796086,97.27,115.27,>10 - 100,Barsele,119,1/17/2017,Barsele Minerals Corp.,Yes,Reserves Development,Surface,1.08,FALSE,18,increase
+Australia,IRC-ASX,Extension,0.08,BPRC1602,849226,16.78,18.4,>10 - 100,Baden Powell,205,3/1/2017,Intermin Resources Limited,No,Exploration,Surface,0.09,FALSE,9,increase
+Canada,BTR-TVX,Extension,0.27,BA-17-05,861053,37.77,49.33,>10 - 100,Gladiator,121,3/21/2017,Bonterra Resources Inc.,Yes,Reserves Development,Surface,0.31,FALSE,18,increase
+Australia,IRC-ASX,Extension,0.08,BDRC1603,854806,16.78,18.4,>10 - 100,Blister Dam,205,3/1/2017,Intermin Resources Limited,No,Exploration,Surface,0.09,FALSE,9,increase
+Canada,GMX-TSX,Exploration,0.35,D109952,800191,16.86,19.7,>10 - 100,Montalembert,127,1/20/2017,Globex Mining Enterprises Inc.,Yes,Exploration,Surface,0.4,FALSE,16,increase
+Canada,MOZ-TSX,Extension,0.69,MA-17-162,848910,81.12,94.57,>10 - 100,Valentine Lake,129,2/28/2017,Marathon Gold Corporation,Yes,Reserves Development,Surface,0.8,FALSE,16,increase
+Sweden,BME-TVX,Extension,0.64,CNT16032,851555,68.39,79.73,>10 - 100,Barsele,130,3/6/2017,Barsele Minerals Corp.,Yes,Reserves Development,Surface,0.75,FALSE,16,increase
+Mali,AVK-TSX,Infill,0.19,KO-SOM-RC253,854778,71.05,82.68,>10 - 100,Kalana,131,3/9/2017,Avnel Gold Mining Limited,Yes,Limited Production,In Pit,0.22,FALSE,16,increase
+Burkina Faso,WAF-ASX,Extension,0.17,TAN17-DD094,861231,84.01,97.69,>10 - 100,Sanbrado,133,3/22/2017,West African Resources Limited,Yes,Feasibility Complete,Surface,0.2,FALSE,16,increase
+Australia,IRC-ASX,Extension,0.08,WKRC1607,859226,16.78,18.4,>10 - 100,Janet Ivy South,205,3/1/2017,Intermin Resources Limited,No,Exploration,Surface,0.09,FALSE,9,increase
+Sweden,BME-TVX,Exploration,0.65,2007-07,850809,69.28,79.96,>10 - 100,Knaften,140,3/3/2017,Barsele Minerals Corp.,Yes,Exploration,Surface,0.75,FALSE,15,increase
+Australia,AHK-ASX,Extension,0.14,MPRC275,850588,6.89,7.51,<10,Mt Porter,211,3/3/2017,Ark Mines Limited,No,Construction Planned,Surface,0.15,FALSE,9,increase
+Mexico,MLN-TVX,Exploration,0.44,16TRD27,849743,75.94,86.97,>10 - 100,La Trinidad,143,3/1/2017,Marlin Gold Mining Ltd.,No,Operating,In Pit,0.5,FALSE,14,increase
+Australia,GBZ-ASX,Infill,0.01,KLRD0024,803280,8.02,8.72,<10,Mt Coolon,219,1/25/2017,GBM Resources Limited,No,Prefeas/Scoping,Surface,0.01,FALSE,8,increase
+Australia,RRL-ASX,Extension,2.43,RRLBELAC004,800175,1218.15,1322.35,>100,Duketon,220,1/23/2017,Regis Resources Limited,Yes,Target Outline,Surface,2.64,FALSE,8,increase
+Finland,DRA-ASX,Extension,0.2,KU-1566,798219,17.47,19.72,>10 - 100,Orivesi,159,1/19/2017,Dragon Mining Limited,Yes,Operating,Surface,0.22,FALSE,12,increase
+Finland,DRA-ASX,Extension,0.2,HU/JS-796,798466,17.47,19.72,>10 - 100,Jokisivu,159,1/19/2017,Dragon Mining Limited,No,Operating,Underground,0.22,FALSE,12,increase
+Australia,MAT-ASX,Extension,0.16,17LCAC195,860450,22.76,24.59,>10 - 100,Lake Carey,226,3/17/2017,Matsa Resources Limited,No,Prefeas/Scoping,Surface,0.17,FALSE,8,increase
+Dem. Rep. Congo,BAA-TSX,Exploration,1.23,NRC196,868020,37.42,42,>10 - 100,Namoya,170,3/29/2017,Banro Corporation,Yes,Operating,In Pit,1.38,FALSE,12,increase
+Australia,CMM-ASX,Extension,0.09,KBRC122,847069,43.02,51.41,>10 - 100,Karlawinda,230,2/23/2017,Capricorn Metals Ltd,No,Feasibility Started,Surface,0.09,FALSE,7,increase
+Colombia,GCM-TSX,Extension,1,M-1499A,854914,20.5,23,>10 - 100,Marmato,171,3/13/2017,Gran Colombia Gold Corporation,Yes,Operating,Underground,1.12,FALSE,12,increase
+Colombia,GCM-TSX,Infill,1,PV-IU-012,854891,20.5,23,>10 - 100,Segovia Operations,171,3/13/2017,Gran Colombia Gold Corporation,No,Expansion,Underground,1.12,FALSE,12,increase
+Turkey,AAU-AIMLSE,Extension,0.02,KRK­-RC10­-16,811423,20.21,22.67,>10 - 100,Red Rabbit,173,2/6/2017,Ariana Resources Plc,No,Construction Started,Surface,0.03,FALSE,12,increase
+Canada,PJX-TVX,Exploration,0.16,PJX_CS_1.17.2017,796182,12.04,13.49,>10 - 100,Zinger,174,1/17/2017,PJX Resources Inc.,No,Exploration,Surface,0.18,FALSE,12,increase
+Australia,KIN-ASX,Extension,0.16,HE17RC028,862155,18.57,21.02,>10 - 100,Leonora,237,3/23/2017,Kin Mining NL,Yes,Feasibility Started,Surface,0.17,FALSE,7,increase
+Canada,PGM-TVX,Extension,0.41,PG17-335,865484,78.78,88.08,>10 - 100,Madsen,178,3/27/2017,Pure Gold Mining Inc.,Yes,Prefeas/Scoping,Surface,0.46,FALSE,11,increase
+Canada,TML-TSX,Infill,0.49,TL16410,811447,50.74,56.65,>10 - 100,Goliath,180,2/6/2017,Treasury Metals Incorporated,No,Feasibility Started,Underground,0.55,FALSE,11,increase
+USA,BRD-TVX,Exploration,1.08,C17-01,850855,35.7,39.83,>10 - 100,Madison,182,3/3/2017,Broadway Gold Mining Ltd.,No,Target Outline,Surface,1.2,FALSE,11,increase
+Uruguay,OMI-TSX,Extension,0.19,SGDD16-079B,794861,18.66,20.94,>10 - 100,San Gregorio,184,1/16/2017,Orosur Mining Inc.,Yes,Operating,Underground,0.21,FALSE,11,increase
+Australia,TYX-ASX,Extension,0.02,16CBDH001,791217,7.65,8.17,<10,Jumbuck,240,1/11/2017,Tyranna Resources Limited,No,Reserves Development,Surface,0.02,FALSE,6,increase
+USA,LGD-TSX,Exploration,0.39,PGS039,791169,59.04,65.29,>10 - 100,Goldstrike,189,1/10/2017,Pilot Gold Inc.,No,Target Outline,Surface,0.44,FALSE,10,increase
+Australia,MGV-ASX,Extension,0.06,17MORC003,863858,11.39,12.02,>10 - 100,Murchison,257,3/27/2017,Musgrave Minerals Limited,No,Operating,Surface,0.07,FALSE,5,increase
+Turkey,AAU-AIMLSE,Extension,0.02,KTP-RC55-16,806479,19.72,21.76,>10 - 100,Red Rabbit,195,1/30/2017,Ariana Resources Plc,No,Construction Started,Surface,0.02,FALSE,10,increase
+Paraguay,LAT-TVX,Extension,0.15,DDH-LAT-71,799998,10.23,11.24,>10 - 100,Paso Yobai,200,1/19/2017,Latin American Minerals Inc.,No,Limited Production,In Pit,0.16,FALSE,9,increase
+Nicaragua,GRR-TVX,Extension,0.16,SA16-GEOT-4020,851989,30.75,33.68,>10 - 100,San Albino-Murra,203,3/7/2017,Golden Reign Resources Ltd.,Yes,Prefeas/Scoping,Surface,0.18,FALSE,9,increase
+Australia,KAI-ASX,Exploration,0.03,KMYD013A,813963,10.38,10.91,>10 - 100,Mt York,264,2/10/2017,Kairos Minerals Limited,No,Reserves Development,Surface,0.03,FALSE,5,increase
+Australia,ALK-ASX,Extension,0.27,WY950D,799707,137.28,142.52,>100,Tomingley,273,1/20/2017,Alkane Resources Limited,Yes,Operating,In Pit,0.28,FALSE,3,increase
+Australia,GBZ-ASX,Extension,0.01,GLD0002,861493,9.42,10.33,<10,Mt Coolon,279,3/22/2017,GBM Resources Limited,Yes,Prefeas/Scoping,Surface,0.01,FALSE,3,increase
+Canada,RPX-TVX,Extension,0.1,SD-16-40,802559,11,23.17,>10 - 100,Wawa,208,1/24/2017,Red Pine Exploration Inc.,Yes,Reserves Development,Surface,0.11,FALSE,9,increase
+Brazil,TSG-TVX,Extension,0.19,CSH-16-149,788785,25.14,27.99,>10 - 100,Castelo de Sonhos,212,1/6/2017,"TriStar Gold, Inc.",No,Reserves Development,Surface,0.2,FALSE,9,increase
+Ghana,CDV-ASX,Extension,0.27,NMDD051,811530,83.56,91.12,>10 - 100,Namdini,213,2/7/2017,Cardinal Resources Limited,Yes,Reserves Development,Surface,0.3,FALSE,9,increase
+USA,PZG-US,Extension,1.78,GM16-02,806815,27.93,34.49,>10 - 100,Grassy Mountain,214,1/30/2017,Paramount Gold Nevada Corporation,Yes,Prefeas/Scoping,Surface,1.94,FALSE,8,increase
+Peru,MIRL-CNQ,Extension,0.13,DDH16-T11,834899,30.06,32.76,>10 - 100,Ollachea,215,2/13/2017,Minera IRL Limited,Yes,Construction Planned,Underground,0.14,FALSE,8,increase
+USA,OOO-TVX,Extension,0.22,15 OKR-309,814082,28.72,34.73,>10 - 100,Kilgore,217,2/9/2017,Otis Gold Corporation,Yes,Reserves Development,Surface,0.24,FALSE,8,increase
+Australia,IPT-ASX,Extension,0.02,CMIPT048,844914,14.52,14.94,>10 - 100,Commonwealth,281,2/22/2017,Impact Minerals Limited,Yes,Reserves Development,Surface,0.02,FALSE,2,increase
+Canada,MTO-TVX,Extension,0.46,14-175,809214,20.13,21.63,>10 - 100,Bachelor Lake,228,2/2/2017,Metanor Resources Inc.,Yes,Operating,Underground,0.49,FALSE,7,increase
+Chile,AGD-ASX,Infill,0.12,AM-082,803193,61.03,65.56,>10 - 100,Amancaya,229,1/25/2017,Austral Gold Limited,No,Feasibility Started,Surface,0.13,FALSE,7,increase
+Australia,S2R-ASX,Extension,0.21,SPBD0358,815234,50.97,52.13,>10 - 100,Polar Bear,292,2/13/2017,S2 Resources Limited,No,Reserves Development,Surface,0.21,FALSE,2,increase
+Canada,SOI-TVX,Extension,0.32,CH16-088,796734,35.92,38.51,>10 - 100,Cheechoo,234,1/17/2017,Sirios Resources Inc.,Yes,Target Outline,Surface,0.35,FALSE,7,increase
+Canada,MQR-TVX,Exploration,0.33,CR-16-506,791659,43.39,46.51,>10 - 100,Croinor,235,1/11/2017,Monarques Gold Corporation,No,Prefeas/Scoping,Surface,0.36,FALSE,7,increase
+Canada,PGM-TVX,Extension,0.4,PG16-290,792177,69.28,74.24,>10 - 100,Madsen,236,1/11/2017,Pure Gold Mining Inc.,No,Prefeas/Scoping,Surface,0.43,FALSE,7,increase
+Australia,GOR-ASX,Extension,0.44,16SYRC0087,795933,387.57,395.8,>100,Yamarna,295,1/17/2017,Gold Road Resources Limited,Yes,Construction Planned,Surface,0.45,FALSE,2,increase
+Canada,ER-TSX,Extension,0.4,EM16-92,799179,69.7,74.62,>10 - 100,Eastmain,239,1/19/2017,Eastmain Resources Inc.,Yes,Reserves Development,Surface,0.43,FALSE,7,increase
+Canada,GWM-TVX,Extension,0.29,CS 16-346,807701,16.96,18.19,>10 - 100,Clarence Stream,241,2/1/2017,Galway Metals Inc.,Yes,Reserves Development,Surface,0.31,FALSE,6,increase
+Guyana,AQI-ASX,Exploration,0.15,XETR007,807046,13.32,14.31,>10 - 100,Arakaka,243,1/31/2017,Alicanto Minerals Limited,Yes,Target Outline,Surface,0.16,FALSE,6,increase
+Canada,ANX-TSX,Extension,0.05,AE-16-40,797826,11.21,11.93,>10 - 100,Point Rousse,244,1/18/2017,Anaconda Mining Inc.,Yes,Operating,Surface,0.06,FALSE,6,increase
+Burkina Faso,ORE-TVX,Definition,0.5,TYD0041,796012,77.31,82.1,>10 - 100,Bombore,247,1/17/2017,Orezone Gold Corporation,Yes,Construction Planned,Surface,0.53,FALSE,6,increase
+Burkina Faso,SCA-TVX,Extension,0.07,HE-RCD-16-56_RC,797709,11.74,12.41,>10 - 100,Karankasso,252,1/17/2017,Savary Gold Corp.,Yes,Reserves Development,Surface,0.07,FALSE,5,increase
+Ecuador,TIM-TVX,Extension,0.3,CMLP-16-14,789136,15.44,16.31,>10 - 100,La Plata,253,1/9/2017,Toachi Mining Inc.,Yes,Prefeas/Scoping,Surface,0.32,FALSE,5,increase
+Dem. Rep. Congo,ANL-ASX,Infill,0.02,GRRC204,853390,23.71,25.04,>10 - 100,Giro,256,3/9/2017,Amani Gold Limited,No,Target Outline,Surface,0.02,FALSE,5,increase
+Australia,KZR-ASX,Exploration,0.13,MJAZRC061,867348,10.81,10.99,>10 - 100,Snake Well,306,3/29/2017,Kalamazoo Resources Limited,No,Prefeas/Scoping,Surface,0.13,FALSE,1,increase
+Papua New Guinea,KNT-TVX,Extension,0.74,GCDD0020a,806305,88.43,93.24,>10 - 100,Kainantu,259,1/27/2017,K92 Mining Inc.,Yes,Operating,Surface,0.78,FALSE,5,increase
+Turkey,AAU-AIMLSE,Extension,0.02,KTP­RC49­-16,802540,20.24,21.33,>10 - 100,Red Rabbit,261,1/24/2017,Ariana Resources Plc,No,Construction Started,Surface,0.02,FALSE,5,increase
+Burkina Faso,KMT-TVX,Extension,0.3,201709151,867723,19.79,20.8,>10 - 100,Guiro,262,3/29/2017,Komet Resources Inc.,No,Operating,Surface,0.31,FALSE,5,increase
+Colombia,OMI-TSX,Extension,0.2,MAP-48,799110,19.86,21.06,>10 - 100,Anza,263,1/19/2017,Orosur Mining Inc.,Yes,Target Outline,Surface,0.21,FALSE,5,increase
+Australia,AUC-ASX,Extension,0.02,BSRC0748,862145,7.26,7.35,<10,Katanning,316,3/23/2017,Ausgold Limited,No,Prefeas/Scoping,Surface,0.02,FALSE,1,increase
+Canada,RPX-TVX,Extension,0.11,SD-16-44,811701,22.28,28.54,>10 - 100,Wawa,271,2/7/2017,Red Pine Exploration Inc.,Yes,Reserves Development,Surface,0.11,FALSE,3,increase
+Papua New Guinea,GPR-ASX,Exploration,0.03,BS16DD001,802762,33.32,34.51,>10 - 100,Woodlark Island,277,1/25/2017,Geopacific Resources Limited,No,Feasibility Complete,Surface,0.03,FALSE,3,increase
+Canada,MQR-TVX,Extension,0.28,CR-17-524,865054,40.28,41.95,>10 - 100,Croinor,278,3/27/2017,Monarques Gold Corporation,No,Prefeas/Scoping,Surface,0.29,FALSE,3,increase
+Australia,IRC-ASX,Extension,0.09,TRC1687,798018,17.1,17.4,>10 - 100,Binduli North,318,1/18/2017,Intermin Resources Limited,Yes,Preproduction,Surface,0.09,FALSE,1,increase
+USA,OOO-TVX,Extension,0.21,16 OKC-353,799576,27.91,28.72,>10 - 100,Kilgore,282,1/19/2017,Otis Gold Corporation,Yes,Reserves Development,Surface,0.22,FALSE,2,increase
+Canada,SOI-TVX,Exploration,0.31,CH-17-95,851713,35.31,36.24,>10 - 100,Cheechoo,284,3/6/2017,Sirios Resources Inc.,Yes,Target Outline,Surface,0.32,FALSE,2,increase
+USA,ZNC-ASX,Exploration,0.08,ZM_CS_1.13.2017,793128,13.7,14.04,>10 - 100,Burro Creek,288,1/13/2017,Zenith Minerals Limited,No,Reserves Development,Surface,0.08,FALSE,2,increase
+USA,LGD-TSX,Exploration,0.45,PGS170,807686,66.81,68.41,>10 - 100,Goldstrike,290,2/1/2017,Pilot Gold Inc.,No,Target Outline,Surface,0.46,FALSE,2,increase
+Australia,IRC-ASX,Exploration,0.08,PFRC16121,807225,15.76,15.97,>10 - 100,Binduli North,324,2/1/2017,Intermin Resources Limited,Yes,Preproduction,Surface,0.08,FALSE,0,same
+Burkina Faso,WAF-ASX,Extension,0.18,TAN17-DD102,868285,88.93,90.82,>10 - 100,Sanbrado,294,3/30/2017,West African Resources Limited,Yes,Feasibility Complete,Underground,0.19,FALSE,2,increase
+Finland,RUP-TVX,Exploration,0.82,116051,798071,81.11,82.82,>10 - 100,Pahtavaara,296,1/18/2017,Rupert Resources Limited,No,Operating,Underground,0.84,FALSE,2,increase
+Canada,MD-TVX,Extension,0.82,ME_CS1_1-18-2017,797876,46.31,47.28,>10 - 100,Willbob,296,1/18/2017,Midland Exploration Inc.,No,Target Outline,Surface,0.84,FALSE,2,increase
+Canada,GMX-TSX,Definition,0.43,RJK17-04,811863,21.19,21.62,>10 - 100,Maude Lake,298,2/7/2017,Globex Mining Enterprises Inc.,Yes,Reserves Development,Surface,0.44,FALSE,2,increase
+Australia,GBZ-ASX,Infill,0.01,GLD0001,849194,9.39,9.42,<10,Mt Coolon,340,3/1/2017,GBM Resources Limited,No,Prefeas/Scoping,Surface,0.01,FALSE,0,same
+Canada,MTO-TVX,Extension,0.45,14-170,793100,19.84,20.13,>10 - 100,Bachelor Lake,309,1/12/2017,Metanor Resources Inc.,Yes,Operating,Underground,0.46,FALSE,1,increase
+Tanzania,SHG-AIMLSE,Exploration,0.11,SGR090,853284,64.83,65.76,>10 - 100,Lupa,311,3/8/2017,Shanta Gold Limited,Yes,Exploration,Surface,0.11,FALSE,1,increase
+Honduras,IMII-US,Exploration,0.5,CMCS-12,789167,25.51,25.87,>10 - 100,Clavo Rico,315,1/9/2017,"Inception Mining, Inc.",Yes,Operating,In Pit,0.51,FALSE,1,increase
+Australia,MXR-ASX,Extension,0,MXLWRC003,849537,5.63,5.65,<10,Spargoville,341,3/1/2017,Maximus Resources Limited,No,Reserves Development,Surface,0,FALSE,0,same
+Australia,KIN-ASX,Extension,0.16,KY17RC010,813013,18.82,19.44,>10 - 100,Leonora,349,2/9/2017,Kin Mining NL,Yes,Feasibility Started,Surface,0.16,FALSE,0,same
+Canada,IVS-TVX,Extension,0.15,PD-17-13,866977,15,15.12,>10 - 100,Pardo,331,3/28/2017,Inventus Mining Corp.,No,Target Outline,Surface,0.15,FALSE,0,same
+Canada,MQR-TVX,Exploration,0.34,CR-16-512,799292,44.3,44.51,>10 - 100,Croinor,335,1/19/2017,Monarques Gold Corporation,Yes,Prefeas/Scoping,Surface,0.34,FALSE,0,same
+USA,KOR-TSX,Extension,0.63,NB-17-332,858730,58.37,58.62,>10 - 100,North Bullfrog,336,3/14/2017,Corvus Gold Inc.,Yes,Prefeas/Scoping,Surface,0.63,FALSE,0,same
+Kyrgyzstan,WCN-ASX,Extension,0.01,ERC16-33,853015,11.42,11.46,>10 - 100,Aucu,338,3/7/2017,White Cliff Minerals Limited,No,Reserves Development,Surface,0.01,FALSE,0,same
+Guyana,AQI-ASX,Exploration,0.14,XETR007,851595,12.21,12.34,>10 - 100,Arakaka,337,3/7/2017,Alicanto Minerals Limited,Yes,Target Outline,Surface,0.14,FALSE,0,same
+Canada,AZX-TVX,Extension,0.04,OAX-17-084,850247,17.94,17.94,>10 - 100,Orenada,362,3/2/2017,Alexandria Minerals Corporation,Yes,Prefeas/Scoping,In Pit,0.04,FALSE,0,same
+Canada,ER-TSX,Infill,0.38,ER16-608,772736,66.7,66.64,>10 - 100,Clearwater,363,1/4/2017,Eastmain Resources Inc.,No,Prefeas/Scoping,In Pit,0.38,FALSE,0,same
+Brazil,TSG-TVX,Extension,0.2,CSH-16-152,810580,28.15,27.98,>10 - 100,Castelo de Sonhos,368,2/3/2017,"TriStar Gold, Inc.",No,Reserves Development,Surface,0.2,FALSE,0,same
+Canada,RPX-TVX,Extension,0.1,U1650L5,799128,10.77,20.64,>10 - 100,Wawa,371,1/19/2017,Red Pine Exploration Inc.,Yes,Reserves Development,Surface,0.1,FALSE,0,same
+Finland,RUP-TVX,Extension,0.98,116231,849690,99.15,98.3,>10 - 100,Pahtavaara,380,3/1/2017,Rupert Resources Limited,Yes,Operating,In Pit,0.98,FALSE,0,same
+Canada,ER-TSX,Infill,0.36,ER17-695,868374,62.93,62.33,>10 - 100,Clearwater,382,3/29/2017,Eastmain Resources Inc.,No,Prefeas/Scoping,Surface,0.36,FALSE,0,same
+Canada,MOZ-TSX,Extension,0.76,MA-17-165,854873,89.4,89.76,>10 - 100,Valentine Lake,384,3/13/2017,Marathon Gold Corporation,Yes,Reserves Development,Surface,0.75,FALSE,0,same
+Mali,KMT-TVX,Exploration,0.31,Km2016rc06,865221,20.79,20.46,>10 - 100,Moussala,394,3/27/2017,Komet Resources Inc.,Yes,Target Outline,Surface,0.31,FALSE,-1,decrease
+Canada,MOZ-TSX,Infill,0.84,MA-17-160,825106,99.35,97.75,>10 - 100,Valentine Lake,395,2/13/2017,Marathon Gold Corporation,No,Reserves Development,Surface,0.83,FALSE,-1,decrease
+Mali,OKU-ASX,Extension,0.15,RCDK016-059,843917,37.01,36.41,>10 - 100,Dandoko,396,2/20/2017,Oklo Resources Limited,Yes,Target Outline,Surface,0.15,FALSE,-1,decrease
+USA,TMI-TSX,Extension,0.21,E-16-008,850201,52.04,51.87,>10 - 100,Gold Springs,399,3/2/2017,TriMetals Mining Inc.,Yes,Prefeas/Scoping,Surface,0.21,FALSE,-1,decrease
+Canada,ER-TSX,Infill,0.36,ER17-674,851646,62.81,61.66,>10 - 100,Clearwater,400,3/6/2017,Eastmain Resources Inc.,No,Prefeas/Scoping,Surface,0.35,FALSE,-1,decrease
+Australia,GOR-ASX,Extension,0.43,16SYRC0091,844445,374.72,373.14,>100,South Yamarna,366,2/21/2017,Gold Road Resources Limited,No,Target Outline,Surface,0.43,FALSE,0,same
+Australia,GCY-ASX,Extension,0.39,DGRC297,854937,146,146.16,>100,Dalgaranga,375,3/14/2017,Gascoyne Resources Limited,Yes,Feasibility Complete,Surface,0.39,FALSE,0,same
+Australia,CMY-ASX,Extension,0.01,42857,835394,2.74,2.71,<10,Mayfield,377,2/15/2017,Capital Mining Limited,No,Reserves Development,Surface,0.01,FALSE,0,same
+Australia,AMI-ASX,Extension,0.17,HRUD409,844382,73.97,73.49,>10 - 100,Hera,390,2/21/2017,Aurelia Metals Limited,Yes,Expansion,Underground,0.17,FALSE,-1,decrease
+Canada,MTO-TVX,Extension,0.49,E16-120,847292,21.63,21.2,>10 - 100,Bachelor Lake,408,2/23/2017,Metanor Resources Inc.,Yes,Operating,Underground,0.48,FALSE,-1,decrease
+Australia,FML-ASX,Extension,0.4,KARC224,805136,73.49,72.05,>10 - 100,Laverton,404,1/25/2017,Focus Minerals Limited,Yes,Reserves Development,Surface,0.39,FALSE,-1,decrease
+Finland,MAW-TSX,Extension,0.31,PAL0033,851715,32.6,31.89,>10 - 100,Rompas,410,3/6/2017,Mawson Resources Limited,No,Target Outline,Surface,0.3,FALSE,-2,decrease
+Australia,FML-ASX,Infill,0.4,TND16099,805178,73.49,72.05,>10 - 100,Coolgardie,404,1/25/2017,Focus Minerals Limited,No,Reserves Development,Surface,0.39,FALSE,-1,decrease
+Australia,KIN-ASX,Extension,0.15,EL17RC003,852287,17.94,17.59,>10 - 100,Leonora,406,3/8/2017,Kin Mining NL,Yes,Feasibility Started,Surface,0.15,FALSE,-1,decrease
+USA,MLN-TVX,Metallurgical,0.46,17CDDH10,808926,79.32,77.38,>10 - 100,Commonwealth,422,2/2/2017,Marlin Gold Mining Ltd.,No,Prefeas/Scoping,Surface,0.45,FALSE,-2,decrease
+Guyana,SSP-TVX,Infill,0.4,SOD090,825195,45.37,44.24,>10 - 100,Toroparu,423,2/13/2017,Sandspring Resources Limited,Yes,Feasibility Started,Surface,0.39,FALSE,-2,decrease
+Finland,DRA-ASX,Extension,0.26,KU-1564,849943,23.23,22.62,>10 - 100,Orivesi,425,3/1/2017,Dragon Mining Limited,Yes,Operating,Surface,0.25,FALSE,-2,decrease
+Ethiopia,EAM-TVX,Infill,0.22,WMD064,865043,30.36,29.53,>10 - 100,Adyabo,426,3/27/2017,East Africa Metals Inc.,No,Reserves Development,Surface,0.21,FALSE,-2,decrease
+Ethiopia,EAM-TVX,Exploration,0.22,HD011,865023,30.36,29.53,>10 - 100,Harvest,426,3/27/2017,East Africa Metals Inc.,Yes,Reserves Development,Surface,0.21,FALSE,-2,decrease
+Australia,EXC-ASX,Exploration,0.04,EXRC098,810727,13.44,13.17,>10 - 100,Linden,407,2/6/2017,Exterra Resources Limited,No,Construction Started,Surface,0.04,FALSE,-1,decrease
+Australia,MRP-ASX,Extension,0.07,BORC164,796715,22.25,21.78,>10 - 100,Boorara,409,1/18/2017,MacPhersons Resources Limited,Yes,Feasibility Started,Surface,0.07,FALSE,-2,decrease
+Russia,KOPY-OME,Extension,0.16,141808,870536,12.55,12.17,>10 - 100,Krasny,435,3/29/2017,Kopy Goldfields AB,No,Prefeas/Scoping,Surface,0.15,FALSE,-3,decrease
+Canada,IVS-TVX,Extension,0.14,PD-17-04,849929,14.43,13.93,>10 - 100,Pardo,441,3/1/2017,Inventus Mining Corp.,Yes,Target Outline,Surface,0.14,FALSE,-3,decrease
+Papua New Guinea,GPR-ASX,Extension,0.03,10WBSD004,846293,34.63,33.34,>10 - 100,Woodlark Island,445,2/23/2017,Geopacific Resources Limited,Yes,Feasibility Complete,Surface,0.03,FALSE,-3,decrease
+Canada,ER-TSX,Infill,0.38,ER16-662,811785,66.78,64.29,>10 - 100,Clearwater,446,2/7/2017,Eastmain Resources Inc.,No,Prefeas/Scoping,Underground,0.37,FALSE,-3,decrease
+Canada,SOI-TVX,Extension,0.35,CH-16-93,811844,38.51,37.43,>10 - 100,Cheechoo,451,2/7/2017,Sirios Resources Inc.,Yes,Target Outline,Surface,0.33,FALSE,-4,decrease
+Australia,TYX-ASX,Exploration,0.02,12WDGC089,808577,8.14,7.96,<10,Wilcherry Hill,411,2/2/2017,Tyranna Resources Limited,Yes,Feasibility,Surface,0.02,FALSE,-2,decrease
+Canada,GOM-TVX,Extension,0.28,MU17-08,847156,27.97,27.19,>10 - 100,May Mac,456,2/23/2017,Golden Dawn Minerals Inc.,No,Target Outline,Underground,0.27,FALSE,-4,decrease
+Australia,MZM-ASX,Extension,0.13,YARC065,811610,11.15,10.91,>10 - 100,Yamarna,413,2/7/2017,Montezuma Mining Company Limited,No,Target Outline,Surface,0.13,FALSE,-2,decrease
+Mongolia,ERD-TSX,Extension,0.65,BKD-90,791036,82.53,78.5,>10 - 100,Altan Nar,463,1/10/2017,Erdene Resource Development Corporation,Yes,Reserves Development,Surface,0.62,FALSE,-4,decrease
+Canada,ECR-TVX,Extension,0.18,CH16-02,797883,19.83,18.84,>10 - 100,Chimo,465,1/18/2017,Cartier Resources Inc.,No,Reserves Development,Underground,0.17,FALSE,-5,decrease
+Canada,MQR-TVX,Exploration,0.35,CR-16-521,809280,45.8,44.9,>10 - 100,Croinor,468,2/2/2017,Monarques Gold Corporation,Yes,Prefeas/Scoping,Surface,0.33,FALSE,-5,decrease
+Russia,KOPY-OME,Extension,0.18,141750,814589,14.72,13.95,>10 - 100,Krasny,472,2/9/2017,Kopy Goldfields AB,Yes,Prefeas/Scoping,Surface,0.17,FALSE,-5,decrease
+Canada,AZX-TVX,Extension,0.04,OAX-17-090,851689,17.86,16.93,>10 - 100,Orenada,473,3/6/2017,Alexandria Minerals Corporation,Yes,Prefeas/Scoping,Surface,0.04,FALSE,-5,decrease
+USA,CTGO-US,Extension,19,TET17313,861031,93.17,88.22,>10 - 100,Tetlin,474,3/20/2017,"Contango ORE, Inc.",Yes,Reserves Development,Surface,17.99,FALSE,-5,decrease
+USA,WKM-TVX,Extension,0.06,HoG17-001,860423,20.6,19.44,>10 - 100,Hasbrouck,481,3/16/2017,West Kirkland Mining Inc.,Yes,Prefeas/Scoping,Surface,0.06,FALSE,-5,decrease
+Canada,GMX-TSX,Exploration,0.45,FS-16-35,805268,21.88,20.54,>10 - 100,Francoeur,485,1/25/2017,Globex Mining Enterprises Inc.,Yes,Exploration,Surface,0.42,FALSE,-6,decrease
+Senegal,BSR-ASX,Extension,0.02,RCS540,867487,27.83,27,>10 - 100,Makabingui,486,3/29/2017,Bassari Resources Limited,Yes,Feasibility Complete,In Pit,0.01,FALSE,-6,decrease
+Australia,CMM-ASX,Infill,0.08,KBRC719,794897,38.3,37.44,>10 - 100,Karlawinda,414,1/16/2017,Capricorn Metals Ltd,No,Feasibility Started,In Pit,0.08,FALSE,-2,decrease
+USA,MLN-TVX,Metallurgical,0.47,16CDDH01,806458,81.69,76.51,>10 - 100,Commonwealth,488,1/30/2017,Marlin Gold Mining Ltd.,No,Prefeas/Scoping,Surface,0.44,FALSE,-6,decrease
+Canada,RDS-TVX,Extension,0.12,OB-16-19,849901,12.92,12.01,>10 - 100,O'Brien,495,3/1/2017,Radisson Mining Resources Inc.,No,Prefeas/Scoping,Surface,0.11,FALSE,-7,decrease
+Australia,MXR-ASX,Infill,0,MXENRC035,839303,3.76,3.67,<10,Spargoville,416,2/17/2017,Maximus Resources Limited,No,Reserves Development,Surface,0,FALSE,-2,decrease
+Canada,GGM-TVX,Extension,0.06,GR-16-14,797749,23.02,20.64,>10 - 100,Granada,500,1/18/2017,Granada Gold Mine Inc.,Yes,Prefeas/Scoping,Surface,0.05,FALSE,-7,decrease
+Nicaragua,CXB-TVX,Exploration,0.19,HU16-031,863809,57.79,54.2,>10 - 100,Borosi,502,3/23/2017,Calibre Mining Corporation,Yes,Reserves Development,Surface,0.17,FALSE,-7,decrease
+Australia,SAR-ASX,Extension,0.9,NMPDD8,811460,730.72,713.77,>100,Pinnacles,418,2/7/2017,Saracen Mineral Holdings Limited,Yes,Reserves Development,Surface,0.88,FALSE,-2,decrease
+Canada,GOM-TVX,Extension,0.28,MU17-10,851386,28.8,26.64,>10 - 100,May Mac,507,3/6/2017,Golden Dawn Minerals Inc.,No,Target Outline,Underground,0.26,FALSE,-7,decrease
+USA,PGLC-US,Extension,3.35,RC16-490,789968,95.1,87.44,>10 - 100,Relief Canyon,514,1/9/2017,Pershing Gold Corporation,No,Prefeas/Scoping,In Pit,3.08,FALSE,-8,decrease
+Australia,PNR-ASX,Extension,0.14,WNRC1109,859314,104.71,101.72,>100,Halls Creek,429,3/16/2017,Pantoro Limited,Yes,Expansion,Surface,0.14,FALSE,-2,decrease
+Australia,AME-ASX,Exploration,0.07,AHMAC010,835350,10.7,10.38,>10 - 100,Sandstone,431,2/15/2017,Alto Metals Limited,Yes,Target Outline,Surface,0.07,FALSE,-2,decrease
+Australia,EXU-ASX,Extension,0.05,THRC107,798652,18.95,18.38,>10 - 100,Tampia,433,1/19/2017,Explaurum Limited,No,Prefeas/Scoping,Surface,0.05,FALSE,-3,decrease
+Australia,EGS-ASX,Extension,0.29,RVDD16042,802641,144.05,139.69,>100,Davyhurst,434,1/25/2017,Eastern Goldfields Limited,No,Feasibility Started,Surface,0.28,FALSE,-3,decrease
+Canada,AVA-TVX,Extension,0.28,16-149,846973,36.4,33.85,>10 - 100,Douay West,533,2/22/2017,Aurvista Gold Corporation,Yes,Prefeas/Scoping,Surface,0.25,FALSE,-9,decrease
+Australia,GGP-AIMLSE,Exploration,0,WTR038,807110,6.33,6.76,<10,Warrentinna,443,1/31/2017,Greatland Gold Plc,No,Target Outline,Surface,0,FALSE,-3,decrease
+Australia,DCN-ASX,Extension,1.91,16JUAC0568,800259,288.31,277.24,>100,Mt Morgans,448,1/23/2017,Dacian Gold Limited,No,Construction Started,Surface,1.84,FALSE,-3,decrease
+Canada,BAR-TSX,Extension,0.69,MDE-16-256,809197,86.35,78.04,>10 - 100,Martiniere,546,2/2/2017,Balmoral Resources Ltd.,Yes,Target Outline,Surface,0.62,FALSE,-9,decrease
+Australia,GMD-ASX,Extension,0.02,16USAC273,802799,11.19,10.72,>10 - 100,Ulysses,453,1/25/2017,Genesis Minerals Limited,No,Limited Production,Surface,0.01,FALSE,-4,decrease
+Papua New Guinea,KNT-TVX,Exploration,0.82,K92RC_08010,813896,97.96,87.72,>10 - 100,Kainantu,561,2/9/2017,K92 Mining Inc.,No,Operating,Surface,0.73,FALSE,-10,decrease
+Burkina Faso,SCA-TVX,Extension,0.07,HE-RC-17-019,851005,12.21,10.9,>10 - 100,Karankasso,566,3/3/2017,Savary Gold Corp.,Yes,Reserves Development,Surface,0.06,FALSE,-10,decrease
+Canada,RPX-TVX,Extension,0.1,DG-17-56,850805,26,23.2,>10 - 100,Wawa,567,3/3/2017,Red Pine Exploration Inc.,Yes,Reserves Development,Surface,0.09,FALSE,-10,decrease
+Canada,RDS-TVX,Extension,0.13,OB16-12,835037,14.27,12.73,>10 - 100,O'Brien,568,2/14/2017,Radisson Mining Resources Inc.,Yes,Prefeas/Scoping,Surface,0.12,FALSE,-10,decrease
+Australia,KIN-ASX,Extension,0.16,MT17RC038,810938,18.47,17.57,>10 - 100,Leonora,461,2/6/2017,Kin Mining NL,Yes,Feasibility Started,Surface,0.15,FALSE,-4,decrease
+Senegal,BSR-ASX,Extension,0.02,RCM103,805666,44.06,39.27,>10 - 100,Makabingui,571,1/27/2017,Bassari Resources Limited,Yes,Feasibility Complete,Surface,0.02,FALSE,-10,decrease
+Burkina Faso,GMR-ASX,Discovery,0.01,BABAC011,847841,12.36,11,>10 - 100,Babonga,574,2/27/2017,Golden Rim Resources Limited,No,Target Outline,Surface,0.01,FALSE,-11,decrease
+Argentina,MRZ-TVX,Exploration,1.51,MR_02_02.17.2017,843478,73.81,65.45,>10 - 100,Claudia,575,2/17/2017,Mirasol Resources Ltd.,No,Target Outline,Surface,1.34,FALSE,-11,decrease
+Fiji,LIO-TVX,Infill,0.68,TUDDH 419,835920,69.15,61.49,>10 - 100,Tuvatu,576,2/14/2017,Lion One Metals Limited,No,Prefeas/Scoping,Surface,0.6,FALSE,-11,decrease
+Australia,GCY-ASX,Extension,0.47,DGRC276,802734,121.47,119.65,>100,Dalgaranga,479,1/25/2017,Gascoyne Resources Limited,Yes,Feasibility Complete,Surface,0.45,FALSE,-5,decrease
+Australia,TNR-ASX,Exploration,0.11,ZRB504,851685,11.21,10.5,>10 - 100,Zuleika,487,3/7/2017,Torian Resources Limited,No,Target Outline,Surface,0.11,FALSE,-6,decrease
+Australia,SLR-ASX,Extension,0.45,17MORC003,863856,226.46,212.04,>100,Moyagee,489,3/27/2017,Silver Lake Resources Limited,No,Reserves Development,Surface,0.42,FALSE,-6,decrease
+USA,KOR-TSX,Extension,0.71,NB-17-329,847348,65.15,56.98,>10 - 100,North Bullfrog,604,2/23/2017,Corvus Gold Inc.,Yes,Prefeas/Scoping,Surface,0.62,FALSE,-12,decrease
+Australia,ALY-ASX,Exploration,0.01,OFDD-001,867454,3.35,3.13,<10,Overflow,491,3/29/2017,Alchemy Resources Limited,Yes,Target Outline,Surface,0.01,FALSE,-6,decrease
+Australia,AUC-ASX,Extension,0.02,BSRC0742,825326,8.57,7.98,<10,Katanning,492,2/14/2017,Ausgold Limited,No,Prefeas/Scoping,Surface,0.02,FALSE,-6,decrease
+Australia,GTE-ASX,Extension,0.01,IFRC005,845330,7.06,6.56,<10,Ives Find,493,2/22/2017,Great Western Exploration Limited,Yes,Target Outline,Surface,0.01,FALSE,-7,decrease
+Senegal,BSR-ASX,Extension,0.02,RCM084,803250,40.09,34.87,>10 - 100,Makabingui,614,1/25/2017,Bassari Resources Limited,Yes,Feasibility Complete,Surface,0.02,FALSE,-13,decrease
+Australia,MGV-ASX,Extension,0.07,17MORC002,860426,12.16,11.29,>10 - 100,Moyagee,497,3/17/2017,Musgrave Minerals Limited,Yes,Reserves Development,Surface,0.06,FALSE,-7,decrease
+Australia,NTM-ASX,Extension,0.05,GTRC410,868866,13.4,12.51,>10 - 100,Redcliffe,503,3/31/2017,NTM Gold Limited,Yes,Feasibility Started,Surface,0.05,FALSE,-7,decrease
+Canada,AZX-TVX,Extension,0.06,OAX-16-080,797838,24.99,21.51,>10 - 100,Orenada,624,1/18/2017,Alexandria Minerals Corporation,No,Prefeas/Scoping,Surface,0.05,FALSE,-13,decrease
+Portugal,WRES-AIMLSE,Extension,0.01,SMD009,795971,25.25,21.7,>10 - 100,CAA/Portalegre,627,1/17/2017,W Resources Plc,Yes,Reserves Development,Surface,0,FALSE,-14,decrease
+Finland,DRA-ASX,Extension,0.22,VK/KKU-RC69,864321,19.63,16.85,>10 - 100,Kaapelinkulma,631,3/27/2017,Dragon Mining Limited,Yes,Prefeas/Scoping,In Pit,0.19,FALSE,-14,decrease
+Australia,MEU-ASX,Extension,0.02,16AT126,807295,8.24,8.72,<10,Aurora Tank,504,2/1/2017,Marmota Limited,Yes,Target Outline,Surface,0.02,FALSE,-7,decrease
+Canada,AZX-TVX,Extension,0.05,OAX-17-084,807724,23.41,19.86,>10 - 100,Orenada,643,2/1/2017,Alexandria Minerals Corporation,Yes,Prefeas/Scoping,Surface,0.05,FALSE,-15,decrease
+Australia,DCN-ASX,Extension,1.71,16CWAC0155,811575,256.92,303.14,>100,Mt Morgans,506,2/7/2017,Dacian Gold Limited,No,Construction Started,Surface,1.58,FALSE,-7,decrease
+USA,SGN-TVX,Extension,0.1,MR162107,810696,12.47,10.49,>10 - 100,Mineral Ridge,647,2/3/2017,Scorpio Gold Corporation,Yes,Operating,In Pit,0.08,FALSE,-15,decrease
+USA,GMV-TVX,Extension,0.45,GMV 2016-14,807851,14.66,12.3,>10 - 100,Mexican Hat,649,2/1/2017,GMV Minerals Inc.,No,Reserves Development,Surface,0.38,FALSE,-16,decrease
+USA,LGD-TSX,Extension,0.48,PGS179,812467,71.81,60.17,>10 - 100,Goldstrike,650,2/8/2017,Pilot Gold Inc.,Yes,Target Outline,Surface,0.4,FALSE,-16,decrease
+Canada,PGM-TVX,Extension,0.46,PG17-304,848871,87.15,73.13,>10 - 100,Madsen,653,2/28/2017,Pure Gold Mining Inc.,Yes,Prefeas/Scoping,Underground,0.38,FALSE,-16,decrease
+Ecuador,TIM-TVX,Extension,0.42,CMLP-17-38,850296,21.61,18.22,>10 - 100,La Plata,655,3/1/2017,Toachi Mining Inc.,Yes,Prefeas/Scoping,Surface,0.35,FALSE,-16,decrease
+USA,RGC-TVX,Extension,0.11,16SH022,799967,34.05,28.19,>10 - 100,Unga,665,1/19/2017,Redstar Gold Corporation,No,Reserves Development,Surface,0.09,FALSE,-17,decrease
+Mali,AVK-TSX,Infill,0.24,KO-SOM-RC216,825095,90.39,74.15,>10 - 100,Kalana,676,2/13/2017,Avnel Gold Mining Limited,No,Limited Production,In Pit,0.2,FALSE,-17,decrease
+Mexico,RRI-TVX,Exploration,0.4,Tr-01,861078,17.72,14.43,>10 - 100,Glor,681,3/21/2017,Riverside Resources Inc.,Yes,Target Outline,Surface,0.33,FALSE,-18,decrease
+Canada,RPX-TVX,Extension,0.12,U0722L5,790279,12.71,10.35,>10 - 100,Wawa,682,1/10/2017,Red Pine Exploration Inc.,Yes,Reserves Development,Surface,0.1,FALSE,-18,decrease
+Papua New Guinea,KNT-TVX,Extension,0.76,GCDD0023,848534,90.24,73.29,>10 - 100,Kainantu,684,2/27/2017,K92 Mining Inc.,Yes,Operating,Surface,0.61,FALSE,-18,decrease
+Canada,RPX-TVX,Extension,0.11,SD-16-45,848840,28.54,23.16,>10 - 100,Wawa,685,2/28/2017,Red Pine Exploration Inc.,Yes,Reserves Development,Surface,0.09,FALSE,-18,decrease
+Canada,GWM-TVX,Extension,0.3,AD17-96,866872,17.46,14.87,>10 - 100,Clarence Stream,689,3/28/2017,Galway Metals Inc.,Yes,Reserves Development,Surface,0.24,FALSE,-19,decrease
+Mali,OKU-ASX,Exploration,0.23,ACSEK17-018,874300,56.37,45.3,>10 - 100,Dandoko,694,3/30/2017,Oklo Resources Limited,Yes,Target Outline,Surface,0.19,FALSE,-19,decrease
+Canada,ME-TSX,Extension,0.17,MGH16-015,851737,40.1,32.16,>10 - 100,Golden Highway,696,3/6/2017,Moneta Porcupine Mines Inc.,Yes,Prefeas/Scoping,Surface,0.13,FALSE,-19,decrease
+Canada,BAR-TSX,Exploration,0.71,MDE-16-253A,835948,89.27,71.1,>10 - 100,Martiniere,698,2/15/2017,Balmoral Resources Ltd.,Yes,Target Outline,Surface,0.57,FALSE,-20,decrease
+Dem. Rep. Congo,ANL-ASX,Infill,0.04,GRRC189,794246,45.22,35.77,>10 - 100,Giro,699,1/16/2017,Amani Gold Limited,No,Target Outline,Surface,0.03,FALSE,-20,decrease
+USA,GMV-TVX,Extension,0.37,GMV 2016-8,844602,11.97,9.39,>10 - 100,Mexican Hat,702,2/21/2017,GMV Minerals Inc.,No,Reserves Development,Surface,0.29,FALSE,-21,decrease
+Australia,MND-TSX,Extension,0.66,BD265,806164,299.63,276.29,>100,Costerfield,510,1/27/2017,Mandalay Resources Corporation,Yes,Operating,Surface,0.61,FALSE,-7,decrease
+Australia,KIN-ASX,Extension,0.16,RN17RC025,845044,18.86,17.9,>10 - 100,Leonora,515,2/22/2017,Kin Mining NL,Yes,Feasibility Started,Surface,0.15,FALSE,-8,decrease
+Finland,MAW-TSX,Extension,0.42,PAL0030,844636,44.18,33.66,>10 - 100,Rompas,713,2/21/2017,Mawson Resources Limited,Yes,Target Outline,Surface,0.32,FALSE,-23,decrease
+USA,NUG-TVX,Extension,0.26,AV-4C,811703,76.93,58.13,>10 - 100,Red Hill,716,2/7/2017,NuLegacy Gold Corporation,No,Target Outline,Surface,0.2,FALSE,-24,decrease
+USA,BRD-TVX,Extension,1.2,C17-03,861940,39.75,29.06,>10 - 100,Madison,727,3/21/2017,Broadway Gold Mining Ltd.,Yes,Target Outline,Surface,0.88,FALSE,-26,decrease
+USA,GMV-TVX,Extension,0.39,GMV 2016-11,848449,12.6,9.2,>10 - 100,Mexican Hat,728,2/27/2017,GMV Minerals Inc.,Yes,Reserves Development,Surface,0.28,FALSE,-26,decrease
+Tanzania,TRL-ASX,Extension,0.04,MRC017,792299,14.43,10.37,>10 - 100,Geita,736,1/12/2017,Tanga Resources Limited,No,Target Outline,Surface,0.03,FALSE,-28,decrease
+Canada,SUP-TVX,Exploration,0.05,BP-17-04,853803,16.56,11.9,>10 - 100,Lac Surprise,737,3/9/2017,Northern Superior Resources Inc.,No,Target Outline,Surface,0.04,FALSE,-28,decrease
+Australia,IRC-ASX,Extension,0.08,GLRC1603,825283,15.91,14.61,>10 - 100,Goongarrie Lady,516,2/14/2017,Intermin Resources Limited,Yes,Feasibility Started,Surface,0.07,FALSE,-8,decrease
+Canada,ROX-TVX,Exploration,0.14,KG17-08,859282,14.13,9.18,>10 - 100,Kenora,746,3/15/2017,Canstar Resources Inc.,No,Target Outline,Surface,0.09,FALSE,-34,decrease
+Australia,EGA-ASX,Infill,0.18,RYDD012,810993,10.59,9.7,>10 - 100,Rothsay,526,2/6/2017,Egan Street Resources Limited,No,Feasibility Started,Surface,0.17,FALSE,-8,decrease
+Burkina Faso,NXS-TVX,Exploration,0.09,NG_RAB_1.11.2017,792850,8.49,21.56,<10,Niangouela,3,1/11/2017,Nexus Gold Corp.,No,Target Outline,Surface,0.22,FALSE,140,increase
+USA,ORE-AIMLSE,Exploration,0.03,OS-2,789160,0.97,1.97,<10,Silverton,8,1/9/2017,Orogen Gold Plc,No,Exploration,Surface,0.06,FALSE,103,increase
+Australia,MBK-ASX,Extension,0.02,TDH098,801894,17.28,15.79,>10 - 100,Triumph,529,1/24/2017,Metal Bank Limited,No,Target Outline,Surface,0.02,FALSE,-8,decrease
+Ireland,PLY-TVX,Exploration,0.04,3382-008,788469,2.29,3.46,<10,Ox Mountains,27,1/3/2017,Playfair Mining Ltd.,No,Target Outline,Surface,0.07,FALSE,51,increase
+Australia,AQX-ASX,Exploration,0.02,16CH012_003,796931,2.9,2.69,<10,Horn Island,532,1/18/2017,Alice Queen Limited,No,Target Outline,Surface,0.02,FALSE,-8,decrease
+Australia,DRM-ASX,Extension,0.35,TBRC104,805400,124.09,112.66,>100,Gnaweeda,536,1/27/2017,Doray Minerals Limited,Yes,Prefeas/Scoping,Surface,0.32,FALSE,-9,decrease
+Canada,GBR-TVX,Exploration,0.14,SC-2,809218,1.68,2.22,<10,Surprise Creek,53,2/2/2017,Great Bear Resources Limited,Yes,Exploration,Surface,0.18,FALSE,32,increase
+Australia,GGP-AIMLSE,Extension,0,WTR038,852429,7.49,6.79,<10,Warrentinna,538,3/8/2017,Greatland Gold Plc,No,Target Outline,Surface,0,FALSE,-9,decrease
+Australia,PGO-ASX,Exploration,0.07,PGCL0056,815301,38.29,34.72,>10 - 100,Coolgardie,540,2/13/2017,Primary Gold Limited,Yes,Feasibility Started,In Pit,0.06,FALSE,-9,decrease
+Australia,MRP-ASX,Extension,0.21,BODH028,866635,67.67,61.35,>10 - 100,Boorara,541,3/28/2017,MacPhersons Resources Limited,No,Feasibility Started,Surface,0.19,FALSE,-9,decrease
+Canada,KG-TVX,Extension,0.13,LS16-70,799322,7.02,8.82,<10,Lone Star,80,1/19/2017,Klondike Gold Corp.,Yes,Reserves Development,Surface,0.16,FALSE,25,increase
+Australia,BCN-ASX,Extension,0.02,JD17C69,825297,25.14,22.71,>10 - 100,Jaurdi,547,2/14/2017,Beacon Minerals Limited,Yes,Target Outline,Surface,0.01,FALSE,-9,decrease
+Australia,EGS-ASX,Extension,0.26,CNRC097,843465,130.46,117.17,>100,Davyhurst,555,2/20/2017,Eastern Goldfields Limited,Yes,Feasibility Started,Surface,0.24,FALSE,-10,decrease
+Australia,EGS-ASX,Extension,0.3,LOID007,813372,147.2,132.16,>100,Davyhurst,557,2/9/2017,Eastern Goldfields Limited,No,Feasibility Started,Surface,0.27,FALSE,-10,decrease
+Canada,GNI-CNQ,Exploration,0.1,BH?17?01,849606,1.87,2.26,<10,Blockhouse,103,2/28/2017,Genius Properties Ltd.,No,Target Outline,Surface,0.12,FALSE,20,increase
+Serbia,MED-TVX,Exploration,0.12,Channel 2,827665,8.79,9.83,<10,Tlamino,109,1/9/2017,MedGold Resources Corporation,Yes,Exploration,Surface,0.14,FALSE,19,increase
+Canada,LAD-TVX,Exploration,0.05,LCU16 CHN02,805259,8.59,10.4,<10,Ladner,124,1/24/2017,New Carolin Gold Corporation,Yes,Reserves Development,Underground,0.06,FALSE,17,increase
+Canada,MEK-TVX,Extension,0.05,TOG-16-48,792192,2.21,2.59,<10,Ogden,125,1/11/2017,Metals Creek Resources Corporation,Yes,Target Outline,Surface,0.06,FALSE,17,increase
+Australia,MGV-ASX,Extension,0.06,16MODD002,806319,10.06,8.97,>10 - 100,Murchison,569,1/30/2017,Musgrave Minerals Limited,Yes,Operating,Surface,0.05,FALSE,-10,decrease
+Australia,AUC-ASX,Extension,0.03,BSRC0729,792859,9.81,8.74,<10,Katanning,570,1/12/2017,Ausgold Limited,Yes,Prefeas/Scoping,Surface,0.02,FALSE,-10,decrease
+Canada,SVG-TVX,Extension,0.05,CL16-07,807720,1.17,1.32,<10,Clone,154,2/1/2017,Silver Grail Resources Ltd.,Yes,Target Outline,Surface,0.06,FALSE,13,increase
+Australia,AUC-ASX,Extension,0.03,BSRC0731,795612,9.95,8.83,<10,Katanning,578,1/17/2017,Ausgold Limited,No,Prefeas/Scoping,Surface,0.03,FALSE,-11,decrease
+Canada,BFD-TVX,Extension,0.07,BLR-16-08,793079,9.19,10.35,<10,Urban,162,1/12/2017,Beaufield Resources Inc.,No,Reserves Development,Surface,0.08,FALSE,12,increase
+Bulgaria,MUN-TVX,Exploration,0.1,CDD-001,789977,5.13,5.76,<10,Byalo,168,1/9/2017,Mundoro Capital Inc.,Yes,Target Outline,Surface,0.11,FALSE,12,increase
+Egypt,STI-AIMLSE,Exploration,0.02,TDAND-04,861955,9.92,10.97,<10,Hodine,190,3/22/2017,Stratex International Plc,Yes,Reserves Development,Surface,0.02,FALSE,10,increase
+Cote d'Ivoire,AOP-ASX,Extension,0.06,BDAC0207,794799,9.63,10.62,<10,Boundiali,194,1/16/2017,Apollo Consolidated Limited,Yes,Target Outline,Surface,0.07,FALSE,10,increase
+Papua New Guinea,KGD-ASX,Extension,0.02,KU17RC009,860920,5.68,6.23,<10,Woodlark Island,202,3/21/2017,Kula Gold Limited,Yes,Feasibility Complete,Surface,0.02,FALSE,9,increase
+Australia,VMC-ASX,Exploration,0.12,CWRC005,800670,8.15,7.22,<10,Curara Well,589,1/23/2017,Venus Metals Corporation Limited,No,Exploration,Surface,0.1,FALSE,-11,decrease
+Australia,ARV-ASX,Extension,0.08,ARC005,862203,23.67,20.9,>10 - 100,Carlow Castle,594,3/22/2017,Artemis Resources Limited,Yes,Reserves Development,Surface,0.07,FALSE,-11,decrease
+Burkina Faso,VML-ASX,Extension,0.01,KRC303,799909,7.19,7.72,<10,Doulnia,231,1/20/2017,Vital Metals Limited,Yes,Target Outline,Surface,0.01,FALSE,7,increase
+Australia,LEX-ASX,Exploration,0.17,LEFA 47,858768,10.94,9.63,>10 - 100,Lefroy,598,3/9/2017,Lefroy Exploration Limited,Yes,Target Outline,Surface,0.15,FALSE,-12,decrease
+Australia,BRB-ASX,Extension,0.43,BBRC0231,849113,56.45,49.62,>10 - 100,Lake Roe,601,3/1/2017,Breaker Resources NL,Yes,Target Outline,Surface,0.38,FALSE,-12,decrease
+Australia,AQQ-ASX,Metallurgical,0.01,APDM0006,788455,9.8,8.57,<10,Aphrodite,605,1/5/2017,Aphrodite Gold Limited,No,Prefeas/Scoping,Surface,0.01,FALSE,-12,decrease
+Chile,EQE-ASX,Extension,0.01,LD00356,850777,5.27,5.32,<10,Los Domos,328,3/3/2017,Equus Mining Limited,No,Exploration,Surface,0.01,FALSE,0,same
+Papua New Guinea,NIU-ASX,Extension,0,EDD 024,812176,6.98,7.04,<10,Edie Creek,330,2/8/2017,Niuminco Group Limited,Yes,Operating,Surface,0,FALSE,0,same
+Australia,EAR-ASX,Extension,0.14,EWAC0053,868342,52.49,45.89,>10 - 100,Yandal,606,3/30/2017,Echo Resources Limited,Yes,Feasibility Complete,In Pit,0.12,FALSE,-12,decrease
+Australia,ARV-ASX,Extension,0.08,ARC008,864356,22.31,19.57,>10 - 100,Carlow Castle,609,3/27/2017,Artemis Resources Limited,Yes,Reserves Development,Surface,0.07,FALSE,-12,decrease
+Nicaragua,RYR-TVX,Exploration,0.07,QZP-002,862609,6.87,8.5,<10,Los Andes,342,3/16/2017,Royal Road Minerals Limited,No,Target Outline,Surface,0.07,FALSE,0,same
+Canada,KNX-TVX,Extension,0.05,6146,812972,5.07,5.05,<10,East-West,365,2/8/2017,Knick Exploration Inc.,Yes,Target Outline,Surface,0.05,FALSE,0,same
+USA,TCO-TVX,Extension,0.27,SURDH#6,799609,5.76,5.72,<10,Alder Mountain,370,1/19/2017,Transatlantic Mining Corporation,Yes,Commissioning,Surface,0.27,FALSE,0,same
+Papua New Guinea,KGD-ASX,Extension,0.02,KU17RD004,859321,6.34,6.3,<10,Woodlark Island,373,3/16/2017,Kula Gold Limited,Yes,Feasibility Complete,Surface,0.02,FALSE,0,same
+Australia,NTM-ASX,Extension,0.05,NBDD002,789172,13.32,11.61,>10 - 100,Redcliffe,610,1/10/2017,NTM Gold Limited,Yes,Feasibility Started,In Pit,0.05,FALSE,-12,decrease
+Canada,XTM-TVX,Exploration,0.14,TMH-17-023,849828,4.6,4.56,<10,Gowganda,381,3/1/2017,Transition Metals Corp.,No,Exploration,Surface,0.14,FALSE,0,same
+Chile,EQE-ASX,Exploration,0.01,LD00400,870721,5.33,5.23,<10,Los Domos,397,3/31/2017,Equus Mining Limited,No,Exploration,Surface,0.01,FALSE,-1,decrease
+Australia,IRC-ASX,Extension,0.08,JFRC1608,811662,16.66,14.48,>10 - 100,Binduli North,615,2/7/2017,Intermin Resources Limited,Yes,Preproduction,Surface,0.07,FALSE,-13,decrease
+Australia,MBK-ASX,Exploration,0.02,MB_DR2_.3.27.2017,865046,14.84,12.78,>10 - 100,Triumph,622,3/22/2017,Metal Bank Limited,Yes,Target Outline,Surface,0.02,FALSE,-13,decrease
+USA,NVX-TVX,Exploration,0.16,CC16-8A,811455,3.68,3.57,<10,Cooks Creek,438,2/6/2017,NV Gold Corporation,No,Exploration,Surface,0.15,FALSE,-3,decrease
+Australia,KRS-AIMLSE,Extension,0.01,KKC008,789236,8.92,8.54,<10,Warrawoona,633,1/9/2017,Keras Resources Plc,Yes,Reserves Development,Surface,0.01,FALSE,-14,decrease
+Burkina Faso,PAL-TVX,Exploration,0.07,GSRAB15-10,791068,2.17,2.06,<10,Garsay,457,1/9/2017,Parallel Mining Corp.,Yes,Target Outline,Surface,0.07,FALSE,-4,decrease
+Colombia,RYR-TVX,Extension,0.07,GOL-16-02,791156,4.79,4.57,<10,La Golondrina,457,1/9/2017,Royal Road Minerals Limited,No,Target Outline,Surface,0.07,FALSE,-4,decrease
+USA,GMV-TVX,Extension,0.27,GMV 2016-11,866890,8.72,8.3,<10,Mexican Hat,460,3/28/2017,GMV Minerals Inc.,No,Reserves Development,Surface,0.26,FALSE,-4,decrease
+Canada,XIM-TVX,Extension,0.07,2016-1,853987,4.87,4.63,<10,Brett,464,3/9/2017,Ximen Mining Corp.,No,Target Outline,Surface,0.06,FALSE,-4,decrease
+Papua New Guinea,FNT-ASX,Exploration,0.04,BUL002,863850,2.48,2.35,<10,Bulago,467,3/24/2017,Frontier Resources Limited,No,Target Outline,Surface,0.03,FALSE,-5,decrease
+Canada,TWR-TVX,Extension,0.12,RN-010,791018,7.7,7.27,<10,Rabbit North Regional,480,1/10/2017,Tower Resources Limited,No,Target Outline,Surface,0.11,FALSE,-5,decrease
+Australia,KDR-ASX,Extension,0.42,KEGR112,801375,133.58,113.92,>100,Mt Holland - Gold,636,1/23/2017,Kidman Resources Limited,No,Prefeas/Scoping,Surface,0.36,FALSE,-14,decrease
+Australia,BCN-ASX,Extension,0.02,GC02,848025,31.03,26.45,>10 - 100,Jaurdi,638,2/27/2017,Beacon Minerals Limited,Yes,Target Outline,Surface,0.02,FALSE,-14,decrease
+Australia,MBK-ASX,Extension,0.03,TDH089,795574,18.64,15.78,>10 - 100,Triumph,646,1/17/2017,Metal Bank Limited,No,Target Outline,Surface,0.02,FALSE,-15,decrease
+USA,WRI-TVX,Extension,0.05,#16-2,805313,2.15,2,<10,Battle Mountain Ridge Claims,496,1/26/2017,Waseco Resources Inc.,No,Reserves Development,Surface,0.05,FALSE,-7,decrease
+Australia,NML-ASX,Extension,0.04,IAC058,794642,6.51,5.35,<10,Stawell Corridor,675,1/16/2017,Navarre Minerals Limited,No,Target Outline,Surface,0.03,FALSE,-17,decrease
+Canada,VSR-TVX,Extension,0.09,NE-16-49,858727,3.26,3.08,<10,Nelligan,523,3/14/2017,Vanstar Mining Resources Inc.,Yes,Target Outline,Surface,0.08,FALSE,-8,decrease
+Australia,EGS-ASX,Extension,0.28,DRC420D,845238,139.92,113.96,>100,Davyhurst,680,2/22/2017,Eastern Goldfields Limited,Yes,Feasibility Started,Underground,0.23,FALSE,-18,decrease
+Australia,MTH-ASX,Extension,0,KNAC032,806401,2.59,2.11,<10,Lignum Dam,683,1/30/2017,Mithril Resources Limited,Yes,Target Outline,Surface,0,FALSE,-18,decrease
+Australia,NML-ASX,Extension,0.04,IAC102,843460,7.6,6.17,<10,Stawell Corridor,686,2/20/2017,Navarre Minerals Limited,No,Target Outline,Surface,0.04,FALSE,-18,decrease
+USA,CSQ-TVX,Infill,0.1,B1608,797763,4.03,3.59,<10,Bruner,572,1/17/2017,Canamex Resources Corp.,No,Prefeas/Scoping,Surface,0.09,FALSE,-10,decrease
+Canada,SGU-TVX,Extension,0.09,87-15,792102,6.11,5.44,<10,Lingman Lake,577,1/11/2017,Signature Resources Limited,No,Reserves Development,Surface,0.08,FALSE,-11,decrease
+Australia,GTE-ASX,Exploration,0.01,IFRC005,867535,6.61,5.52,<10,Ives Find,695,3/29/2017,Great Western Exploration Limited,Yes,Target Outline,Surface,0.01,FALSE,-19,decrease
+Australia,BAR-ASX,Exploration,0.07,BBRC246,855050,27.75,21.57,>10 - 100,Burbanks,708,3/14/2017,Barra Resources Limited,Yes,Prefeas/Scoping,Surface,0.05,FALSE,-22,decrease
+Canada,ALD-TVX,Exploration,0.06,LV16-003,805251,1.67,1.48,<10,Lac Villebon,590,1/23/2017,Aldever Resources Inc.,No,Target Outline,Surface,0.05,FALSE,-11,decrease
+Australia,AZY-ASX,Extension,0.02,16ACC0061,795629,21.1,16.24,>10 - 100,Citadel,709,1/16/2017,Antipa Minerals Limited,No,Reserves Development,Surface,0.01,FALSE,-23,decrease
+Canada,WHN-TVX,Extension,0.08,SN16-07,796003,4.18,3.58,<10,Shovelnose,630,1/17/2017,Westhaven Ventures Inc.,Yes,Target Outline,Surface,0.07,FALSE,-14,decrease
+Australia,SAR-ASX,Extension,0.98,KRRD137,844119,793.96,599.95,>100,South Laverton-Carosue Dam,717,2/21/2017,Saracen Mineral Holdings Limited,Yes,Operating,In Pit,0.74,FALSE,-24,decrease
+USA,LGR-TVX,Exploration,0.08,BK1602,849882,3.4,2.89,<10,Brik,641,3/1/2017,Logan Resources Ltd.,Yes,Target Outline,Surface,0.07,FALSE,-15,decrease
+Australia,SAR-ASX,Extension,0.98,TBDD0103,843933,793.96,599.95,>100,Thunderbox,717,2/21/2017,Saracen Mineral Holdings Limited,Yes,Operating,Underground,0.74,FALSE,-24,decrease
+Australia,LTR-ASX,Extension,0.02,KVRC0015,860753,19.04,13.38,>10 - 100,Kathleen Valley,739,3/20/2017,Liontown Resources Limited,Yes,Residual Production,Surface,0.01,FALSE,-29,decrease
+Australia,BLK-ASX,Infill,0.45,WUDD0003,862594,153.19,93.8,>100,Wiluna,751,3/23/2017,Blackham Resources Limited,No,Satellite,Surface,0.28,FALSE,-38,decrease
+Australia,GTE-ASX,Exploration,0.02,IFRC066,835086,12.3,6.99,>10 - 100,Ives Find,754,2/15/2017,Great Western Exploration Limited,Yes,Target Outline,Surface,0.01,FALSE,-43,decrease
+Canada,LOT-TVX,Extension,0.09,OB-17-02,860228,9.46,7.42,<10,Obalski,701,3/16/2017,TomaGold Corporation,Yes,Exploration,Underground,0.07,FALSE,-21,decrease
+Canada,VEIN-TVX,Extension,0.19,D110069,868295,7.77,6,<10,Montalembert,711,3/30/2017,Enforcer Gold Corp.,Yes,Exploration,Surface,0.15,FALSE,-23,decrease
+Dominican Republic,UGD-TVX,Extension,0.19,DCZ 16-46,807873,8.76,6.42,<10,Neita,725,2/1/2017,Unigold Inc.,Yes,Reserves Development,Surface,0.14,FALSE,-26,decrease
+USA,GCN-TVX,Extension,0.2,WL-114,813514,3.75,2.71,<10,Pine Grove,734,2/9/2017,Goldcliff Resource Corporation,Yes,Prefeas/Scoping,Surface,0.14,FALSE,-27,decrease
+Canada,XIM-TVX,Extension,0.07,2016-2,860778,4.91,3.64,<10,Brett,735,3/20/2017,Ximen Mining Corp.,No,Target Outline,Surface,0.05,FALSE,-27,decrease
+Canada,PGX-TVX,Exploration,0.14,A011,802686,6.8,4.86,<10,Ashley,738,1/24/2017,Prosper Gold Corp.,No,Target Outline,Surface,0.1,FALSE,-28,decrease
+Dominican Republic,PRG-TVX,Extension,0.13,GR16-11,799336,9.51,6.67,<10,Juan de Herrera,740,1/19/2017,Precipitate Gold Corp.,No,Target Outline,Surface,0.09,FALSE,-29,decrease
+Ghana,GRL-AIMLSE,Extension,0.03,16HMDD-0001,805324,2.64,1.66,<10,Homase,749,1/26/2017,GoldStone Resources Limited,No,Reserves Development,Surface,0.02,FALSE,-37,decrease
+Australia,MRQ-ASX,Discovery,0.02,YRDH-003A,800003,6.78,3.67,<10,Yardilla,755,1/20/2017,MRG Metals Limited,No,Target Outline,Surface,0.01,FALSE,-45,decrease
+USA,NVO-TVX,Extension,1.1276,16TSRC-010,711334,101.11,94.55,>100,Tuscarora,470,10/12/2016,Novo Resources Corporation,Yes,Target Outline,Surface,1.0164,FALSE,-9,decrease
+USA,SSRM-TSX,Extension,11.4318,MRA6342,724753,1364.37,1150.54,>100,Marigold,564,11/7/2016,Silver Standard Resources Inc.,Yes,Operating,Surface,9.6359,FALSE,-15,decrease
+USA,PG-TSX,Extension,2.106,PG16-12,727041,422.37,342.55,>100,McCoy/Cove,618,11/10/2016,Premier Gold Mines Limited,Yes,Reserves Development,Underground,1.7016,FALSE,-19,decrease
+USA,TMI-TSX,Extension,0.1947,J-16-006,718449,52.07,47.31,>10 - 100,Gold Springs,446,10/26/2016,TriMetals Mining Inc.,Yes,Prefeas/Scoping,Surface,0.1781,FALSE,-8,decrease
+USA,TMI-TSX,Extension,0.1683,J-16-010,748087,45.49,48.4,>10 - 100,Gold Springs,206,12/16/2016,TriMetals Mining Inc.,Yes,Prefeas/Scoping,Surface,0.1741,FALSE,3,increase
+Canada,RPX-TVX,Extension,0.0708,TR-16-2A,735686,7.47,10.52,<10,Wawa,20,11/29/2016,Red Pine Exploration Inc.,No,Reserves Development,Surface,0.0971,FALSE,37,increase
+Canada,WM-TSX,Exploration,0.0334,1050-005,728889,7.41,10.01,<10,Fenelon,23,11/16/2016,Wallbridge Mining Company Limited,No,Prefeas/Scoping,Surface,0.0452,FALSE,35,increase
+USA,BVA-TVX,Extension,0.1416,Q16-01,733352,4.88,6.33,<10,Quito,33,11/23/2016,Bravada Gold Corporation,No,Reserves Development,Surface,0.1829,FALSE,29,increase
+Chile,EQE-ASX,Extension,0.0091,LD00013,727733,3.97,6.04,<10,Los Domos,50,10/25/2016,Equus Mining Limited,No,Exploration,Surface,0.0113,FALSE,23,increase
+South Korea,PSM-ASX,Extension,0.0119,PG038 - 042,745374,6.13,7.45,<10,Osu,55,12/12/2016,Peninsula Mines Limited,No,Target Outline,Surface,0.0145,FALSE,21,increase
+Canada,SPX-TVX,Exploration,0.0189,R02-001,708104,0.74,0.88,<10,Opawica,70,10/11/2016,Stellar AfricaGold Inc.,No,Exploration,Surface,0.0224,FALSE,18,increase
+USA,EDG-TVX,Exploration,0.0374,EL16-14A,719867,3.77,4.47,<10,Elephant Mountain,73,10/31/2016,Endurance Gold Corporation,No,Target Outline,Surface,0.0444,FALSE,18,increase
+USA,OGC-TSX,Infill,2.7877,DDH-578,745064,1703.35,1781.05,>100,Haile,191,12/12/2016,OceanaGold Corporation,Yes,Commissioning,Surface,2.9149,FALSE,4,increase
+USA,KDX-TSX,Extension,5.2091,FCU-0649,734947,777.82,721.22,>100,Fire Creek,425,11/10/2016,Klondex Mines Ltd.,Yes,Operating,Underground,4.8298,FALSE,-7,decrease
+USA,PGLC-US,Extension,4.35,RC16-486,725809,114,98.27,>100,Relief Canyon,534,11/9/2016,Pershing Gold Corporation,Yes,Prefeas/Scoping,In Pit,3.75,FALSE,-13,decrease
+Canada,AMK-TVX,Extension,0.037,E-16-05,768963,8.18,9.65,<10,Treaty Creek,94,12/28/2016,American Creek Resources Ltd.,No,Target Outline,Surface,0.0421,FALSE,13,increase
+USA,BVA-TVX,Extension,0.1627,BAX16-18,731420,5.61,6.31,<10,Baxter,108,11/21/2016,Bravada Gold Corporation,No,Target Outline,Surface,0.1823,FALSE,12,increase
+USA,PGLC-US,Extension,4.02,RC16-487,730136,105.35,101.72,>100,Relief Canyon,491,11/17/2016,Pershing Gold Corporation,Yes,Prefeas/Scoping,In Pit,3.58,FALSE,-10,decrease
+Colombia,MAD-TVX,Extension,0.0518,CO-001,733635,5.36,5.92,<10,Cerro Oro,123,11/24/2016,Miranda Gold Corporation,No,Target Outline,Surface,0.0573,FALSE,10,increase
+Australia,RMS-ASX,"Definition, Extension, Exploration",0.3386,"VVDD1031, GXRC0502, HRAC0090","748728, 748711, 749027",177.84,238.38,>100,"Vivien, Mt Magnet, Tanami",25,12/19/2016,Ramelius Resources Limited,"Yes, Yes, No","Operating, Operating, Target Outline","Underground, In Pit, Surface",0.4538,FALSE,34,increase
+USA,KOR-TSX,Extension,0.4547,NB-16-314,735692,41.99,34.48,>10 - 100,North Bullfrog,601,11/29/2016,Corvus Gold Inc.,Yes,Prefeas/Scoping,Surface,0.3733,FALSE,-17,decrease
+USA,LGD-TSX,Extension,0.5002,PGS104,705843,62.98,60.41,>10 - 100,Goldstrike,366,10/6/2016,Pilot Gold Inc.,Yes,Target Outline,In Pit,0.4798,FALSE,-4,decrease
+USA,AWV-ASX,Extension,0.1112,AWVBC16-002,721133,49.56,48.05,>10 - 100,Big Springs,358,11/3/2016,Anova Metals Limited,Yes,Prefeas/Scoping,Surface,0.1071,FALSE,-3,decrease
+USA,AWV-ASX,Extension,0.112,AWVBC16-006,736016,50.25,36,>10 - 100,Big Springs,698,11/30/2016,Anova Metals Limited,Yes,Prefeas/Scoping,Surface,0.0797,FALSE,-28,decrease
+USA,AWV-ASX,Extension,0.1007,AWV16-061,742841,45.49,31.13,>10 - 100,Big Springs,711,12/7/2016,Anova Metals Limited,Yes,Prefeas/Scoping,Surface,0.0689,FALSE,-31,decrease
+USA,NCA-TSX,Extension,0.7616,CMM-111,705282,122.17,120.13,>100,Castle Mountain,313,10/4/2016,NewCastle Gold Ltd.,Yes,Feasibility Started,In Pit,0.7489,FALSE,-1,decrease
+USA,NCA-TSX,Extension,0.5433,CMM-119,741400,99.77,92.37,>10 - 100,Castle Mountain,431,12/6/2016,NewCastle Gold Ltd.,Yes,Feasibility Started,In Pit,0.503,FALSE,-7,decrease
+Australia,BLK-ASX,Extension,0.5324,WURD0005,726046,151.69,107.78,>100,Wiluna,700,11/9/2016,Blackham Resources Limited,Yes,Satellite,In Pit,0.3771,FALSE,-29,decrease
+Australia,RMS-ASX,Exploration,0.3386,HRAC0090,749027,177.84,238.38,>100,Tanami,25,12/19/2016,Ramelius Resources Limited,No,Target Outline,Surface,0.4538,FALSE,34,increase
+Australia,CMM-ASX,Infill,0.066,KBRC603,751357,20.82,41.13,>10 - 100,Karlawinda,37,12/20/2016,Capricorn Metals Ltd,No,Feasibility Started,Surface,0.0845,FALSE,27,increase
+Australia,BLK-ASX,Extension,0.3766,WURC0127,742892,107.64,88.19,>100,Wiluna,606,12/7/2016,Blackham Resources Limited,Yes,Satellite,In Pit,0.3086,FALSE,-18,decrease
+USA,ZFR-TVX,Extension,0.2586,WG-16-35,716040,8.64,7.97,<10,Dawson Creek,437,10/18/2016,Zephyr Minerals Limited,Yes,Prefeas/Scoping,Underground,0.2388,FALSE,-7,decrease
+Cote d'Ivoire,EDV-TSX,Extension,16.4984,CS16-085,710710,1539.04,1753.57,>100,Ity,92,10/13/2016,Endeavour Mining Corporation,Yes,Operating,Surface,18.7845,FALSE,13,increase
+New Zealand,OGC-TSX,Extension,2.7877,807ER0999,745111,1703.35,1781.05,>100,Waihi,191,12/12/2016,OceanaGold Corporation,Yes,Operating,Underground,2.9149,FALSE,4,increase
+Ecuador,TIM-TVX,Extension,0.3071,CMLP-16-03,719479,11.78,11.24,>10 - 100,La Plata,480,10/26/2016,Toachi Mining Inc.,Yes,Prefeas/Scoping,Surface,0.2746,FALSE,-10,decrease
+Canada,WDO-TSX,Extension,1.7752,6131A,728734,231.04,242.58,>100,Kiena,185,11/15/2016,Wesdome Gold Mines Limited,Yes,Operating,Underground,1.8639,FALSE,5,increase
+Canada,LAD-TVX,Extension,0.0521,CM-004,730450,8.46,7.96,<10,Ladner,395,11/17/2016,New Carolin Gold Corporation,Yes,Reserves Development,Surface,0.0491,FALSE,-5,decrease
+Canada,LAD-TVX,Extension,0.0496,CM-009,747959,8.05,7.61,<10,Ladner,455,12/15/2016,New Carolin Gold Corporation,Yes,Reserves Development,Surface,0.0451,FALSE,-9,decrease
+Canada,RPX-TVX,Exploration,0.1066,U1509L5,705255,10.96,11.93,>10 - 100,Wawa,141,10/4/2016,Red Pine Exploration Inc.,Yes,Reserves Development,Surface,0.1161,FALSE,8,increase
+Canada,RPX-TVX,Definition,0.0746,U1652L5,732546,7.87,9.23,<10,Wawa,79,11/22/2016,Red Pine Exploration Inc.,Yes,Reserves Development,Surface,0.0876,FALSE,17,increase
+Canada,MTO-TVX,Definition,0.5305,14-140,705887,23.14,26.16,>10 - 100,Bachelor Lake,102,10/6/2016,Metanor Resources Inc.,Yes,Operating,Underground,0.5997,FALSE,13,increase
+Canada,MTO-TVX,Exploration,0.4453,10-103,728832,19.42,18.16,>10 - 100,Bachelor Lake,423,11/16/2016,Metanor Resources Inc.,Yes,Operating,Underground,0.4139,FALSE,-7,decrease
+Canada,AZX-TVX,Extension,0.0446,OAX-16-079,726983,37.17,29.67,>10 - 100,Orenada,668,11/10/2016,Alexandria Minerals Corporation,Yes,Prefeas/Scoping,Surface,0.0334,FALSE,-25,decrease
+Canada,AZX-TVX,Extension,0.0376,OAX-16-076,743432,13.03,19.32,>10 - 100,Orenada,77,12/7/2016,Alexandria Minerals Corporation,Yes,Prefeas/Scoping,Surface,0.0444,FALSE,17,increase
+Canada,DEC-TVX,Extension,0.0335,2016-BOW-5,729034,2.81,2.85,<10,Bow,242,11/17/2016,Decade Resources Ltd.,No,Target Outline,Surface,0.034,FALSE,1,increase
+Canada,AOT-TVX,Extension,1.8121,P16-1107,711563,245.81,217.85,>100,Premier,501,10/14/2016,Ascot Resources Ltd.,Yes,Reserves Development,In Pit,1.606,FALSE,-11,decrease
+Canada,AOT-TVX,Extension,1.4547,P16-1179,728869,197.32,189.87,>100,Premier,360,11/16/2016,Ascot Resources Ltd.,Yes,Reserves Development,Surface,1.3998,FALSE,-3,decrease
+Canada,AOT-TVX,Extension,1.4833,P16-1205,733379,201.2,192.29,>100,Premier,373,11/23/2016,Ascot Resources Ltd.,Yes,Reserves Development,Surface,1.4176,FALSE,-4,decrease
+Papua New Guinea,NIU-ASX,Extension,0.0046,EDD 019,705461,6.78,7.56,<10,Edie Creek,279,10/5/2016,Niuminco Group Limited,No,Operating,Surface,0.0046,FALSE,0,same
+Canada,AOT-TVX,Extension,1.3736,P16-1215,748767,191.83,213.48,>100,Premier,113,12/20/2016,Ascot Resources Ltd.,Yes,Reserves Development,Surface,1.5287,FALSE,11,increase
+Canada,BGM-TVX,Extension,0.4797,BGM-16-514,716455,145.3,131.71,>100,Cariboo,462,10/19/2016,Barkerville Gold Mines Ltd.,Yes,Prefeas/Scoping,Surface,0.4349,FALSE,-9,decrease
+Canada,BGM-TVX,Exploration,0.3388,BGM-16-529,728561,102.62,105.13,>100,Cariboo,217,11/15/2016,Barkerville Gold Mines Ltd.,Yes,Prefeas/Scoping,Surface,0.3471,FALSE,2,increase
+Canada,BGM-TVX,Extension,0.3245,BGM-16-553,747650,98.27,106.49,>10 - 100,Cariboo,247,12/15/2016,Barkerville Gold Mines Ltd.,Yes,Prefeas/Scoping,Surface,0.3273,FALSE,0,same
+Canada,RIC-TSX,Extension,8.4229,620-517-44,709266,528.55,589.95,>100,Island,111,10/12/2016,Richmont Mines Incorporated,Yes,Operating,Surface,9.4014,FALSE,11,increase
+Canada,AR-TSX,Extension,1.9558,MA16-RC-017,740481,309.92,229.76,>100,Magino,675,12/5/2016,Argonaut Gold Inc.,Yes,Prefeas/Scoping,In Pit,1.4499,FALSE,-25,decrease
+Canada,SSRM-TSX,Extension,11.4318,SUG-16-920,724813,1364.37,1150.54,>100,Seabee,564,11/7/2016,Silver Standard Resources Inc.,Yes,Operating,Underground,9.6359,FALSE,-15,decrease
+Canada,BUD-TVX,Extension,0.0828,TL16-01,743409,1.46,1.63,<10,Tartan Lake,110,12/7/2016,Satori Resources Inc.,Yes,Reserves Development,Underground,0.0925,FALSE,11,increase
+Canada,KG-TVX,Extension,0.1492,LS16-58,720147,8.06,6.25,<10,Lone Star,641,11/1/2016,Klondike Gold Corp.,Yes,Reserves Development,Surface,0.1157,FALSE,-22,decrease
+Canada,CSL-TVX,Extension,0.1272,16QVRAB032,749184,7.19,7.06,<10,QV,314,12/19/2016,Comstock Metals Limited,No,Reserves Development,Surface,0.1249,FALSE,-1,decrease
+Canada,SKE-TVX,Extension,0.1142,S-16-11,704470,59.49,42.99,>10 - 100,Snip,688,10/3/2016,Skeena Resources Limited,Yes,Target Outline,Surface,0.0825,FALSE,-27,decrease
+Canada,SKE-TVX,Extension,0.0821,S-16-16,720134,42.68,29.54,>10 - 100,Snip,713,11/1/2016,Skeena Resources Limited,Yes,Target Outline,Surface,0.056,FALSE,-31,decrease
+Canada,718513,Extension,6.9202,53-2921,723440,813.15,612.21,>100,Macassa,663,11/7/2016,Kirkland Lake Gold Inc.,Yes,Operating,Underground,5.2102,FALSE,-24,decrease
+Canada,SGU-TVX,Extension,0.0906,87-54,744236,5.87,5.97,<10,Lingman Lake,235,12/8/2016,Signature Resources Limited,Yes,Reserves Development,Surface,0.0921,FALSE,1,increase
+Canada,ER-TSX,Exploration,0.5852,EM16-H2,705658,102.62,105.07,>100,Eastmain,218,10/5/2016,Eastmain Resources Inc.,Yes,Reserves Development,Surface,0.5992,FALSE,2,increase
+Canada,ER-TSX,Extension,0.4289,EM16-76,727618,75.21,64.63,>10 - 100,Eastmain,540,11/14/2016,Eastmain Resources Inc.,Yes,Reserves Development,Surface,0.3686,FALSE,-14,decrease
+Australia,CMM-ASX,Extension,0.0677,KBRC025,747794,21.34,39.35,>10 - 100,Karlawinda,66,12/16/2016,Capricorn Metals Ltd,No,Feasibility Started,Surface,0.0808,FALSE,19,increase
+Canada,BEX-TVX,Extension,0.0747,CR_16_32,723129,5.9,4.1,<10,Cape Ray,709,11/4/2016,Benton Resources Inc.,Yes,Prefeas/Scoping,Surface,0.0519,FALSE,-30,decrease
+Papua New Guinea,NIU-ASX,Extension,0.0037,EDD 022,742947,6.15,5.92,<10,Edie Creek,361,12/7/2016,Niuminco Group Limited,No,Operating,Surface,0.0036,FALSE,-3,decrease
+Canada,BEX-TVX,Extension,0.0555,CR-16-52,733761,4.39,4.82,<10,Cape Ray,127,11/24/2016,Benton Resources Inc.,Yes,Prefeas/Scoping,Surface,0.0611,FALSE,9,increase
+Canada,GOM-TVX,Exploration,0.2018,GD_CS1_12/13/2016,745816,19.16,16.63,>10 - 100,Greenwood,527,12/13/2016,Golden Dawn Minerals Inc.,Yes,Prefeas/Scoping,Surface,0.1752,FALSE,-13,decrease
+USA,SGN-TVX,Extension,0.0528,MR162081,744877,6.6,6.9,<10,Mineral Ridge,190,12/8/2016,Scorpio Gold Corporation,Yes,Operating,In Pit,0.0553,FALSE,4,increase
+USA,KDX-TSX,Extension,4.8963,GLOR15-034,717437,724.92,816.28,>100,Hollister,104,10/11/2016,Klondex Mines Ltd.,Yes,Reserves Development,Underground,5.5133,FALSE,12,increase
+Canada,NHK-TSX,Extension,0.333,C16-03B,709066,44.99,58.17,>10 - 100,Colomac,87,10/12/2016,Nighthawk Gold Corp.,Yes,Reserves Development,Surface,0.3811,FALSE,14,increase
+Canada,NHK-TSX,Extension,0.3258,C16-07B,733698,49.73,52.01,>10 - 100,Colomac,210,11/24/2016,Nighthawk Gold Corp.,Yes,Reserves Development,Surface,0.3359,FALSE,3,increase
+Canada,NHK-TSX,Extension,0.3137,G16-10,753737,48.57,57.45,>10 - 100,Colomac,75,12/21/2016,Nighthawk Gold Corp.,Yes,Reserves Development,Surface,0.3711,FALSE,18,increase
+Canada,PRB-TVX,Extension,0.8829,PC-16-90,742778,75.45,82.47,>10 - 100,Val-dOr East,139,12/6/2016,Probe Metals Inc.,Yes,Reserves Development,Surface,0.9617,FALSE,8,increase
+Mexico,GNC-TVX,Exploration,0.2072,GC_01_10.13.2016,714351,7.68,7.19,<10,El Colomo,407,10/13/2016,Gainey Capital Corp.,No,Target Outline,Surface,0.1941,FALSE,-6,decrease
+Australia,EGS-ASX,Definition,0.1732,MIRC158,728084,84.78,76.82,>10 - 100,Davyhurst,463,11/15/2016,Eastern Goldfields Limited,Yes,Feasibility Started,In Pit,0.1569,FALSE,-9,decrease
+Canada,ANX-TSX,Exploration,0.0447,VK-16-130,730142,9.35,8.69,<10,Viking,424,11/17/2016,Anaconda Mining Inc.,No,Reserves Development,Surface,0.0415,FALSE,-7,decrease
+Australia,EGS-ASX,Extension,0.1699,CNDD007,733417,83.18,73.52,>10 - 100,Davyhurst,502,11/24/2016,Eastern Goldfields Limited,Yes,Feasibility Started,In Pit,0.1503,FALSE,-11,decrease
+Australia,EGS-ASX,Extension,0.1503,MIRC003,746904,73.52,100.49,>10 - 100,Davyhurst,22,12/15/2016,Eastern Goldfields Limited,Yes,Feasibility Started,In Pit,0.2038,FALSE,35,increase
+Australia,EGS-ASX,Definition,0.1624,SKRC082,754233,79.49,75.76,>10 - 100,Davyhurst,383,11/23/2016,Eastern Goldfields Limited,Yes,Feasibility Started,Surface,0.1537,FALSE,-5,decrease
+Australia,GME-ASX,Extension,0.0222,MMRC039,704992,10.25,9.83,>10 - 100,Murrin Murrin,368,10/4/2016,GME Resources Limited,Yes,Reserves Development,In Pit,0.0213,FALSE,-4,decrease
+USA,SAM-TSX,Extension,0.54,T-1601C,717523,26.54,19.26,>10 - 100,Toiyabe,686,10/24/2016,Starcore International Mines Ltd.,Yes,Reserves Development,Surface,0.3919,FALSE,-27,decrease
+Australia,PNX-ASX,Exploration,0.0189,MORC010,748478,13.94,16.7,>10 - 100,Moline,63,12/19/2016,PNX Metals Limited,Yes,Target Outline,In Pit,0.0227,FALSE,19,increase
+Canada,RDS-TVX,Extension,0.1429,OB-16-14,738937,15.24,11.83,>10 - 100,O'Brien,639,12/5/2016,Radisson Mining Resources Inc.,Yes,Prefeas/Scoping,Surface,0.111,FALSE,-22,decrease
+Australia,SAR-ASX,Extension,0.9149,NMPRC16,714532,737.61,816.83,>100,Pinnacles,120,10/17/2016,Saracen Mineral Holdings Limited,No,Reserves Development,Surface,1.012,FALSE,10,increase
+Canada,MTO-TVX,Extension,0.636,BE-16-09,719756,27.74,20.97,>10 - 100,Barry United,660,10/31/2016,Metanor Resources Inc.,Yes,Prefeas/Scoping,Surface,0.4807,FALSE,-24,decrease
+Canada,MTO-TVX,Extension,0.5156,MB-16-24,728470,22.49,18.21,>10 - 100,Barry United,620,11/15/2016,Metanor Resources Inc.,Yes,Prefeas/Scoping,Surface,0.415,FALSE,-19,decrease
+Australia,CAV-ASX,Exploration,0.0052,SRC003,745285,2.41,2.66,<10,Lake Roe,124,12/13/2016,Carnavale Resources Limited,No,Target Outline,Surface,0.0058,FALSE,10,increase
+Australia,RMS-ASX,Extension,0.3386,GXRC0502,748711,177.84,238.38,>100,Mt Magnet,25,12/19/2016,Ramelius Resources Limited,Yes,Operating,In Pit,0.4538,FALSE,34,increase
+Australia,LCD-ASX,Extension,0.043,16LCRC026,722246,3.6,2.3,<10,Quinns,728,11/4/2016,Latitude Consolidated Limited,Yes,Reserves Development,Surface,0.0274,FALSE,-36,decrease
+Canada,EXS-TVX,Exploration,0.0604,37986136,708078,6.55,5.67,<10,Timmins Porcupine West,530,10/11/2016,Explor Resources Inc.,No,Reserves Development,Surface,0.0522,FALSE,-13,decrease
+Canada,CJC-TVX,Exploration,0.1082,R5,725043,8.17,7.04,<10,Sakami,537,11/8/2016,Canada Strategic Metals Inc.,No,Target Outline,Surface,0.0932,FALSE,-13,decrease
+Australia,LCD-ASX,Extension,0.0273,16LCRC026,733085,2.29,2.57,<10,Quinns,130,11/23/2016,Latitude Consolidated Limited,No,Reserves Development,Surface,0.03,FALSE,9,increase
+Mexico,GGD-TSX,Extension,0.4645,318,716025,79.61,80.95,>10 - 100,Santa Gertrudis,233,10/19/2016,GoGold Resources Inc.,Yes,Construction Started,Surface,0.4724,FALSE,1,increase
+Canada,IGO-TVX,Extension,0.1274,RO16-15,718983,7.07,5.92,<10,Rosebute,558,10/27/2016,Independence Gold Corp.,No,Target Outline,Surface,0.108,FALSE,-15,decrease
+Australia,MGV-ASX,Extension,0.0724,16MORC043,715492,13.03,13.02,>10 - 100,Murchison,275,10/18/2016,Musgrave Minerals Limited,Yes,Operating,Surface,0.0723,FALSE,0,same
+Australia,MGV-ASX,Extension,0.092,16MORC048,721246,16.57,11.84,>10 - 100,Murchison,697,11/3/2016,Musgrave Minerals Limited,Yes,Operating,Surface,0.0658,FALSE,-28,decrease
+Australia,SLR-ASX,Extension,0.4514,16MORC052,725108,227.39,210.63,>100,Murchison,429,11/9/2016,Silver Lake Resources Limited,Yes,Operating,Surface,0.4182,FALSE,-7,decrease
+USA,NM-TVX,Exploration,0.3309,NER_CS1_10-18-2016,716034,3.58,3.63,<10,Richardson,240,10/18/2016,Northern Empire Resources Corp.,Yes,Target Outline,In Pit,0.3357,FALSE,1,increase
+Nicaragua,OVL-ASX,Extension,0.0174,48788,708875,11.66,10.95,>10 - 100,El Topacio,428,10/12/2016,Oro Verde Limited,Yes,Reserves Development,Surface,0.0161,FALSE,-7,decrease
+Ghana,CAP-TVX,Extension,0.0224,16APR003,720688,2.97,2.48,<10,Akorade,581,11/1/2016,Castle Peak Mining Limited,No,Reserves Development,Surface,0.0187,FALSE,-16,decrease
+Mali,RSG-ASX,Extension,1.2777,SYDD442,717734,939.66,677.05,>100,Syama,694,10/25/2016,Resolute Mining Limited,Yes,Expansion,Underground,0.9187,FALSE,-28,decrease
+USA,TLRS-US,Extension,0.3155,N601155,744500,7.61,6.32,<10,Talapoosa,587,12/7/2016,Timberline Resources Corporation,No,Prefeas/Scoping,Surface,0.262,FALSE,-16,decrease
+Canada,OOR-TVX,Exploration,0.0998,372702,727958,4.96,4.11,<10,Grizzly,590,11/14/2016,GFK Resources Inc.,No,Exploration,Surface,0.0827,FALSE,-17,decrease
+Australia,KAI-ASX,Extension,0.0351,KMYD 002,729645,13.66,11.64,>10 - 100,Mt York,553,11/17/2016,Kairos Minerals Limited,Yes,Reserves Development,Surface,0.0299,FALSE,-14,decrease
+Australia,CMM-ASX,Extension,0.0694,KBRC436,744522,21.87,23.88,>10 - 100,Karlawinda,137,12/9/2016,Capricorn Metals Ltd,No,Feasibility Started,Surface,0.0757,FALSE,9,increase
+Ghana,GRL-AIMLSE,Extension,0.0218,16AKRC011,727391,1.56,1.27,<10,Homase,616,11/11/2016,GoldStone Resources Limited,No,Reserves Development,Surface,0.0177,FALSE,-19,decrease
+Australia,DCN-ASX,Extension,2.3331,16JUDD404,706300,326.03,348.81,>100,Mt Morgans,158,10/10/2016,Dacian Gold Limited,No,Feasibility Started,Surface,2.4961,FALSE,6,increase
+Canada,SKE-TVX,Extension,0.0494,S16-095,745587,26.06,29.96,>10 - 100,Spectrum,99,12/12/2016,Skeena Resources Limited,Yes,Reserves Development,Surface,0.0559,FALSE,13,increase
+Ireland,PLY-TVX,Exploration,0.112,PM_CS_11.3.2016,721527,5.72,4.35,<10,Ox Mountains,654,11/3/2016,Playfair Mining Ltd.,No,Target Outline,Surface,0.0852,FALSE,-23,decrease
+Ireland,CGNR-AIMLSE,Extension,0.3106,CG_01_11.3.2016,721530,3.42,2.59,<10,Armagh-Monaghan,657,11/3/2016,Conroy Gold and Natural Resources Plc,No,Prefeas/Scoping,Surface,0.2356,FALSE,-24,decrease
+Canada,SEA-TSX,Extension,10.817,IC-16-62,715690,585.62,577.62,>100,KSM,302,10/18/2016,Seabridge Gold Inc.,Yes,Prefeas/Scoping,Surface,10.6693,FALSE,-1,decrease
+Canada,SEA-TSX,Extension,9.1117,K-16-52B,728488,493.72,561.81,>100,KSM,95,11/15/2016,Seabridge Gold Inc.,Yes,Prefeas/Scoping,Surface,10.3682,FALSE,13,increase
+Canada,QIT-TVX,Exploration,0.0813,Trench B,727672,1.88,1.39,<10,Fancamp,677,11/14/2016,Quinto Real Capital Corporation,No,Exploration,Surface,0.0602,FALSE,-26,decrease
+Canada,TUO-TVX,Exploration,0.166,CB-16-03,708061,4.75,5.13,<10,Treaty Creek,148,10/11/2016,Teuton Resources Corporation,Yes,Target Outline,Surface,0.1791,FALSE,7,increase
+Canada,TUO-TVX,Exploration,0.2022,CB-16-03,718638,5.79,4.25,<10,Treaty Creek,681,10/26/2016,Teuton Resources Corporation,Yes,Target Outline,Surface,0.1484,FALSE,-26,decrease
+Canada,GGM-TVX,Extension,0.06,GR?16?03,726081,23.85,19.22,>10 - 100,Granada,619,11/9/2016,Granada Gold Mine Inc.,Yes,Prefeas/Scoping,Surface,0.0483,FALSE,-19,decrease
+Armenia,ORE-AIMLSE,Extension,0.0438,OG16-58,735959,1.37,0.97,<10,Mutsk,701,11/29/2016,Orogen Gold Plc,No,Target Outline,Surface,0.031,FALSE,-29,decrease
+Canada,BYN-TVX,Extension,0.0407,HY-16-50,727679,1.91,2.65,<10,Hyland,18,11/14/2016,Banyan Gold Corp.,Yes,Reserves Development,Surface,0.0564,FALSE,38,increase
+Armenia,ORE-AIMLSE,Extension,0.062,OG16-57,724817,1.94,1.37,<10,Mutsk,703,11/8/2016,Orogen Gold Plc,No,Target Outline,Surface,0.0438,FALSE,-29,decrease
+Canada,GPY-TVX,Extension,0.6027,GT16-011,711337,45.38,44.37,>10 - 100,Brewery Creek,350,10/13/2016,Golden Predator Mining Corp.,Yes,Prefeas/Scoping,Surface,0.5824,FALSE,-3,decrease
+Australia,KDR-ASX,Extension,0.3988,KEGR042,786866,125.99,100.31,>100,Mt Holland - Gold,629,10/28/2016,Kidman Resources Limited,Yes,Prefeas/Scoping,Surface,0.3175,FALSE,-20,decrease
+Canada,IDM-TVX,Extension,0.1229,MC16-08,730419,34.78,30.56,>10 - 100,Red Mountain,492,11/17/2016,IDM Mining Ltd.,Yes,Feasibility Started,Surface,0.1095,FALSE,-10,decrease
+Australia,GOR-ASX,Extension,0.4131,16DHRC0031,706150,359.04,379.2,>100,Yamarna,172,10/10/2016,Gold Road Resources Limited,No,Feasibility Started,Surface,0.436,FALSE,5,increase
+Canada,XIM-TVX,Exploration,0.085,1,731000,3.98,2.67,<10,Brett,721,11/21/2016,Ximen Mining Corp.,No,Target Outline,Surface,0.057,FALSE,-33,decrease
+Canada,IDM-TVX,Extension,0.1094,U16-1220,741900,30.55,27.89,>10 - 100,Red Mountain,449,12/6/2016,IDM Mining Ltd.,Yes,Feasibility Started,Underground,0.0999,FALSE,-8,decrease
+USA,GSV-TVX,Extension,2.3806,DS16-24,711128,496.12,522.58,>100,Railroad-Pinion,292,10/13/2016,Gold Standard Ventures Corporation,Yes,Reserves Development,Surface,2.3593,FALSE,0,same
+Armenia,ORE-AIMLSE,Extension,0.0634,OG15-59,746312,1.99,0.96,<10,Mutsk,749,12/14/2016,Orogen Gold Plc,No,Target Outline,Surface,0.0306,FALSE,-51,decrease
+Canada,WHM-TVX,Extension,0.0454,DOB-09-14,717242,1.33,1.08,<10,Dorothy Dobie,610,10/21/2016,White Metal Resources Corp.,Yes,Reserves Development,Surface,0.037,FALSE,-18,decrease
+Finland,DRA-ASX,Extension,0.2039,KU-1529,716657,18.12,20.05,>10 - 100,Orivesi,118,10/20/2016,Dragon Mining Limited,Yes,Operating,Underground,0.2257,FALSE,10,increase
+Mexico,AR-TSX,Extension,2.6256,16-LCRC-414,704818,416.07,364.89,>100,La Colorada,513,10/3/2016,Argonaut Gold Inc.,Yes,Operating,In Pit,2.3026,FALSE,-12,decrease
+Canada,TUO-TVX,Exploration,0.1641,DN-16-05,725104,4.7,3.52,<10,Del Norte,666,11/8/2016,Teuton Resources Corporation,Yes,Target Outline,Surface,0.123,FALSE,-25,decrease
+Sweden,BME-TVX,Definition,0.8996,CNT16-006,719464,95.35,71.06,>10 - 100,Barsele,672,10/27/2016,Barsele Minerals Corp.,Yes,Reserves Development,Surface,0.6704,FALSE,-25,decrease
+Sweden,BME-TVX,Extension,0.7774,CNT16012,746833,82.88,81.1,>10 - 100,Barsele,321,12/14/2016,Barsele Minerals Corp.,Yes,Reserves Development,Surface,0.7607,FALSE,-2,decrease
+Australia,SMC-ASX,Extension,0.2517,LR0281,724614,15.78,13.91,>10 - 100,Woolgar,506,11/7/2016,Strategic Minerals Corporation N.L.,Yes,Reserves Development,Surface,0.2218,FALSE,-11,decrease
+Honduras,IMII-US,Exploration,0.395,CMCS-09,729651,19.74,24.52,>10 - 100,Clavo Rico,49,11/17/2016,"Inception Mining, Inc.",Yes,Operating,Surface,0.49,FALSE,24,increase
+Canada,GIS-TVX,Exploration,0.1006,T-7,730258,4.12,3.71,<10,Chevrier,472,11/17/2016,Genesis Metals Corp.,Yes,Reserves Development,Surface,0.0906,FALSE,-9,decrease
+Canada,GIS-TVX,Exploration,0.0943,GFA-171,743255,3.87,3.64,<10,Chevrier,394,12/6/2016,Genesis Metals Corp.,Yes,Reserves Development,Surface,0.0888,FALSE,-5,decrease
+Canada,GIS-TVX,Exploration,0.0836,FA-51,745512,3.43,3.06,<10,Chevrier,487,12/12/2016,Genesis Metals Corp.,Yes,Reserves Development,Surface,0.0745,FALSE,-10,decrease
+Canada,MOZ-TSX,Extension,0.5007,MA-16-128,720728,58.61,48.38,>10 - 100,Valentine Lake,607,11/2/2016,Marathon Gold Corporation,Yes,Reserves Development,Surface,0.41,FALSE,-18,decrease
+Canada,MOZ-TSX,Extension,0.3846,MA-16-136,730997,45.38,50.2,>10 - 100,Valentine Lake,121,11/21/2016,Marathon Gold Corporation,Yes,Reserves Development,Surface,0.4254,FALSE,10,increase
+Argentina,MRZ-TVX,Exploration,0.9199,IODDH-20,748680,45.1,56.31,>10 - 100,Claudia,45,12/16/2016,Mirasol Resources Ltd.,No,Target Outline,Surface,1.1508,FALSE,25,increase
+Canada,MOZ-TSX,Extension,0.4039,MA-16-149,746761,47.67,49.29,>10 - 100,Valentine Lake,207,12/14/2016,Marathon Gold Corporation,Yes,Reserves Development,Surface,0.4177,FALSE,3,increase
+Canada,PGM-TVX,Extension,0.5708,PG16-198,704309,98.51,90.61,>10 - 100,Madsen,439,10/3/2016,Pure Gold Mining Inc.,Yes,Prefeas/Scoping,Surface,0.525,FALSE,-8,decrease
+Canada,PGM-TVX,Extension,0.5163,PG16-229,720343,89.1,61.9,>10 - 100,Madsen,708,10/31/2016,Pure Gold Mining Inc.,Yes,Prefeas/Scoping,Surface,0.3587,FALSE,-30,decrease
+Canada,PGM-TVX,Extension,0.3513,PG16-233,727644,60.62,59.72,>10 - 100,Madsen,310,11/14/2016,Pure Gold Mining Inc.,Yes,Prefeas/Scoping,Surface,0.346,FALSE,-1,decrease
+Canada,PGM-TVX,Extension,0.321,PG16-279,753199,55.4,70.53,>10 - 100,Madsen,38,12/20/2016,Pure Gold Mining Inc.,Yes,Prefeas/Scoping,Surface,0.4087,FALSE,27,increase
+Canada,VIT-TVX,Extension,0.403,DG16-750C,732572,202.46,187.63,>100,Dublin Gulch,430,11/22/2016,Victoria Gold Corp.,Yes,Feasibility Complete,Surface,0.3732,FALSE,-7,decrease
+Uruguay,OMI-TSX,Extension,0.1854,DDHUGSG16-024_07,709031,18.47,22.4,>10 - 100,San Gregorio,58,10/12/2016,Orosur Mining Inc.,Yes,Operating,Underground,0.2242,FALSE,20,increase
+Bulgaria,DPM-TSX,Extension,1.5155,EXT150_440_06,751376,243.37,381.6,>100,Chelopech,9,12/20/2016,Dundee Precious Metals Inc.,Yes,Operating,Surface,2.3763,FALSE,56,increase
+Australia,EGS-ASX,Infill,0.1569,MIRC184,739273,76.82,77.2,>10 - 100,Davyhurst,248,12/6/2016,Eastern Goldfields Limited,No,Feasibility Started,In Pit,0.1579,FALSE,0,same
+Canada,BAR-TSX,Extension,0.6565,A-16-20,720068,82.27,84.3,>10 - 100,Northshore,220,11/1/2016,Balmoral Resources Ltd.,Yes,Reserves Development,Surface,0.6717,FALSE,2,increase
+Chile,AGD-ASX,Infill,0.1015,AM-038,746874,52.67,62.32,>10 - 100,Amancaya,74,12/15/2016,Austral Gold Limited,No,Feasibility Started,Surface,0.1201,FALSE,18,increase
+Canada,GWM-TVX,Extension,0.224,CS-331,793155,13.01,15.39,>10 - 100,Clarence Stream,76,12/20/2016,Galway Metals Inc.,No,Reserves Development,Surface,0.2649,FALSE,18,increase
+Australia,KIN-ASX,Extension,0.1846,MR16RC028,736698,21.06,15.29,>10 - 100,Leonora,685,12/1/2016,Kin Mining NL,Yes,Prefeas/Scoping,Surface,0.1341,FALSE,-27,decrease
+Australia,MDI-ASX,Extension,0.0526,MSRC052,706566,24.65,22.84,>10 - 100,Sandstone,427,10/11/2016,Middle Island Resources Limited,Yes,Advanced Exploration,In Pit,0.0487,FALSE,-7,decrease
+Australia,MDI-ASX,Extension,0.0323,MSRC177,746807,15.16,8.53,>10 - 100,Sandstone,746,12/15/2016,Middle Island Resources Limited,Yes,Prefeas/Scoping,Surface,0.0182,FALSE,-43,decrease
+Cambodia,EMR-ASX,Metallurgical,0.032,DD16OKVMET005,731879,66.32,76.51,>10 - 100,Okvau-Ochung,83,10/18/2016,Emerald Resources NL,No,Feasibility Started,Surface,0.0369,FALSE,15,increase
+Ghana,CDV-ASX,Extension,0.156,NMDD035,754982,47.42,54.7,>10 - 100,Bolgatanga,84,12/20/2016,Cardinal Resources Limited,No,Reserves Development,Surface,0.1799,FALSE,15,increase
+Canada,TXR-TVX,Extension,0.5135,TWL16-026,727070,51.08,43.62,>10 - 100,Yellowknife City,551,11/10/2016,TerraX Minerals Inc.,Yes,Reserves Development,Surface,0.4384,FALSE,-14,decrease
+USA,PG-TSX,Discovery,2.5165,GB13-07,727683,505.8,364.56,>100,Goldbanks,692,10/26/2016,Premier Gold Mines Limited,Yes,Reserves Development,Surface,1.8109,FALSE,-28,decrease
+Canada,SEA-TSX,Exploration,11.1744,JM-16-06,718481,604.96,518.77,>100,Iskut,546,10/26/2016,Seabridge Gold Inc.,Yes,Reserves Development,Surface,9.574,FALSE,-14,decrease
+Australia,LCY-ASX,Extension,0.0038,BPC103,711436,5.54,5.64,<10,Mt Celia,231,10/14/2016,Legacy Iron Ore Limited,Yes,Reserves Development,Surface,0.0038,FALSE,1,increase
+Ghana,XTG-TSX,Extension,0.2094,CCDD16022,716545,10.15,8.9,>10 - 100,Kibi,512,10/19/2016,Xtra-Gold Resources Corp.,Yes,Reserves Development,Surface,0.1837,FALSE,-12,decrease
+Tanzania,TNX-TSX,Extension,0.6542,BMDD202,715695,71.36,70.8,>10 - 100,Buckreef,289,10/18/2016,Tanzanian Royalty Exploration Corporation,Yes,Commissioning,Surface,0.6491,FALSE,0,same
+Fiji,LIO-TVX,Infill,0.6124,TUDDH 410,753690,62.29,70.87,>10 - 100,Tuvatu,96,12/21/2016,Lion One Metals Limited,No,Prefeas/Scoping,Surface,0.6968,FALSE,13,increase
+Mauritania,ALG-TVX,Extension,0.2812,T16RC081,705577,34.44,32.56,>10 - 100,Tijirit,386,10/5/2016,Algold Resources Limited,Yes,Reserves Development,Surface,0.2659,FALSE,-5,decrease
+Mauritania,ALG-TVX,Extension,0.1887,T16RC136,735477,23.11,22.07,>10 - 100,Tijirit,417,11/28/2016,Algold Resources Limited,Yes,Reserves Development,Surface,0.1758,FALSE,-6,decrease
+Ghana,GSS-US,Infill,0.839,BS16DD009,738922,275.82,232.36,>100,Wassa,566,12/5/2016,Golden Star Resources Limited,Yes,Expansion,Surface,0.7068,FALSE,-15,decrease
+Nicaragua,GRR-TVX,Extension,0.2274,SA16-RC-61,705973,37.13,36.11,>10 - 100,San Albino-Murra,337,10/6/2016,Golden Reign Resources Ltd.,Yes,Prefeas/Scoping,Surface,0.2212,FALSE,-2,decrease
+Nicaragua,GRR-TVX,Extension,0.1977,AR16-TR-23,715625,32.28,35.31,>10 - 100,San Albino-Murra,136,10/17/2016,Golden Reign Resources Ltd.,Yes,Prefeas/Scoping,In Pit,0.2163,FALSE,9,increase
+Egypt,AAN-TVX,Extension,0.0566,AHA-067,708115,6.39,6.32,<10,Abu Marawat,295,10/11/2016,Aton Resources Inc.,Yes,Reserves Development,Surface,0.056,FALSE,-1,decrease
+Egypt,AAN-TVX,Extension,0.0484,AHA-079,727097,5.46,5.45,<10,Abu Marawat,276,11/10/2016,Aton Resources Inc.,Yes,Reserves Development,Surface,0.0483,FALSE,0,same
+Egypt,AAN-TVX,Extension,0.0522,AHA-092,735968,5.89,8.91,<10,Abu Marawat,420,11/29/2016,Aton Resources Inc.,Yes,Reserves Development,Surface,0.0485,FALSE,-7,decrease
+Chile,YRI-TSX,Extension,3.6809,SNX0682,719530,3488.05,2992.79,>100,El Penon,543,10/27/2016,Yamana Gold Inc.,Yes,Operating,Underground,3.1583,FALSE,-14,decrease
+Australia,GOR-ASX,Extension,0.4346,12ALRC0031,714357,377.72,420.06,>100,Yamarna,114,10/17/2016,Gold Road Resources Limited,Yes,Feasibility Started,Surface,0.483,FALSE,11,increase
+Australia,GOR-ASX,Extension,0.4299,16ATRC0021,720672,373.85,394.29,>100,Yamarna,175,11/1/2016,Gold Road Resources Limited,Yes,Feasibility Complete,Surface,0.4531,FALSE,5,increase
+Ghana,CDV-ASX,Infill,0.1638,NMDD036,748500,49.8,54.52,>10 - 100,Bolgatanga,135,12/19/2016,Cardinal Resources Limited,No,Reserves Development,Surface,0.1793,FALSE,9,increase
+Australia,GCY-ASX,Extension,0.454,DGRC139,705943,115.03,112.64,>100,Dalgaranga,342,10/7/2016,Gascoyne Resources Limited,Yes,Feasibility Started,Surface,0.4406,FALSE,-2,decrease
+Australia,GCY-ASX,Extension,0.2856,DGAC1160,747275,73.17,91.34,>10 - 100,Dalgaranga,47,12/15/2016,Gascoyne Resources Limited,Yes,Feasibility Complete,Surface,0.3566,FALSE,24,increase
+Australia,IRC-ASX,Exploration,0.0804,PFRC1637,705132,15.59,15.66,>10 - 100,Binduli North,287,10/4/2016,Intermin Resources Limited,Yes,Preproduction,Surface,0.0799,FALSE,0,same
+Australia,IRC-ASX,Extension,0.0734,PFDD1601,741865,14.42,13.55,>10 - 100,Binduli North,400,11/29/2016,Intermin Resources Limited,Yes,Preproduction,Surface,0.0689,FALSE,-6,decrease
+Canada,TUO-TVX,Exploration,0.116,CL-16-01,749150,3.49,4.79,<10,Clone,19,12/19/2016,Teuton Resources Corporation,Yes,Target Outline,Surface,0.159,FALSE,37,increase
+Canada,WM-TSX,Exploration,0.0376,1050-005,738947,8.34,9.02,<10,Fenelon,144,12/5/2016,Wallbridge Mining Company Limited,Yes,Prefeas/Scoping,Surface,0.0407,FALSE,8,increase
+Papua New Guinea,KNT-TVX,Extension,0.6247,GCDD0002,736748,74.6,79.39,>10 - 100,Kainantu,165,11/30/2016,K92 Mining Inc.,No,Operating,Underground,0.6647,FALSE,6,increase
+Australia,MOY-ASX,Extension,0.2097,GGRCMET002,714456,163.73,179.62,>100,Nullagine,132,10/17/2016,Millennium Minerals Limited,Yes,Operating,In Pit,0.23,FALSE,9,increase
+Australia,MAT-ASX,Infill,0.1424,16LCDD004,746020,20.61,20.38,>10 - 100,Lake Carey,293,12/14/2016,Matsa Resources Limited,No,Reserves Development,Surface,0.1409,FALSE,-1,decrease
+Mexico,CAND-TVX,Extension,0.2245,CA16PI031,769016,18.25,20.56,>10 - 100,Pinos,174,10/31/2016,Candelaria Mining Corp.,No,Target Outline,Surface,0.2367,FALSE,5,increase
+Australia,MOY-ASX,Extension,0.2339,BJSRD006,721488,182.7,152.88,>100,Nullagine,575,11/3/2016,Millennium Minerals Limited,Yes,Operating,Surface,0.1958,FALSE,-16,decrease
+Australia,MRP-ASX,Extension,0.0682,BORC157,720262,21.65,19.8,>10 - 100,Boorara,445,10/31/2016,MacPhersons Resources Limited,Yes,Feasibility Started,Surface,0.0624,FALSE,-8,decrease
+Russia,AUR-OME,Extension,1.0956,26006,706456,19.5,24.39,>10 - 100,Tardan,46,10/7/2016,Auriant Mining AB,Yes,Operating,Surface,1.3699,FALSE,25,increase
+Fiji,LIO-TVX,Infill,0.559,TUDDH 406,733317,56.81,72.87,>10 - 100,Tuvatu,36,11/23/2016,Lion One Metals Limited,Yes,Prefeas/Scoping,Surface,0.7164,FALSE,28,increase
+Brazil,CAS-ASX,Extension,0.0996,MD-12/2016,705054,24.24,24.23,>10 - 100,Juruena,484,10/4/2016,Crusader Resources Limited,Yes,Prefeas/Scoping,Surface,0.089,FALSE,-10,decrease
+USA,OOO-TVX,Extension,0.2432,16 OKR-315,719757,30.28,20.69,>10 - 100,Kilgore,722,10/31/2016,Otis Gold Corporation,Yes,Reserves Development,Surface,0.1627,FALSE,-33,decrease
+USA,OOO-TVX,Extension,0.1715,16 OKR-338,735944,21.81,23.26,>10 - 100,Kilgore,161,11/29/2016,Otis Gold Corporation,Yes,Reserves Development,Surface,0.1829,FALSE,6,increase
+Argentina,YRI-TSX,Extension,3.6809,16QD-975,719508,3488.05,2992.79,>100,Gualcamayo,543,10/27/2016,Yamana Gold Inc.,Yes,Operating,In Pit,3.1583,FALSE,-14,decrease
+Australia,SAR-ASX,Extension,0.6637,KRRD121,744263,535.67,477.81,>100,South Laverton-Carosue Dam,488,12/7/2016,Saracen Mineral Holdings Limited,Yes,Operating,In Pit,0.592,FALSE,-10,decrease
+Australia,KRS-AIMLSE,Exploration,0.0056,KKC001,750755,8.07,7.52,<10,Klondyke,418,12/20/2016,Keras Resources Plc,Yes,Reserves Development,Surface,0.0052,FALSE,-6,decrease
+Papua New Guinea,KNT-TVX,Extension,0.7064,KMDD0006,745283,84.37,86.36,>10 - 100,Kainantu,219,12/12/2016,K92 Mining Inc.,No,Operating,Underground,0.7231,FALSE,2,increase
+Canada,TMR-TSX,Extension,14.3348,TM00365,722224,1189.56,1036.7,>100,Hope Bay,519,11/3/2016,TMAC Resources Inc.,Yes,Construction Started,Surface,12.4926,FALSE,-12,decrease
+Canada,IDM-TVX,Infill,0.1045,U16-1216,732734,29.57,29.77,>10 - 100,Red Mountain,224,11/22/2016,IDM Mining Ltd.,No,Feasibility Started,Underground,0.1066,FALSE,2,increase
+Australia,MCR-ASX,Infill,0.2346,MRC408,725277,44.15,42.97,>10 - 100,Widgiemooltha,333,11/8/2016,Mincor Resources NL,No,Feasibility Started,In Pit,0.2283,FALSE,-2,decrease
+Australia,ADN-ASX,Definition,0.012,BGRC-1223,721075,5.6,4.2,<10,Eyre Peninsula,667,11/3/2016,Andromeda Metals Limited,Yes,Prefeas/Scoping,Surface,0.009,FALSE,-25,decrease
+Australia,ADN-ASX,Definition,0.0104,BGRC-1239,734234,4.83,3.84,<10,Eyre Peninsula,630,11/28/2016,Andromeda Metals Limited,Yes,Prefeas/Scoping,Surface,0.0083,FALSE,-20,decrease
+Canada,OSK-TSX,Extension,2.1038,OSK-W-16-720,709112,325.25,332.75,>100,Windfall Lake,221,10/12/2016,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,2.1523,FALSE,2,increase
+Canada,OSK-TSX,Extension,2.2467,OSK-W-16-704-W1,718159,347.34,255.55,>100,Windfall Lake,682,10/25/2016,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,1.6352,FALSE,-27,decrease
+Canada,OSK-TSX,Extension,1.9772,OSK-W-16-735,725086,308.98,276.11,>100,Windfall Lake,483,11/8/2016,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,1.7668,FALSE,-10,decrease
+Canada,TML-TSX,Infill,0.4741,TL16410,727359,44.6,47.79,>10 - 100,Goliath,243,11/11/2016,Treasury Metals Incorporated,No,Feasibility Started,Surface,0.4803,FALSE,1,increase
+Canada,OSK-TSX,Extension,1.8038,OSK-U-16-734,733326,281.89,308.15,>100,Windfall Lake,205,11/23/2016,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,1.8672,FALSE,3,increase
+Canada,OSK-TSX,Extension,1.6925,OSK-W-16-760,738934,264.49,272.24,>100,Windfall Lake,330,12/5/2016,Osisko Mining Inc.,Yes,Prefeas/Scoping,Surface,1.6497,FALSE,-2,decrease
+Tanzania,ORR-ASX,Exploration,0.3211,NBD0141,736494,55.68,47.73,>10 - 100,North Mara,545,11/30/2016,OreCorp Limited,Yes,Operating,In Pit,0.2752,FALSE,-14,decrease
+Tanzania,ORR-ASX,Extension,0.2906,BULRC001,747737,50.4,57.33,>10 - 100,Nyanzaga,97,12/16/2016,OreCorp Limited,Yes,Prefeas/Scoping,Surface,0.3306,FALSE,13,increase
+Australia,HAV-ASX,Extension,0.549,PTAC244,721864,93.93,76.03,>10 - 100,Portia,614,11/4/2016,Havilah Resources Limited,Yes,Operating,In Pit,0.4444,FALSE,-19,decrease
+Canada,BAR-TSX,Discovery,0.6995,MDE-16-221,715425,87.66,83.17,>10 - 100,Martiniere,380,10/17/2016,Balmoral Resources Ltd.,Yes,Target Outline,Surface,0.6637,FALSE,-5,decrease
+Australia,MAT-ASX,Extension,0.1473,LCAC018,732650,21.32,20.61,>10 - 100,Lake Carey,349,11/22/2016,Matsa Resources Limited,No,Reserves Development,Surface,0.1424,FALSE,-3,decrease
+Australia,TNR-ASX,Extension,0.1158,SWC053,730453,11.29,10.91,>10 - 100,Mt Stirling,351,11/18/2016,Torian Resources Limited,No,Prefeas/Scoping,Surface,0.1119,FALSE,-3,decrease
+Canada,BAR-TSX,Extension,0.6717,BLD-16-01,732624,84.3,71.68,>10 - 100,Martiniere,555,11/22/2016,Balmoral Resources Ltd.,Yes,Target Outline,Surface,0.5712,FALSE,-14,decrease
+Ghana,CDV-ASX,Extension,0.1751,MNDD035,751938,53.23,52.81,>10 - 100,Bolgatanga,290,12/12/2016,Cardinal Resources Limited,No,Reserves Development,Surface,0.1737,FALSE,0,same
+Canada,BAR-TSX,Extension,0.5925,MDE-16-242,745178,74.36,67.36,>10 - 100,Martiniere,464,12/12/2016,Balmoral Resources Ltd.,Yes,Target Outline,Surface,0.5368,FALSE,-9,decrease
+Australia,PGO-ASX,Infill,0.052,PGCL0053,734268,23.53,22.92,>10 - 100,Coolgardie,352,11/28/2016,Primary Gold Limited,No,Feasibility Started,In Pit,0.0502,FALSE,-3,decrease
+Canada,ANX-TSX,Extension,0.053,AE-16-20,709063,11.08,10.95,>10 - 100,Point Rousse,298,10/12/2016,Anaconda Mining Inc.,No,Operating,Surface,0.0523,FALSE,-1,decrease
+Australia,AQQ-ASX,Exploration,0.013,APD1339,754059,9.24,10.97,<10,Aphrodite,72,12/22/2016,Aphrodite Gold Limited,Yes,Prefeas/Scoping,Surface,0.0155,FALSE,18,increase
+Canada,HRT-TSX,Extension,0.2026,WZ-16-42,728455,71.56,70.93,>10 - 100,Sugar Zone,300,11/15/2016,Harte Gold Corporation,Yes,Prefeas/Scoping,Surface,0.2,FALSE,-1,decrease
+Canada,HRT-TSX,Extension,0.1979,WZ-16-45,753697,84.41,101.13,>10 - 100,Sugar Zone,71,12/21/2016,Harte Gold Corporation,Yes,Prefeas/Scoping,Surface,0.2348,FALSE,18,increase
+Canada,MEK-TVX,Extension,0.0552,TOG-16-47,728600,2.48,2.03,<10,Ogden,604,11/15/2016,Metals Creek Resources Corporation,Yes,Target Outline,Surface,0.0453,FALSE,-18,decrease
+Australia,SAR-ASX,Extension,0.6637,KHGC103,744118,535.67,477.81,>100,Thunderbox,488,12/7/2016,Saracen Mineral Holdings Limited,Yes,Operating,Underground,0.592,FALSE,-10,decrease
+Brazil,BDR-ASX,Extension,0.2691,GCRC19535,706051,284.57,372.92,>100,Tucano,31,10/10/2016,Beadell Resources Limited,Yes,Operating,In Pit,0.3526,FALSE,31,increase
+Brazil,BDR-ASX,Extension,0.2279,F02214,740975,241.04,174.54,>100,Tucano,687,12/6/2016,Beadell Resources Limited,Yes,Target Outline,In Pit,0.165,FALSE,-27,decrease
+Australia,SRI-ASX,Exploration,0.0119,PNA014,738894,11.09,10.68,>10 - 100,Paterson North,359,12/5/2016,Sipa Resources Limited,No,Target Outline,Surface,0.0115,FALSE,-3,decrease
+Turkey,ASR-TSX,Extension,1.3543,YNDD026,750578,395.51,526.43,>100,Copler,29,12/19/2016,Alacer Gold Corp.,Yes,Expansion,Surface,1.8019,FALSE,33,increase
+Australia,SMC-ASX,Extension,0.223,LR0290,739275,13.99,13.43,>10 - 100,Woolgar,364,12/6/2016,Strategic Minerals Corporation N.L.,No,Reserves Development,Surface,0.2142,FALSE,-3,decrease
+Tanzania,RVY-ASX,Extension,0.0184,MBRC449,705039,10.92,9.03,>10 - 100,Miyabi,595,10/4/2016,Rift Valley Resources Limited,Yes,Reserves Development,Surface,0.0152,FALSE,-17,decrease
+Australia,S2R-ASX,Extension,0.3381,SPBD0345,718190,80.34,77.01,>10 - 100,Polar Bear,370,10/24/2016,S2 Resources Limited,No,Reserves Development,Surface,0.3241,FALSE,-4,decrease
+Turkey,ZNC-ASX,Extension,0.0726,KT-18A,748656,12.62,12.14,>10 - 100,Kavaklitepe,363,12/20/2016,Zenith Minerals Limited,No,Target Outline,Surface,0.0698,FALSE,-3,decrease
+Australia,BGH-ASX,Extension,0.0225,BRC018,745987,4.78,4.5,<10,Bundarra,474,12/14/2016,Bligh Resources Limited,Yes,Feasibility Started,In Pit,0.0202,FALSE,-10,decrease
+Sudan,ORG-TVX,Metallurgical,0.2746,MET014DD,728722,31.11,29.84,>10 - 100,Block 14,367,11/16/2016,Orca Gold Inc.,No,Prefeas/Scoping,Surface,0.2634,FALSE,-4,decrease
+Canada,AUG-TSX,Extension,2.2603,16TB149,704456,150.23,139.43,>100,Committee Bay,432,10/3/2016,Auryn Resources Inc.,Yes,Reserves Development,Surface,2.0926,FALSE,-7,decrease
+Australia,AMI-ASX,Exploration,0.0921,HRUD370,731411,35.73,43.63,>10 - 100,Hera,53,11/22/2016,Aurelia Metals Limited,Yes,Expansion,Underground,0.1125,FALSE,22,increase
+Australia,GBZ-ASX,Infill,0.0109,KLRD0018,750831,8.85,8.37,<10,Mt Coolon,387,12/20/2016,GBM Resources Limited,No,Prefeas/Scoping,Surface,0.0103,FALSE,-5,decrease
+Australia,AMI-ASX,Exploration,0.096,HRUD374,736651,37.25,42.17,>10 - 100,Hera,100,12/1/2016,Aurelia Metals Limited,Yes,Expansion,Underground,0.1087,FALSE,13,increase
+Australia,AMI-ASX,Extension,0.1125,HRUD386,746280,43.63,37.91,>10 - 100,Hera,525,12/13/2016,Aurelia Metals Limited,Yes,Expansion,Underground,0.0977,FALSE,-13,decrease
+Finland,DRA-ASX,Extension,0.2039,HU/JS-748,716765,18.12,20.05,>10 - 100,Jokisivu,118,10/20/2016,Dragon Mining Limited,Yes,Operating,Underground,0.2257,FALSE,10,increase
+Australia,DEG-ASX,Extension,0.0258,BGRC125,747799,4.46,4.71,<10,Turner River Gold,173,12/16/2016,De Grey Mining Limited,Yes,Reserves Development,Surface,0.0272,FALSE,5,increase
+Australia,MXR-ASX,Extension,0.0023,LWRC0003,723220,5.61,5.44,<10,Spargoville,344,11/7/2016,Maximus Resources Limited,Yes,Advanced Exploration,Surface,0.0022,FALSE,-3,decrease
+Australia,MXR-ASX,Extension,0.0029,SPRC004,731988,7.19,5.49,<10,Spargoville,650,11/22/2016,Maximus Resources Limited,Yes,Reserves Development,Surface,0.0022,FALSE,-23,decrease
+Australia,MXR-ASX,Exploration,0.0022,MXLWRC003,751136,5.3,5.41,<10,Spargoville,225,12/21/2016,Maximus Resources Limited,Yes,Reserves Development,Surface,0.0022,FALSE,1,increase
+Australia,PNR-ASX,Extension,0.126,WNRC16012,718375,93.27,94.96,>10 - 100,Halls Creek,227,10/26/2016,Pantoro Limited,Yes,Expansion,In Pit,0.1283,FALSE,1,increase
+Australia,MAT-ASX,Infill,0.1506,16LCDD011,727889,21.79,20.55,>10 - 100,Lake Carey,389,11/15/2016,Matsa Resources Limited,No,Reserves Development,Surface,0.142,FALSE,-5,decrease
+Australia,KAI-ASX,Extension,0.0233,KMYD003,748092,9.07,8.54,<10,Mt York,391,12/19/2016,Kairos Minerals Limited,No,Reserves Development,Surface,0.022,FALSE,-5,decrease
+Australia,S2R-ASX,Extension,0.2873,SPBD0107,732028,68.28,49.8,>10 - 100,Polar Bear,705,11/22/2016,S2 Resources Limited,Yes,Reserves Development,Surface,0.2024,FALSE,-29,decrease
+Australia,ARS-ASX,Extension,0.0738,MRRC0032,736773,4.78,4.53,<10,Mt Roberts-Cottee,392,12/1/2016,Alt Resources Limited,No,Target Outline,Surface,0.0696,FALSE,-5,decrease
+Australia,IGO-ASX,Extension,3.1421,HSD122,747060,1843.49,1874.4,>100,Tropicana,236,12/15/2016,Independence Group NL,Yes,Operating,Surface,3.1948,FALSE,1,increase
+Australia,ANG-JSE,Extension,10.7326,BSD077,747356,4378.93,4603.51,>100,Tropicana,182,12/15/2016,AngloGold Ashanti Limited,Yes,Operating,Surface,11.2769,FALSE,5,increase
+Australia,EXG-ASX,Extension,0.0152,KNC160015,753810,12.27,14.76,>10 - 100,Kalgoorlie North,57,12/22/2016,Excelsior Gold Limited,Yes,Operating,In Pit,0.0184,FALSE,21,increase
+Australia,NVO-TVX,Extension,0.9549,16BSDH004,720706,88.84,73.6,>10 - 100,Blue Spec Shear,591,11/1/2016,Novo Resources Corporation,Yes,Prefeas/Scoping,Surface,0.7911,FALSE,-17,decrease
+Australia,NVO-TVX,Extension,0.7455,16BSDH027,735978,69.35,55.56,>10 - 100,Blue Spec Shear,624,11/29/2016,Novo Resources Corporation,Yes,Prefeas/Scoping,Surface,0.5972,FALSE,-19,decrease
+Turkey,AAU-AIMLSE,Extension,0.0206,KTP-RC15-16,716046,17.35,16.96,>10 - 100,Red Rabbit,324,10/19/2016,Ariana Resources Plc,Yes,Construction Started,Surface,0.0202,FALSE,-2,decrease
+Australia,ABU-ASX,Extension,0.1268,TYRD100003,742946,47.37,28.15,>10 - 100,Suplejack,742,12/7/2016,ABM Resources NL,Yes,Reserves Development,Surface,0.0753,FALSE,-40,decrease
+Canada,MQR-TVX,Extension,0.3183,CR 16-484,705855,39.11,36.52,>10 - 100,Croinor,419,10/6/2016,Monarques Gold Corporation,No,Prefeas/Scoping,Surface,0.2961,FALSE,-6,decrease
+USA,AQA-TSX,Extension,0.1679,LK-16-514,732605,39.36,36.6,>10 - 100,Back Forty,421,11/22/2016,Aquila Resources Inc.,Yes,Feasibility Started,Surface,0.1561,FALSE,-7,decrease
+Cambodia,EMR-ASX,Infill,0.0311,DD16OKV299,738772,65.55,60.94,>10 - 100,Okvau-Ochung,422,12/2/2016,Emerald Resources NL,No,Feasibility Started,Surface,0.0289,FALSE,-7,decrease
+Australia,DRM-ASX,Extension,0.3986,WBUG1126,732990,142.26,133.77,>100,Andy Well,398,11/23/2016,Doray Minerals Limited,No,Operating,Underground,0.3748,FALSE,-5,decrease
+Burkina Faso,TGZ-TSX,Extension,4.4188,BNDD3833,718965,417.63,329.68,>100,Banfora,635,10/26/2016,Teranga Gold Corporation,Yes,Feasibility Started,Surface,3.4882,FALSE,-21,decrease
+Ghana,AZM-ASX,Extension,0.0334,JORC078,717471,19.48,16.68,>10 - 100,Wa-Lawra,549,10/24/2016,Azumah Resources Limited,Yes,Feasibility Complete,Surface,0.0286,FALSE,-14,decrease
+Ghana,AZM-ASX,Exploration,0.0253,JORC089,745045,14.76,14.34,>10 - 100,Wa-Lawra,340,12/12/2016,Azumah Resources Limited,Yes,Feasibility Complete,Surface,0.0246,FALSE,-2,decrease
+Dominican Republic,UGD-TVX,Extension,0.2356,LP16-114,705579,10.75,10.25,>10 - 100,Neita,375,10/5/2016,Unigold Inc.,Yes,Reserves Development,Surface,0.2247,FALSE,-4,decrease
+Dominican Republic,UGD-TVX,Extension,0.2466,LP16-123,720760,11.25,9.35,>10 - 100,Neita,585,11/2/2016,Unigold Inc.,Yes,Reserves Development,Surface,0.205,FALSE,-16,decrease
+Turkey,AAU-AIMLSE,Extension,0.0214,KTP-RC21-16,709039,18.01,16.45,>10 - 100,Red Rabbit,448,10/12/2016,Ariana Resources Plc,No,Construction Started,In Pit,0.0195,FALSE,-8,decrease
+Dominican Republic,UGD-TVX,Extension,0.1985,LP16-128,747746,9.06,10.81,<10,Neita,65,12/15/2016,Unigold Inc.,Yes,Reserves Development,Surface,0.237,FALSE,19,increase
+Australia,AZY-ASX,Extension,0.0184,16MYC0049,747844,21.58,18.96,>10 - 100,North Telfer,508,12/16/2016,Antipa Minerals Limited,Yes,Target Outline,Surface,0.0162,FALSE,-12,decrease
+Australia,EAR-ASX,Extension,0.1832,JAC085,718216,31.85,28.85,>10 - 100,Yandal,465,10/26/2016,Echo Resources Limited,Yes,Feasibility Started,Surface,0.166,FALSE,-9,decrease
+Australia,CMM-ASX,Infill,0.0843,KBRC005,720973,26.57,24.43,>10 - 100,Karlawinda,440,11/2/2016,Capricorn Metals Ltd,No,Feasibility Started,In Pit,0.0775,FALSE,-8,decrease
+Tanzania,SHG-AIMLSE,Extension,0.1462,SC679,704298,85.21,88.85,>10 - 100,Singida,198,10/3/2016,Shanta Gold Limited,Yes,Feasibility Started,Surface,0.1524,FALSE,4,increase
+Australia,EXU-ASX,Exploration,0.0525,THRC093,745646,18.26,16.62,>10 - 100,Tampia,453,12/13/2016,Explaurum Limited,No,Prefeas/Scoping,Surface,0.0478,FALSE,-8,decrease
+Australia,IGO-ASX,Extension,3.6627,16GRRC003,727406,2148.88,1919.09,>100,Lake Mackay,486,11/14/2016,Independence Group NL,Yes,Target Outline,Surface,3.271,FALSE,-10,decrease
+USA,TMI-TSX,Extension,0.2236,T-16-003,705904,58.97,53.27,>10 - 100,Gold Springs,466,10/6/2016,TriMetals Mining Inc.,No,Prefeas/Scoping,Surface,0.2024,FALSE,-9,decrease
+Spain,MTR-AIMLSE,Exploration,0.0199,M075,745501,13.12,13.87,>10 - 100,Logrosan,468,12/12/2016,Metal Tiger Plc,No,Exploration,Surface,0.0179,FALSE,-9,decrease
+Australia,MGV-ASX,Extension,0.056,16MORC057,738964,10.09,9.17,>10 - 100,Murchison,457,12/6/2016,Musgrave Minerals Limited,No,Operating,Surface,0.0509,FALSE,-9,decrease
+Australia,ABU-ASX,Extension,0.0798,16GRRC007,748438,29.82,34.33,>10 - 100,Lake Mackay,86,12/20/2016,ABM Resources NL,Yes,Target Outline,Surface,0.0918,FALSE,15,increase
+Australia,NTM-ASX,Extension,0.0411,GTRC382D,736450,9.29,10.94,<10,Redcliffe,170,11/30/2016,NTM Gold Limited,Yes,Feasibility Started,Surface,0.0435,FALSE,5,increase
+Senegal,BSR-ASX,Extension,0.026,RCM066,735218,46.79,41.91,>10 - 100,Makabingui,479,11/28/2016,Bassari Resources Limited,No,Feasibility Complete,Surface,0.0233,FALSE,-10,decrease
+Azerbaijan,AAZ-AIMLSE,Extension,0.2303,UGRC 14,715416,25.94,47.7,>10 - 100,Gedabek,3,10/17/2016,Anglo Asian Mining Plc,Yes,Operating,Surface,0.4234,FALSE,83,increase
+Azerbaijan,AAZ-AIMLSE,Extension,0.2856,UGDD2,747931,32.18,35.32,>10 - 100,Gedabek,131,12/16/2016,Anglo Asian Mining Plc,Yes,Operating,Surface,0.3135,FALSE,9,increase
+Canada,RPX-TVX,Extension,0.1135,TR16-1B,709038,11.67,10.64,>10 - 100,Wawa,494,10/12/2016,Red Pine Exploration Inc.,No,Reserves Development,Surface,0.1009,FALSE,-11,decrease
+Australia,TYX-ASX,Extension,0.0181,13ZLDH001,751256,7.22,7.65,<10,Wilcherry Hill,169,12/21/2016,Tyranna Resources Limited,Yes,Feasibility,Surface,0.0192,FALSE,6,increase
+Mexico,EDR-TSX,Exploration,3.5945,COM108,745817,456.8,450,>100,El Compas,308,12/13/2016,Endeavour Silver Corporation,Yes,Prefeas/Scoping,Surface,3.5411,FALSE,-1,decrease
+USA,LGD-TSX,Extension,0.3715,PGS117,738458,55.71,49.22,>10 - 100,Goldstrike,504,12/1/2016,Pilot Gold Inc.,No,Target Outline,In Pit,0.3283,FALSE,-11,decrease
+Australia,CMM-ASX,Extension,0.0885,KBRC430,716842,27.9,31.36,>10 - 100,Karlawinda,106,10/20/2016,Capricorn Metals Ltd,Yes,Feasibility Started,Surface,0.0995,FALSE,12,increase
+Australia,GMD-ASX,Extension,0.023,16USRC080,726689,14.55,15.24,>10 - 100,Ulysses,471,11/10/2016,Genesis Minerals Limited,No,Limited Production,Surface,0.0207,FALSE,-9,decrease
+USA,ZNC-ASX,Exploration,0.0842,ZM_CS_11.10.2016,726080,14.55,12.77,>10 - 100,Burro Creek,511,11/10/2016,Zenith Minerals Limited,No,Reserves Development,Surface,0.0738,FALSE,-12,decrease
+Canada,WHN-TVX,Exploration,0.0981,PV16-04,741889,5.13,3.87,<10,Prospect Valley,662,12/6/2016,Westhaven Ventures Inc.,Yes,Reserves Development,Surface,0.074,FALSE,-24,decrease
+Burkina Faso,ROXG-TSX,Extension,0.9244,YRM-16-DD-426,735666,342.57,334.75,>100,Yaramoko,325,11/29/2016,Roxgold Inc.,Yes,Operating,Surface,0.9033,FALSE,-2,decrease
+Canada,GOM-TVX,Extension,0.2018,BF16-26,745795,19.16,16.63,>10 - 100,May Mac,527,12/13/2016,Golden Dawn Minerals Inc.,No,Target Outline,Surface,0.1752,FALSE,-13,decrease
+Canada,OSK-TSX,Extension,1.8035,OSK-BD-16-002,741466,281.84,272.24,>100,Black Dog,447,12/6/2016,Osisko Mining Inc.,Yes,Reserves Development,Surface,1.6497,FALSE,-8,decrease
+Mexico,MUX-US,Exploration,3.28,ENX-032,711093,982.21,1003.42,>100,El Gallo Complex,223,10/13/2016,McEwen Mining Inc.,Yes,Operating,Surface,3.35,FALSE,2,increase
+Canada,MQR-TVX,Extension,0.2549,CR-16-489,725810,32.39,27.61,>10 - 100,Croinor,539,11/9/2016,Monarques Gold Corporation,No,Prefeas/Scoping,Surface,0.2194,FALSE,-13,decrease
+Mexico,AMM-TSX,Extension,1.2184,TU-16-467,709345,104.92,117.77,>100,Tuligtic,107,10/12/2016,Almaden Minerals Limited,Yes,Prefeas/Scoping,Surface,1.3676,FALSE,12,increase
+Mexico,AMM-TSX,Extension,0.8281,TU-16-479,754402,71.35,89.61,>10 - 100,Tuligtic,43,12/22/2016,Almaden Minerals Limited,Yes,Prefeas/Scoping,Surface,1.0399,FALSE,25,increase
+Canada,AZM-TVX,Extension,0.3472,Channel 3,721857,15.78,10.77,>10 - 100,Eleonore South,712,11/3/2016,Azimut Exploration Inc.,Yes,Target Outline,Surface,0.237,FALSE,-31,decrease
+Canada,AZM-TVX,Extension,0.244,ES16-57,730980,11.09,10.36,>10 - 100,Eleonore South,411,11/21/2016,Azimut Exploration Inc.,Yes,Target Outline,Surface,0.2279,FALSE,-6,decrease
+Colombia,AGD-TVX,Extension,0.0608,GYB10-095,705682,14.58,18.36,>10 - 100,Cisneros,306,10/5/2016,Antioquia Gold Inc.,Yes,Construction Started,Underground,0.0599,FALSE,-1,decrease
+Canada,ANX-TSX,Extension,0.0525,BN-16-279,719064,10.98,9.35,>10 - 100,Point Rousse,554,10/27/2016,Anaconda Mining Inc.,No,Operating,Surface,0.0447,FALSE,-14,decrease
+Guyana,SSP-TVX,Definition,0.4256,SOD058,722080,48.49,33.79,>10 - 100,Toroparu,707,11/3/2016,Sandspring Resources Limited,Yes,Feasibility Started,Surface,0.2962,FALSE,-30,decrease
+Papua New Guinea,FNT-ASX,Exploration,0.0273,EZL002,733123,1.25,0.99,<10,Bulago,647,11/23/2016,Frontier Resources Limited,Yes,Target Outline,Surface,0.021,FALSE,-23,decrease
+Australia,AQQ-ASX,Infill,0.019,APD1324,715558,13.5,11.99,>10 - 100,Aphrodite,496,10/18/2016,Aphrodite Gold Limited,No,Prefeas/Scoping,Surface,0.0169,FALSE,-11,decrease
+Canada,BFD-TVX,Extension,0.0754,BU-16-10,708079,10.22,8.59,>10 - 100,Urban,569,10/11/2016,Beaufield Resources Inc.,No,Reserves Development,Surface,0.0634,FALSE,-15,decrease
+Canada,ER-TSX,Infill,0.3641,ER16-606,738706,63.85,53.64,>10 - 100,Clearwater,571,12/1/2016,Eastmain Resources Inc.,No,Prefeas/Scoping,Surface,0.3059,FALSE,-15,decrease
+Burkina Faso,VML-ASX,Exploration,0.0162,KDD004,716606,9.6,9.54,<10,Doulnia,285,10/20/2016,Vital Metals Limited,Yes,Target Outline,Surface,0.0161,FALSE,0,same
+Burkina Faso,WAF-ASX,Extension,0.2478,TAN16-DD055,714528,118.66,116.86,>100,Sanbrado,331,10/17/2016,West African Resources Limited,Yes,Feasibility Started,Surface,0.2415,FALSE,-2,decrease
+Burkina Faso,WAF-ASX,Extension,0.2033,TAN16-DD063,728035,98.38,83.16,>10 - 100,Sanbrado,560,11/15/2016,West African Resources Limited,Yes,Feasibility Started,Surface,0.1719,FALSE,-15,decrease
+Burkina Faso,WAF-ASX,Extension,0.1709,TAN16-DD086,734331,82.71,66.95,>10 - 100,Sanbrado,615,11/28/2016,West African Resources Limited,Yes,Feasibility Started,Surface,0.1384,FALSE,-19,decrease
+Burkina Faso,WAF-ASX,Extension,0.1596,TAN16-RC261,750787,77.24,88.85,>10 - 100,Sanbrado,85,12/20/2016,West African Resources Limited,Yes,Feasibility Started,Surface,0.1836,FALSE,15,increase
+USA,TMI-TSX,Extension,0.1982,J-16-015,746894,52.3,47.38,>10 - 100,Gold Springs,592,12/14/2016,TriMetals Mining Inc.,No,Prefeas/Scoping,Surface,0.1641,FALSE,-17,decrease
+Canada,GSR-TVX,Discovery,0.1903,BC-07,704460,31.18,25.81,>10 - 100,Plateau,593,10/3/2016,Goldstrike Resources Ltd.,No,Target Outline,Surface,0.1575,FALSE,-17,decrease
+Australia,AUC-ASX,Extension,0.0247,BSRC0726,745479,8.67,7.61,<10,Katanning,510,12/13/2016,Ausgold Limited,Yes,Prefeas/Scoping,Surface,0.0217,FALSE,-12,decrease
+Australia,CYL-ASX,Metallurgical,0.4294,ACT015,719068,23.68,20.59,>10 - 100,Bendigo North,522,10/27/2016,Catalyst Metals Limited,No,Target Outline,Surface,0.3734,FALSE,-13,decrease
+Canada,GPY-TVX,Extension,0.4215,GP_01_11.21.2016,731405,32.12,33.23,>10 - 100,3 Aces,213,11/21/2016,Golden Predator Mining Corp.,Yes,Advanced Exploration,Surface,0.433,FALSE,2,increase
+Canada,BTR-TVX,Extension,0.1707,BA-16-39,729027,15.19,14.41,>10 - 100,Gladiator,381,11/16/2016,Bonterra Resources Inc.,Yes,Reserves Development,Surface,0.1618,FALSE,-5,decrease
+Canada,BTR-TVX,Extension,0.1736,BA-16-40,744933,15.46,17.39,>10 - 100,Gladiator,105,12/8/2016,Bonterra Resources Inc.,Yes,Reserves Development,Surface,0.1953,FALSE,12,increase
+Australia,HLX-ASX,Extension,0.0373,HRDD002,728809,11.52,9.23,>10 - 100,Restdown,623,11/17/2016,Helix Resources Limited,Yes,Reserves Development,Surface,0.0299,FALSE,-19,decrease
+Australia,CYL-ASX,Metallurgical,0.4294,FE663,719050,34.99,44.07,>10 - 100,Four Eagles,522,10/27/2016,Catalyst Metals Limited,No,Target Outline,Surface,0.3734,FALSE,-13,decrease
+USA,MAX-TSX,Extension,0.7026,MGI-16-412,731227,126.46,127.16,>100,Stibnite,249,11/21/2016,Midas Gold Corporation,Yes,Prefeas/Scoping,Surface,0.7064,FALSE,0,same
+USA,MAX-TSX,Extension,0.699,MGI-16-414,736507,125.83,88.73,>100,Stibnite,704,11/30/2016,Midas Gold Corporation,Yes,Prefeas/Scoping,Surface,0.4929,FALSE,-29,decrease
+Canada,IDM-TVX,Infill,0.1306,U16-1204,720128,36.94,29.57,>10 - 100,Red Mountain,627,11/1/2016,IDM Mining Ltd.,No,Feasibility Started,Underground,0.1045,FALSE,-19,decrease
+Cote d'Ivoire,PDI-ASX,Exploration,0.106,BRC010,709445,17.29,13.76,>10 - 100,Boundiali,631,10/13/2016,Predictive Discovery Limited,No,Target Outline,Surface,0.0844,FALSE,-20,decrease
+Dem. Rep. Congo,ANL-ASX,Infill,0.0561,GRRC160,720010,70.56,55.42,>10 - 100,Giro,636,10/31/2016,Amani Gold Limited,No,Target Outline,Surface,0.0441,FALSE,-21,decrease
+Mauritania,ALG-TVX,Extension,0.2578,T16RC099,720775,31.58,24.65,>10 - 100,Tijirit,637,11/2/2016,Algold Resources Limited,No,Reserves Development,Surface,0.2013,FALSE,-21,decrease
+South Korea,SAU-ASX,Exploration,0.2697,KCDD0004,719643,12.51,9.71,>10 - 100,Yeongdong,640,10/28/2016,Southern Gold Limited,No,Target Outline,Surface,0.2092,FALSE,-22,decrease
+Canada,RG-TVX,Exploration,0.0671,RGR-16-4,723513,11.23,8.67,>10 - 100,Lundmark-Akow Lake,643,11/7/2016,Romios Gold Resources Inc.,No,Target Outline,Surface,0.0518,FALSE,-22,decrease
+Brazil,TSG-TVX,Extension,0.2231,CSH-16-146,736638,28.52,21.96,>10 - 100,Castelo de Sonhos,644,11/30/2016,"TriStar Gold, Inc.",No,Reserves Development,Surface,0.1718,FALSE,-23,decrease
+Uruguay,PGD-AIMLSE,Exploration,0.0392,CHDD?004,723427,62.25,47.47,>10 - 100,Florida Belt,651,11/7/2016,Patagonia Gold Plc,No,Target Outline,Surface,0.0299,FALSE,-23,decrease
+Brazil,TSG-TVX,Extension,0.2947,CSH-16-144,721256,37.53,28.51,>10 - 100,Castelo de Sonhos,656,11/1/2016,"TriStar Gold, Inc.",No,Reserves Development,Surface,0.2239,FALSE,-24,decrease
+Australia,DRM-ASX,Infill,0.4525,HWAC698,719104,161.49,138.62,>100,Horse Well,541,10/27/2016,Doray Minerals Limited,No,Reserves Development,Surface,0.3884,FALSE,-14,decrease
+Mongolia,ERD-TSX,Extension,0.2742,BKD-49,705378,33.22,47.18,>10 - 100,Altan Nar,14,10/4/2016,Erdene Resource Development Corporation,Yes,Reserves Development,Surface,0.3894,FALSE,42,increase
+Mongolia,ERD-TSX,Extension,0.3233,BKD-57,715758,39.16,42.94,>10 - 100,Altan Nar,134,10/18/2016,Erdene Resource Development Corporation,Yes,Reserves Development,Surface,0.3544,FALSE,9,increase
+Mongolia,ERD-TSX,Extension,0.2942,BKD-74,730215,37.31,44.51,>10 - 100,Altan Nar,67,11/17/2016,Erdene Resource Development Corporation,Yes,Reserves Development,Surface,0.351,FALSE,19,increase
+Mongolia,ERD-TSX,Extension,0.2775,BKD-77,735547,35.19,44.59,>10 - 100,Altan Nar,41,11/28/2016,Erdene Resource Development Corporation,Yes,Reserves Development,Surface,0.3517,FALSE,26,increase
+Dem. Rep. Congo,ANL-ASX,Infill,0.0404,GRRC172,743807,50.79,37.9,>10 - 100,Giro,671,12/8/2016,Amani Gold Limited,No,Target Outline,Surface,0.0301,FALSE,-25,decrease
+Mongolia,ERD-TSX,Extension,0.3517,TND-101,749186,44.59,81.61,>10 - 100,Altan Nar,4,12/19/2016,Erdene Resource Development Corporation,Yes,Reserves Development,Surface,0.6435,FALSE,83,increase
+Colombia,R-TSX,Extension,0.5886,SRD-0093,741094,141.8,117.63,>100,Santa Rosa,589,12/6/2016,Red Eagle Mining Corporation,Yes,Commissioning,Surface,0.4882,FALSE,-17,decrease
+Mexico,AMM-TSX,Geotechnical,1.081,TU-16-470,736314,93.14,68.83,>10 - 100,Tuligtic,679,11/29/2016,Almaden Minerals Limited,No,Prefeas/Scoping,Surface,0.7988,FALSE,-26,decrease
+Australia,BLK-ASX,Extension,0.5713,MARC0511,719232,162.76,129.79,>100,Matilda,628,10/27/2016,Blackham Resources Limited,Yes,Operating,Surface,0.4556,FALSE,-20,decrease
+Burkina Faso,SWA-TVX,Extension,0.1185,DDH045,733620,13.21,15.33,>10 - 100,South Hounde,81,11/24/2016,Sarama Resources Limited,Yes,Reserves Development,Surface,0.1374,FALSE,15,increase
+Australia,RMS-ASX,Definition,0.3386,VVDD1031,748728,177.84,238.38,>100,Vivien,25,12/19/2016,Ramelius Resources Limited,Yes,Operating,Underground,0.4538,FALSE,34,increase
+Guyana,AQI-ASX,Exploration,0.2818,ARDD-015,705053,24.74,17.86,>10 - 100,Arakaka,689,10/4/2016,Alicanto Minerals Limited,No,Target Outline,Surface,0.2035,FALSE,-27,decrease
+Russia,KOPY-OME,Extension,0.149,141769,727336,11.9,9.95,>10 - 100,Krasny,577,11/10/2016,Kopy Goldfields AB,Yes,Prefeas/Scoping,Surface,0.1246,FALSE,-16,decrease
+Australia,SRI-ASX,Exploration,0.0153,PNA033,704182,14.24,12.01,>10 - 100,Paterson North,563,10/3/2016,Sipa Resources Limited,No,Target Outline,Surface,0.0129,FALSE,-15,decrease
+Russia,KOPY-OME,Extension,0.1067,141770,754313,8.52,10.95,<10,Krasny,34,12/21/2016,Kopy Goldfields AB,Yes,Prefeas/Scoping,Surface,0.1371,FALSE,28,increase
+Burkina Faso,SMF-TSX,Extension,3.1292,TPA0700,738927,1016.5,949.19,>100,Natougou,410,12/5/2016,SEMAFO Inc.,Yes,Preproduction,In Pit,2.922,FALSE,-6,decrease
+Canada,CSL-TVX,Exploration,0.1657,16QVRAB012,711019,9.36,7.17,<10,QV,648,10/13/2016,Comstock Metals Limited,Yes,Reserves Development,Surface,0.1269,FALSE,-23,decrease
+Canada,CSL-TVX,Extension,0.138,16QVRAB017,725121,7.8,7.16,<10,QV,442,11/8/2016,Comstock Metals Limited,Yes,Reserves Development,Surface,0.1267,FALSE,-8,decrease
+Australia,KDR-ASX,Extension,0.5052,KEGR007,766832,159.58,133.23,>100,Mt Holland - Gold,579,10/3/2016,Kidman Resources Limited,No,Prefeas/Scoping,Surface,0.4217,FALSE,-16,decrease
+USA,CTGO-US,Extension,18,TET16271,716927,73.32,71.28,>10 - 100,Tetlin,339,10/20/2016,"Contango ORE, Inc.",Yes,Reserves Development,Surface,17.5,FALSE,-2,decrease
+USA,CTGO-US,Extension,19,TET16289,730070,82.9,95.87,>10 - 100,Tetlin,147,11/17/2016,"Contango ORE, Inc.",Yes,Reserves Development,Surface,20.5,FALSE,7,increase
+Sudan,ORG-TVX,Metallurgical,0.3581,MET006DD,720049,38.46,30.44,>10 - 100,Block 14,665,11/1/2016,Orca Gold Inc.,Yes,Prefeas/Scoping,Surface,0.2687,FALSE,-24,decrease
+Canada,SOI-TVX,Extension,0.6855,CH-16-25 ext.,705292,71.05,45.8,>10 - 100,Cheechoo,727,10/4/2016,Sirios Resources Inc.,Yes,Target Outline,Surface,0.4418,FALSE,-35,decrease
+Burkina Faso,SWA-TVX,Infill,0.1867,DDH079#,722127,20.81,13.21,>10 - 100,South Hounde,730,11/3/2016,Sarama Resources Limited,No,Reserves Development,Surface,0.1185,FALSE,-36,decrease
+Australia,TYX-ASX,Extension,0.0305,GWRC016,715616,11.77,10.12,>10 - 100,Jumbuck,583,10/18/2016,Tyranna Resources Limited,No,Target Outline,Surface,0.0254,FALSE,-16,decrease
+Canada,SOI-TVX,Extension,0.3727,CH-16-81,735905,38.72,23.26,>10 - 100,Cheechoo,739,11/29/2016,Sirios Resources Inc.,Yes,Target Outline,Surface,0.224,FALSE,-39,decrease
+Australia,NTM-ASX,Infill,0.0675,GTRC394,719151,15.27,12.68,>10 - 100,Redcliffe,588,10/27/2016,NTM Gold Limited,No,Feasibility Started,Surface,0.056,FALSE,-16,decrease
+Dominican Republic,GQC-TVX,Extension,0.318,TIR-16-03,719819,68.6,42.28,>10 - 100,Tireo,736,10/31/2016,GoldQuest Mining Corporation,No,Prefeas/Scoping,Surface,0.196,FALSE,-38,decrease
+Canada,ATC-TVX,Extension,0.44,AN-16-013,723480,54.04,31.36,>10 - 100,Rackla,743,11/7/2016,ATAC Resources Ltd.,No,Prefeas/Scoping,Surface,0.2553,FALSE,-41,decrease
+USA,CGM-TVX,Extension,0.5784,DD-16-052,704581,17.96,11.64,>10 - 100,Fremont,726,10/3/2016,"California Gold Mining, Inc.",Yes,Reserves Development,Surface,0.375,FALSE,-35,decrease
+Australia,MBK-ASX,Extension,0.023,TDH072,734226,16.41,13.49,>10 - 100,Triumph,600,11/28/2016,Metal Bank Limited,No,Target Outline,Surface,0.0189,FALSE,-17,decrease
+Canada,PG-TSX,Infill,1.5603,HMP141,751236,314.11,442.16,>100,Hasaga,15,12/20/2016,Premier Gold Mines Limited,No,Target Outline,Surface,2.1946,FALSE,40,increase
+Canada,GSR-TVX,Extension,0.1423,PSGS-16-05,718196,23.32,16.03,>10 - 100,Plateau,719,10/25/2016,Goldstrike Resources Ltd.,Yes,Target Outline,Surface,0.0958,FALSE,-32,decrease
+Burkina Faso,ACA-LON,Exploration,5.0213,AM_DT1_11-30-2016,736486,2059.15,1763.81,>100,Central Hounde,547,11/30/2016,Acacia Mining plc,Yes,Exploration,Surface,4.3011,FALSE,-14,decrease
+Australia,SMD-ASX,Extension,0.0142,MRC004,743369,8.98,7.32,<10,Monument,611,12/9/2016,Syndicated Metals Limited,No,Target Outline,Surface,0.0115,FALSE,-18,decrease
+USA,CGT-TSX,Extension,0.5226,ES-126,717040,74.69,67.05,>10 - 100,Eastside,477,10/20/2016,Columbus Gold Corporation,Yes,Target Outline,Surface,0.4688,FALSE,-10,decrease
+Australia,LSR-ASX,Infill,0.0081,LNR804,737955,3.68,2.96,<10,Peak Hill-Doolgunna,621,12/1/2016,Lodestar Minerals Limited,No,Target Outline,Surface,0.0065,FALSE,-19,decrease
+Serbia,MUN-TVX,Extension,0.1419,ZELDD09,722354,7.4,6.18,<10,Timok,578,11/4/2016,Mundoro Capital Inc.,Yes,Exploration,Surface,0.1186,FALSE,-16,decrease
+Canada,AUG-TSX,Extension,1.6753,16ARR022,734164,111.67,134.22,>100,Committee Bay,62,11/25/2016,Auryn Resources Inc.,No,Reserves Development,Surface,2.0118,FALSE,20,increase
+Canada,FPC-TVX,Extension,0.823,H5-16-07D,719801,94.02,76.04,>10 - 100,Horne 5,617,10/31/2016,Falco Resources Ltd.,Yes,Feasibility Started,Surface,0.6656,FALSE,-19,decrease
+Canada,DEC-TVX,Exploration,0.0418,2016-BOW-5,716230,3.51,3.44,<10,Bow,317,10/18/2016,Decade Resources Ltd.,Yes,Target Outline,Surface,0.041,FALSE,-1,decrease
+Australia,GMD-ASX,Exploration,0.0157,16VKAC044,745631,11.61,12.27,>10 - 100,Viking,171,12/13/2016,Genesis Minerals Limited,Yes,Target Outline,Surface,0.0166,FALSE,5,increase
+Canada,CXO-TVX,Extension,0.1634,INDDH16-049,705695,12.53,13.78,>10 - 100,KSP,126,10/5/2016,Colorado Resources Ltd.,Yes,Target Outline,Surface,0.1797,FALSE,10,increase
+Australia,TNR-ASX,Extension,0.1434,SWC114,711512,13.9,12.73,>10 - 100,Mt Stirling,454,10/14/2016,Torian Resources Limited,Yes,Prefeas/Scoping,Surface,0.1305,FALSE,-8,decrease
+Turkey,ZNC-ASX,Extension,0.0804,KT-09,705572,13.89,15.84,>10 - 100,Kavaklitepe,89,10/5/2016,Zenith Minerals Limited,Yes,Target Outline,Surface,0.0916,FALSE,14,increase
+Australia,RRL-ASX,Exploration,2.5815,RRLPTRAC560,711492,1293.29,1377.22,>100,Duketon,164,10/14/2016,Regis Resources Limited,Yes,Target Outline,Surface,2.749,FALSE,6,increase
+Australia,NST-ASX,Extension,3.4041,WSXP1982,724378,2044.8,1620.58,>100,Jundee,632,11/7/2016,Northern Star Resources Limited,No,Operating,Underground,2.6979,FALSE,-20,decrease
+USA,WRR-TVX,Exploration,0.12,LC16-10,725784,7.97,5.43,<10,Sleeper-Lapon Canyon,714,11/9/2016,Walker River Resources Corp.,Yes,Target Outline,Underground,0.0818,FALSE,-31,decrease
+Mexico,GNC-TVX,Exploration,0.2666,DHEC160003,705671,9.88,8.88,<10,El Colomo,475,10/4/2016,Gainey Capital Corp.,Yes,Exploration,Surface,0.2396,FALSE,-10,decrease
+Tanzania,TRL-ASX,Exploration,0.0377,MRC004,727995,14.33,16.79,>10 - 100,Geita,80,11/15/2016,Tanga Resources Limited,Yes,Exploration,Surface,0.0441,FALSE,17,increase
+Tanzania,TRL-ASX,Exploration,0.0348,MRC013,748665,13.26,14.1,>10 - 100,Geita,208,12/20/2016,Tanga Resources Limited,Yes,Target Outline,Surface,0.036,FALSE,3,increase
+New Zealand,OGC-TSX,Extension,2.7877,UDH7543,745150,1703.35,1781.05,>100,Macraes Flat,191,12/12/2016,OceanaGold Corporation,No,Operating,Underground,2.9149,FALSE,4,increase
+Portugal,MED-TVX,Exploration,0.127,MBT008,753151,9.21,11.55,<10,Boticas,44,12/21/2016,MedGold Resources Corporation,Yes,Exploration,Surface,0.159,FALSE,25,increase
+Finland,AU-TVX,Exploration,0.2856,KU16003,745975,15.75,15.62,>10 - 100,Kutuvuoma,291,12/13/2016,Aurion Resources Limited,Yes,Exploration,Surface,0.2833,FALSE,0,same
+Canada,SSS-TVX,Exploration,0.1377,SM_CS1-11-10-2016,727086,3.62,2.93,<10,Hawkins,613,11/10/2016,Sunvest Minerals Corp.,Yes,Reserves Development,Surface,0.1115,FALSE,-19,decrease
+USA,REN-TVX,Exploration,0.303,RG_CS1_10.31.2016,719802,11.17,10.9,>10 - 100,Buffalo Canyon,326,10/31/2016,Renaissance Gold Inc.,Yes,Target Outline,Surface,0.2958,FALSE,-2,decrease
+Brazil,ALTA-TVX,Extension,0.452,CJO_094,709450,10.05,7.47,>10 - 100,Cajueiro,674,10/13/2016,Equitas Resources Corp.,Yes,Construction Planned,Surface,0.336,FALSE,-25,decrease
+Australia,S2R-ASX,Extension,0.1982,SPBD0352,744512,48.77,37.08,>10 - 100,Polar Bear,655,12/8/2016,S2 Resources Limited,No,Reserves Development,Surface,0.1507,FALSE,-23,decrease
+USA,CDE-US,Infill,10.96,K15-0445-234-X10,707187,1836.52,1871.88,>100,Kensington,252,10/10/2016,"Coeur Mining, Inc.",No,Operating,Underground,10.99,FALSE,0,same
+Canada,IGO-TVX,Exploration,0.1816,BV16-54,709143,10.08,7.26,>10 - 100,Snowcap,691,10/12/2016,Independence Gold Corp.,Yes,Exploration,Surface,0.1308,FALSE,-27,decrease
+Australia,MEU-ASX,Definition,0.0122,16AT043,717723,5.48,5.78,<10,Aurora Tank,181,10/25/2016,Marmota Limited,Yes,Target Outline,Surface,0.0128,FALSE,5,increase
+Australia,MEU-ASX,Definition,0.012,16AT043,735602,5.41,5.9,<10,Aurora Tank,138,11/29/2016,Marmota Limited,Yes,Target Outline,Surface,0.0131,FALSE,9,increase
+Australia,TYX-ASX,Extension,0.0268,GWRC038,721281,10.7,9.72,>10 - 100,Jumbuck,460,11/3/2016,Tyranna Resources Limited,Yes,Target Outline,Surface,0.0244,FALSE,-9,decrease
+Australia,TYX-ASX,Extension,0.0252,16CBRC038,725658,10.06,9.71,>10 - 100,Jumbuck,354,11/10/2016,Tyranna Resources Limited,Yes,Target Outline,Surface,0.0244,FALSE,-3,decrease
+Australia,TYX-ASX,Extension,0.0181,16GWRC063,754112,7.22,8.22,<10,Jumbuck,91,12/22/2016,Tyranna Resources Limited,Yes,Target Outline,Surface,0.0206,FALSE,13,increase
+Canada,CD-TVX,Extension,0.0641,Trench 1,708074,7.42,7.82,<10,Yukon East Block,188,10/11/2016,Cantex Mine Development Corporation,Yes,Exploration,Surface,0.0671,FALSE,4,increase
+Canada,CD-TVX,Extension,0.0525,DH (1-3),738886,6.53,4.36,<10,Yukon East Block,729,12/2/2016,Cantex Mine Development Corporation,Yes,Exploration,Surface,0.0334,FALSE,-36,decrease
+Peru,ELO-TVX,Extension,0.3125,M002023,746814,8.98,9.09,<10,La Victoria,322,12/14/2016,Eloro Resources Ltd.,Yes,Target Outline,Surface,0.3058,FALSE,-2,decrease
+Nicaragua,GRR-TVX,Exploration,0.2361,119233,716215,38.55,36.73,>10 - 100,El Jicaro,376,10/19/2016,Golden Reign Resources Ltd.,Yes,Grassroots,In Pit,0.2249,FALSE,-4,decrease
+USA,NUG-TVX,Extension,0.2045,RHB-96c,736758,59.68,50.13,>10 - 100,Red Hill,572,11/30/2016,NuLegacy Gold Corporation,Yes,Target Outline,Surface,0.1718,FALSE,-16,decrease
+Australia,GBZ-ASX,Infill,0.016,KLRD0005,717193,13.04,9.86,>10 - 100,Mt Coolon,659,10/21/2016,GBM Resources Limited,No,Prefeas/Scoping,Surface,0.0121,FALSE,-24,decrease
+USA,GORO-US,Extension,5.41,GMA-079,711051,305.97,326.39,>100,Gold Mesa,162,10/13/2016,Gold Resource Corporation,Yes,Target Outline,Surface,5.77,FALSE,6,increase
+Canada,ROT-TVX,Exploration,0.2282,SG-16-4,716289,8.45,8.29,<10,Scottie,316,10/18/2016,Rotation Minerals Ltd.,Yes,Advanced Exploration,Surface,0.2238,FALSE,-1,decrease
+Australia,EGS-ASX,Infill,0.2183,SKD008,720782,106.88,79.49,>100,Davyhurst,673,11/2/2016,Eastern Goldfields Limited,No,Feasibility Started,Surface,0.1624,FALSE,-25,decrease
+Canada,GG-US,Extension,13.49,RLG-16-34,738983,11515.87,10756.12,>100,Rowan Lake,409,12/6/2016,Goldcorp Incorporated,No,Reserves Development,Surface,12.6,FALSE,-6,decrease
+Australia,NML-ASX,Exploration,0.034,IAC018,736645,5.68,5.67,<10,Stawell Corridor,365,12/1/2016,Navarre Minerals Limited,Yes,Target Outline,Surface,0.0326,FALSE,-4,decrease
+Australia,NML-ASX,Extension,0.0474,IAC040,746951,8.22,7.09,<10,Stawell Corridor,538,12/15/2016,Navarre Minerals Limited,Yes,Target Outline,Surface,0.0408,FALSE,-13,decrease
+Australia,MCR-ASX,Infill,0.2105,MRC456,736600,39.61,29.32,>10 - 100,Widgiemooltha,676,12/1/2016,Mincor Resources NL,No,Feasibility Started,Surface,0.1558,FALSE,-25,decrease
+Tanzania,TRL-ASX,Extension,0.0555,WDH 014,718080,21.13,14.33,>10 - 100,Singida,718,10/25/2016,Tanga Resources Limited,Yes,Exploration,Surface,0.0377,FALSE,-32,decrease
+Tanzania,TRL-ASX,Extension,0.0368,WDH 006,747860,14.01,14.34,>10 - 100,Singida,277,12/16/2016,Tanga Resources Limited,Yes,Target Outline,Surface,0.0367,FALSE,0,same
+Canada,TWR-TVX,Exploration,0.1208,RN008,744723,7.91,7.49,<10,Rabbit North Regional,385,12/8/2016,Tower Resources Limited,Yes,Target Outline,Surface,0.1142,FALSE,-5,decrease
+Canada,OSK-TSX,Extension,1.7346,OBM?16?669,735701,271.08,262.89,>100,Windfall Lake,441,11/25/2016,Osisko Mining Inc.,No,Prefeas/Scoping,Surface,1.593,FALSE,-8,decrease
+Canada,AGB-TVX,Infill,0.6565,CH-16-057,741459,113.79,102.58,>100,Cochrane Hill,469,12/6/2016,Atlantic Gold Corporation,No,Feasibility Started,In Pit,0.5918,FALSE,-9,decrease
+Cote d'Ivoire,AOP-ASX,Extension,0.0896,BDRC011,736371,14.32,12.21,>10 - 100,Boundiali,556,11/30/2016,Apollo Consolidated Limited,Yes,Target Outline,Surface,0.076,FALSE,-15,decrease
+Australia,MNM-ASX,Extension,0.0084,L4001,719271,9.66,6.85,<10,Morning Star,699,10/27/2016,Mantle Mining Corporation Limited,No,Limited Production,Underground,0.006,FALSE,-29,decrease
+USA,GSV-TVX,Extension,2.559,DS16-10,716581,533.29,504.38,>100,Railroad-Pinion,493,10/20/2016,Gold Standard Ventures Corporation,No,Reserves Development,Surface,2.2771,FALSE,-11,decrease
+Canada,GG-US,Metallurgical,15.59,CFD0618,719376,13308.56,11814.65,>100,Coffee,498,10/26/2016,Goldcorp Incorporated,No,Feasibility Complete,Surface,13.84,FALSE,-11,decrease
+Australia,GMD-ASX,Extension,0.0237,16USRC064,704241,15.12,13.56,>10 - 100,Ulysses,478,10/3/2016,Genesis Minerals Limited,Yes,Prefeas/Scoping,In Pit,0.0213,FALSE,-10,decrease
+Canada,BGM-TVX,Exploration,0.5027,G000988,705589,152.24,133.82,>100,Cariboo,507,10/4/2016,Barkerville Gold Mines Ltd.,No,Prefeas/Scoping,Surface,0.4418,FALSE,-12,decrease
+Australia,BRB-ASX,Extension,0.2839,BBRC0111,730397,37.16,37.1,>10 - 100,Lake Roe,278,11/18/2016,Breaker Resources NL,Yes,Target Outline,Surface,0.2834,FALSE,0,same
+Australia,BRB-ASX,Extension,0.2185,BBRC0111,748410,28.86,47.7,>10 - 100,Lake Roe,6,12/19/2016,Breaker Resources NL,Yes,Target Outline,Surface,0.366,FALSE,67,increase
+Australia,NST-ASX,Extension,3.1276,PDDD16075,730872,1878.69,1553.07,>100,Paradigm,597,11/14/2016,Northern Star Resources Limited,Yes,Exploration,Surface,2.5855,FALSE,-17,decrease
+Australia,BRB-ASX,Infill,0.4178,BBRD0056,719580,54.73,37.16,>10 - 100,Lake Roe,717,10/28/2016,Breaker Resources NL,No,Target Outline,Surface,0.2839,FALSE,-32,decrease
+Australia,AQQ-ASX,Metallurgical,0.015,APDM0004,735804,10.61,6.69,>10 - 100,Aphrodite,732,11/29/2016,Aphrodite Gold Limited,No,Prefeas/Scoping,Surface,0.0094,FALSE,-37,decrease
+Australia,EGS-ASX,Infill,0.2814,MDD001,717737,137.75,84.78,>100,Davyhurst,737,10/25/2016,Eastern Goldfields Limited,No,Feasibility Started,In Pit,0.1732,FALSE,-38,decrease
+Ghana,TBR-ASX,Extension,5.281,JRC381,728654,264.07,208.81,>100,Japa,634,11/16/2016,Tribune Resources Limited,No,Reserves Development,Surface,4.176,FALSE,-20,decrease
+Australia,SMD-ASX,Exploration,0.0201,MRC003,734245,12.72,7.85,>10 - 100,Monument,735,11/28/2016,Syndicated Metals Limited,Yes,Target Outline,Surface,0.0124,FALSE,-38,decrease
+Australia,BRB-ASX,Infill,0.4425,BBRC0076,716302,57.65,35.16,>10 - 100,Lake Roe,738,10/20/2016,Breaker Resources NL,No,Target Outline,Surface,0.2678,FALSE,-39,decrease
+Australia,BMT-ASX,Exploration,0.1238,CHD004,748099,2.38,2.25,<10,Cairn Hill,384,12/19/2016,Berkut Minerals Limited,Yes,Target Outline,Surface,0.1171,FALSE,-5,decrease
+Australia,ARS-ASX,Exploration,0.083,MRRC0003,728695,5.11,4.59,<10,Mt Roberts-Cottee,552,11/16/2016,Alt Resources Limited,Yes,Target Outline,Surface,0.0708,FALSE,-14,decrease
+Australia,GBR-ASX,Extension,0.1342,BGP0083,744534,5.06,3.4,<10,Balagundi,720,12/9/2016,Great Boulder Resources Limited,Yes,Target Outline,Surface,0.0902,FALSE,-32,decrease
+Canada,ER-TSX,Infill,0.6,ER16-584,717556,105.22,75.21,>100,Clearwater,696,10/24/2016,Eastmain Resources Inc.,No,Prefeas/Scoping,Surface,0.4289,FALSE,-28,decrease
+Mexico,PG-TSX,Exploration,2.5165,CRD15-53,727711,505.8,364.56,>100,Alto-Cristina,692,10/26/2016,Premier Gold Mines Limited,Yes,Target Outline,Surface,1.8109,FALSE,-28,decrease
+Australia,MOX-ASX,Exploration,0.0094,ZZRC1605,750966,4.32,3.36,<10,Percyville,638,12/20/2016,Monax Mining Limited,Yes,Target Outline,Surface,0.0073,FALSE,-22,decrease
